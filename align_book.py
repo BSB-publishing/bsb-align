@@ -239,74 +239,61 @@ def find_audio(audio_dir: Path, book: str, chapter: int,
 
 # ─── Main ──────────────────────────────────────────────────────────────────
 
-def main():
-    parser = argparse.ArgumentParser(
-        description="Word-align a single BSB book against per-chapter audio.",
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-    )
-    parser.add_argument("--book", required=True,
-                        help="3-letter BSB book code (e.g. JON, GEN, JHN)")
-    parser.add_argument("--audio-dir", required=True, type=Path,
-                        help="Directory containing per-chapter .mp3 files")
-    parser.add_argument("--text-dir", type=Path, default=DEFAULT_TEXT_DIR,
-                        help=f"BSB text directory (default: {DEFAULT_TEXT_DIR})")
-    parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR,
-                        help=f"Output directory (default: {DEFAULT_OUTPUT_DIR})")
-    parser.add_argument("--chapter", type=int, default=None,
-                        help="Optional single chapter to process")
-    parser.add_argument("--audio-glob", type=str, default=None,
-                        help="Custom glob pattern with {book}/{book_lc}/{ch}/{ch2}/{ch3} placeholders")
-    parser.add_argument("--force", action="store_true",
-                        help="Overwrite existing output files")
-    parser.add_argument("--dry-run", action="store_true",
-                        help="List matched audio/text pairs and exit")
-    args = parser.parse_args()
+def discover_books(text_dir: Path) -> List[str]:
+    """Return sorted list of unique book codes found in text_dir."""
+    books = set()
+    for p in text_dir.glob("*_BSB.txt"):
+        book = p.stem.split("_")[0]
+        books.add(book)
+    return sorted(books)
 
-    book = args.book.upper()
 
-    text_paths = sorted(args.text_dir.glob(f"{book}_*_BSB.txt"))
+def process_book(book: str, text_dir: Path, audio_dir: Path, output_dir: Path,
+                 chapter: Optional[int], audio_glob: Optional[str],
+                 force: bool, dry_run: bool,
+                 bundle, model, tokenizer, aligner, uroman, device) -> Tuple[int, int]:
+    """Align all chapters for a single book. Returns (aligned, failed)."""
+    text_paths = sorted(text_dir.glob(f"{book}_*_BSB.txt"))
     if not text_paths:
-        log(f"No text files for book {book} in {args.text_dir}")
-        return
+        log(f"No text files for book {book} in {text_dir}")
+        return 0, 0
 
-    if args.chapter is not None:
+    if chapter is not None:
         text_paths = [p for p in text_paths
-                      if int(p.stem.split("_")[1]) == args.chapter]
+                      if int(p.stem.split("_")[1]) == chapter]
         if not text_paths:
-            log(f"Chapter {args.chapter} not found for {book}")
-            return
+            log(f"Chapter {chapter} not found for {book}")
+            return 0, 0
 
-    out_book_dir = args.output_dir / book
+    out_book_dir = output_dir / book
 
     work = []
     for tp in text_paths:
-        chapter = int(tp.stem.split("_")[1])
-        out = out_book_dir / f"{book}_{chapter:03d}_words.json"
-        if out.exists() and not args.force:
-            log(f"  skip {book} {chapter:03d} (output exists; use --force)")
+        ch = int(tp.stem.split("_")[1])
+        out = out_book_dir / f"{book}_{ch:03d}_words.json"
+        if out.exists() and not force:
+            log(f"  skip {book} {ch:03d} (output exists; use --force)")
             continue
-        audio = find_audio(args.audio_dir, book, chapter, args.audio_glob)
+        audio = find_audio(audio_dir, book, ch, audio_glob)
         if audio is None:
-            log(f"  WARN no audio for {book} {chapter:03d}")
+            log(f"  WARN no audio for {book} {ch:03d}")
             continue
-        work.append((tp, audio, chapter, out))
+        work.append((tp, audio, ch, out))
 
     if not work:
         log("Nothing to do")
-        return
+        return 0, 0
 
     log(f"{len(work)} chapter(s) to align for {book}")
-    if args.dry_run:
-        for tp, audio, chapter, out in work:
-            log(f"  {book} {chapter:03d}: {audio.name} -> {out}")
-        return
-
-    bundle, model, tokenizer, aligner, uroman, device = load_mms()
+    if dry_run:
+        for tp, audio, ch, out in work:
+            log(f"  {book} {ch:03d}: {audio.name} -> {out}")
+        return 0, 0
 
     aligned = 0
     failed = 0
-    for tp, audio, chapter, out in work:
-        chapter_str = f"{chapter:03d}"
+    for tp, audio, ch, out in work:
+        chapter_str = f"{ch:03d}"
         log(f"Aligning {book} {chapter_str} ← {audio.name}")
         try:
             cleaned_verses, full_text = read_chapter_text(tp)
@@ -336,7 +323,60 @@ def main():
             log(f"  FAILED: {e}")
             failed += 1
 
-    log(f"Done: {aligned} aligned, {failed} failed")
+    return aligned, failed
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Word-align BSB books against per-chapter audio.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument("--book", default=None,
+                        help="3-letter BSB book code (e.g. JON, GEN, JHN)")
+    parser.add_argument("--all", action="store_true",
+                        help="Process every book found in --text-dir")
+    parser.add_argument("--audio-dir", required=True, type=Path,
+                        help="Directory containing per-chapter .mp3 files")
+    parser.add_argument("--text-dir", type=Path, default=DEFAULT_TEXT_DIR,
+                        help=f"BSB text directory (default: {DEFAULT_TEXT_DIR})")
+    parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR,
+                        help=f"Output directory (default: {DEFAULT_OUTPUT_DIR})")
+    parser.add_argument("--chapter", type=int, default=None,
+                        help="Optional single chapter to process")
+    parser.add_argument("--audio-glob", type=str, default=None,
+                        help="Custom glob pattern with {book}/{book_lc}/{ch}/{ch2}/{ch3} placeholders")
+    parser.add_argument("--force", action="store_true",
+                        help="Overwrite existing output files")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="List matched audio/text pairs and exit")
+    args = parser.parse_args()
+
+    if not args.book and not args.all:
+        parser.error("Either --book or --all is required")
+
+    if args.book and args.all:
+        parser.error("Cannot use both --book and --all")
+
+    if args.all:
+        books = discover_books(args.text_dir)
+        log(f"Discovered {len(books)} book(s) in {args.text_dir}")
+    else:
+        books = [args.book.upper()]
+
+    bundle, model, tokenizer, aligner, uroman, device = load_mms()
+
+    total_aligned = 0
+    total_failed = 0
+    for book in books:
+        aligned, failed = process_book(
+            book, args.text_dir, args.audio_dir, args.output_dir,
+            args.chapter, args.audio_glob, args.force, args.dry_run,
+            bundle, model, tokenizer, aligner, uroman, device,
+        )
+        total_aligned += aligned
+        total_failed += failed
+
+    log(f"All done: {total_aligned} aligned, {total_failed} failed")
 
 
 if __name__ == "__main__":
