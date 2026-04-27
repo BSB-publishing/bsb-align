@@ -88,18 +88,19 @@ def read_chapter_text(text_path: Path) -> Tuple[List[str], str]:
 
 def load_mms():
     bundle = torchaudio.pipelines.MMS_FA
-    log("Loading MMS_FA model on CPU…")
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    log(f"Loading MMS_FA model on {device.type.upper()}…")
     t0 = time.time()
-    model = bundle.get_model()
+    model = bundle.get_model().to(device)
     model.eval()
     tokenizer = bundle.get_tokenizer()
     aligner = bundle.get_aligner()
     uroman = Uroman()
     log(f"Model loaded in {time.time() - t0:.1f}s")
-    return bundle, model, tokenizer, aligner, uroman
+    return bundle, model, tokenizer, aligner, uroman, device
 
 
-def load_audio(audio_path: Path, bundle):
+def load_audio(audio_path: Path, bundle, device):
     waveform, sample_rate = torchaudio.load(str(audio_path))
     if waveform.shape[0] > 1:
         waveform = waveform.mean(dim=0, keepdim=True)
@@ -107,7 +108,7 @@ def load_audio(audio_path: Path, bundle):
         waveform = torchaudio.functional.resample(
             waveform, sample_rate, bundle.sample_rate,
         )
-    return waveform
+    return waveform.to(device)
 
 
 def compute_emission(waveform, model):
@@ -141,9 +142,9 @@ def compute_emission(waveform, model):
 
 
 def align_words(audio_path: Path, full_text: str,
-                bundle, model, tokenizer, aligner, uroman: Uroman) -> List[dict]:
+                bundle, model, tokenizer, aligner, uroman: Uroman, device) -> List[dict]:
     """Run MMS forced alignment over a whole chapter's audio + text."""
-    waveform = load_audio(audio_path, bundle)
+    waveform = load_audio(audio_path, bundle, device)
 
     orig_words = full_text.split()
     rom_words = uroman.romanize_string(full_text).split()
@@ -194,6 +195,10 @@ def map_to_verses(words: List[dict], cleaned_verses: List[str],
 
 # ─── Audio file lookup ────────────────────────────────────────────────────
 
+book_alias = {
+    "tit": "Tts",
+}
+
 def find_audio(audio_dir: Path, book: str, chapter: int,
                glob_template: Optional[str]) -> Optional[Path]:
     """Find an audio file for a book/chapter inside audio_dir.
@@ -203,6 +208,7 @@ def find_audio(audio_dir: Path, book: str, chapter: int,
     """
     candidates: List[Path] = []
     book_lc = book.lower()
+    book_title = book.title()
     ch2 = f"{chapter:02d}"
     ch3 = f"{chapter:03d}"
 
@@ -215,7 +221,15 @@ def find_audio(audio_dir: Path, book: str, chapter: int,
         f"*{book}*{ch2}*.mp3",
         f"*{book_lc}*{ch3}*.mp3",
         f"*{book_lc}*{ch2}*.mp3",
+        f"*{book_title}*{ch3}*.mp3",
+        f"*{book_title}*{ch2}*.mp3",
     ]
+    if book_lc in book_alias:
+        patterns += [
+            f"*{book_alias[book_lc]}*{ch3}*.mp3",
+            f"*{book_alias[book_lc]}*{ch2}*.mp3",
+        ]
+
     for pat in patterns:
         candidates = sorted(audio_dir.glob(pat))
         if candidates:
@@ -287,7 +301,7 @@ def main():
             log(f"  {book} {chapter:03d}: {audio.name} -> {out}")
         return
 
-    bundle, model, tokenizer, aligner, uroman = load_mms()
+    bundle, model, tokenizer, aligner, uroman, device = load_mms()
 
     aligned = 0
     failed = 0
@@ -302,7 +316,7 @@ def main():
                 continue
             t0 = time.time()
             words = align_words(audio, full_text,
-                                bundle, model, tokenizer, aligner, uroman)
+                                bundle, model, tokenizer, aligner, uroman, device)
             elapsed = time.time() - t0
 
             payload = map_to_verses(words, cleaned_verses, book, chapter_str)
