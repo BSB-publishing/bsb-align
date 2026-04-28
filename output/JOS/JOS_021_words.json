@@ -1,0 +1,4524 @@
+{
+  "book": "JOS",
+  "chapter": "021",
+  "verses": {
+    "1": [
+      {
+        "text": "Now",
+        "start": 4.56,
+        "end": 4.66,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 4.72,
+        "end": 4.8,
+        "score": 0.998
+      },
+      {
+        "text": "family",
+        "start": 4.86,
+        "end": 5.24,
+        "score": 0.995
+      },
+      {
+        "text": "heads",
+        "start": 5.32,
+        "end": 5.7,
+        "score": 0.963
+      },
+      {
+        "text": "of",
+        "start": 5.76,
+        "end": 5.82,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 5.86,
+        "end": 5.94,
+        "score": 0.995
+      },
+      {
+        "text": "Levites",
+        "start": 6.04,
+        "end": 6.52,
+        "score": 0.927
+      },
+      {
+        "text": "approached",
+        "start": 6.74,
+        "end": 7.22,
+        "score": 0.991
+      },
+      {
+        "text": "Eleazar",
+        "start": 7.42,
+        "end": 7.92,
+        "score": 0.657
+      },
+      {
+        "text": "the",
+        "start": 8.0,
+        "end": 8.1,
+        "score": 0.902
+      },
+      {
+        "text": "priest",
+        "start": 8.16,
+        "end": 8.6,
+        "score": 0.999
+      },
+      {
+        "text": "Joshua",
+        "start": 9.14,
+        "end": 9.52,
+        "score": 0.66
+      },
+      {
+        "text": "son",
+        "start": 9.74,
+        "end": 9.92,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 9.96,
+        "end": 10.04,
+        "score": 0.998
+      },
+      {
+        "text": "Nun",
+        "start": 10.22,
+        "end": 10.38,
+        "score": 0.51
+      },
+      {
+        "text": "and",
+        "start": 10.9,
+        "end": 11.0,
+        "score": 0.969
+      },
+      {
+        "text": "the",
+        "start": 11.04,
+        "end": 11.12,
+        "score": 0.998
+      },
+      {
+        "text": "heads",
+        "start": 11.18,
+        "end": 11.48,
+        "score": 0.972
+      },
+      {
+        "text": "of",
+        "start": 11.62,
+        "end": 11.7,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 11.74,
+        "end": 11.82,
+        "score": 0.997
+      },
+      {
+        "text": "other",
+        "start": 11.96,
+        "end": 12.14,
+        "score": 0.997
+      },
+      {
+        "text": "tribes",
+        "start": 12.22,
+        "end": 12.6,
+        "score": 0.977
+      },
+      {
+        "text": "of",
+        "start": 12.64,
+        "end": 12.72,
+        "score": 0.999
+      },
+      {
+        "text": "Israel",
+        "start": 12.94,
+        "end": 13.28,
+        "score": 0.962
+      }
+    ],
+    "2": [
+      {
+        "text": "at",
+        "start": 13.68,
+        "end": 13.8,
+        "score": 0.998
+      },
+      {
+        "text": "Shiloh",
+        "start": 13.92,
+        "end": 14.36,
+        "score": 0.743
+      },
+      {
+        "text": "in",
+        "start": 14.68,
+        "end": 14.74,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 14.78,
+        "end": 14.86,
+        "score": 0.965
+      },
+      {
+        "text": "land",
+        "start": 14.92,
+        "end": 15.16,
+        "score": 0.996
+      },
+      {
+        "text": "of",
+        "start": 15.22,
+        "end": 15.3,
+        "score": 0.998
+      },
+      {
+        "text": "Canaan",
+        "start": 15.46,
+        "end": 15.74,
+        "score": 0.599
+      },
+      {
+        "text": "and",
+        "start": 16.24,
+        "end": 16.36,
+        "score": 0.998
+      },
+      {
+        "text": "said",
+        "start": 16.42,
+        "end": 16.6,
+        "score": 0.983
+      },
+      {
+        "text": "to",
+        "start": 16.64,
+        "end": 16.72,
+        "score": 0.998
+      },
+      {
+        "text": "them",
+        "start": 16.76,
+        "end": 16.98,
+        "score": 0.998
+      },
+      {
+        "text": "The",
+        "start": 17.58,
+        "end": 17.64,
+        "score": 0.993
+      },
+      {
+        "text": "LORD",
+        "start": 17.64,
+        "end": 18.02,
+        "score": 1.0
+      },
+      {
+        "text": "commanded",
+        "start": 18.02,
+        "end": 18.52,
+        "score": 0.998
+      },
+      {
+        "text": "through",
+        "start": 18.6,
+        "end": 18.88,
+        "score": 0.941
+      },
+      {
+        "text": "Moses",
+        "start": 18.98,
+        "end": 19.36,
+        "score": 0.999
+      },
+      {
+        "text": "that",
+        "start": 19.7,
+        "end": 19.86,
+        "score": 0.999
+      },
+      {
+        "text": "we",
+        "start": 19.94,
+        "end": 20.06,
+        "score": 0.888
+      },
+      {
+        "text": "be",
+        "start": 20.14,
+        "end": 20.22,
+        "score": 0.999
+      },
+      {
+        "text": "given",
+        "start": 20.32,
+        "end": 20.58,
+        "score": 0.999
+      },
+      {
+        "text": "cities",
+        "start": 20.76,
+        "end": 21.18,
+        "score": 0.999
+      },
+      {
+        "text": "in",
+        "start": 21.26,
+        "end": 21.34,
+        "score": 0.999
+      },
+      {
+        "text": "which",
+        "start": 21.4,
+        "end": 21.6,
+        "score": 0.983
+      },
+      {
+        "text": "to",
+        "start": 21.66,
+        "end": 21.74,
+        "score": 0.998
+      },
+      {
+        "text": "live",
+        "start": 21.82,
+        "end": 22.18,
+        "score": 0.969
+      },
+      {
+        "text": "together",
+        "start": 22.52,
+        "end": 22.92,
+        "score": 0.963
+      },
+      {
+        "text": "with",
+        "start": 23.0,
+        "end": 23.18,
+        "score": 0.995
+      },
+      {
+        "text": "pasturelands",
+        "start": 23.24,
+        "end": 24.06,
+        "score": 0.875
+      },
+      {
+        "text": "for",
+        "start": 24.14,
+        "end": 24.28,
+        "score": 0.996
+      },
+      {
+        "text": "our",
+        "start": 24.36,
+        "end": 24.52,
+        "score": 0.999
+      },
+      {
+        "text": "livestock",
+        "start": 24.58,
+        "end": 25.22,
+        "score": 0.975
+      }
+    ],
+    "3": [
+      {
+        "text": "So",
+        "start": 26.24,
+        "end": 26.26,
+        "score": 1.0
+      },
+      {
+        "text": "by",
+        "start": 26.4,
+        "end": 26.54,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 26.58,
+        "end": 26.68,
+        "score": 0.948
+      },
+      {
+        "text": "command",
+        "start": 26.72,
+        "end": 27.16,
+        "score": 0.99
+      },
+      {
+        "text": "of",
+        "start": 27.32,
+        "end": 27.4,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 27.44,
+        "end": 27.52,
+        "score": 0.995
+      },
+      {
+        "text": "LORD",
+        "start": 27.52,
+        "end": 28.24,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 28.24,
+        "end": 28.34,
+        "score": 0.998
+      },
+      {
+        "text": "Israelites",
+        "start": 28.56,
+        "end": 29.16,
+        "score": 0.993
+      },
+      {
+        "text": "gave",
+        "start": 29.24,
+        "end": 29.5,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 29.52,
+        "end": 29.6,
+        "score": 0.995
+      },
+      {
+        "text": "Levites",
+        "start": 29.74,
+        "end": 30.18,
+        "score": 0.874
+      },
+      {
+        "text": "these",
+        "start": 30.26,
+        "end": 30.56,
+        "score": 0.934
+      },
+      {
+        "text": "cities",
+        "start": 30.6,
+        "end": 31.0,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 31.34,
+        "end": 31.46,
+        "score": 0.979
+      },
+      {
+        "text": "their",
+        "start": 31.48,
+        "end": 31.62,
+        "score": 0.93
+      },
+      {
+        "text": "pasturelands",
+        "start": 31.7,
+        "end": 32.6,
+        "score": 0.887
+      },
+      {
+        "text": "out",
+        "start": 32.94,
+        "end": 33.08,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 33.12,
+        "end": 33.2,
+        "score": 0.998
+      },
+      {
+        "text": "their",
+        "start": 33.22,
+        "end": 33.4,
+        "score": 0.991
+      },
+      {
+        "text": "own",
+        "start": 33.54,
+        "end": 33.72,
+        "score": 0.998
+      },
+      {
+        "text": "inheritance",
+        "start": 33.78,
+        "end": 34.58,
+        "score": 0.924
+      }
+    ],
+    "4": [
+      {
+        "text": "The",
+        "start": 35.42,
+        "end": 35.5,
+        "score": 0.993
+      },
+      {
+        "text": "first",
+        "start": 35.58,
+        "end": 35.88,
+        "score": 0.984
+      },
+      {
+        "text": "lot",
+        "start": 35.96,
+        "end": 36.22,
+        "score": 0.999
+      },
+      {
+        "text": "came",
+        "start": 36.34,
+        "end": 36.6,
+        "score": 0.998
+      },
+      {
+        "text": "out",
+        "start": 36.64,
+        "end": 36.8,
+        "score": 1.0
+      },
+      {
+        "text": "for",
+        "start": 36.86,
+        "end": 36.98,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 37.02,
+        "end": 37.1,
+        "score": 0.997
+      },
+      {
+        "text": "Kohathite",
+        "start": 37.26,
+        "end": 37.8,
+        "score": 0.926
+      },
+      {
+        "text": "clans",
+        "start": 37.84,
+        "end": 38.38,
+        "score": 0.98
+      },
+      {
+        "text": "The",
+        "start": 38.92,
+        "end": 39.0,
+        "score": 0.906
+      },
+      {
+        "text": "Levites",
+        "start": 39.12,
+        "end": 39.56,
+        "score": 0.954
+      },
+      {
+        "text": "who",
+        "start": 39.6,
+        "end": 39.7,
+        "score": 0.979
+      },
+      {
+        "text": "were",
+        "start": 39.76,
+        "end": 39.92,
+        "score": 0.996
+      },
+      {
+        "text": "descendants",
+        "start": 39.96,
+        "end": 40.56,
+        "score": 0.969
+      },
+      {
+        "text": "of",
+        "start": 40.6,
+        "end": 40.68,
+        "score": 0.998
+      },
+      {
+        "text": "Aaron",
+        "start": 40.82,
+        "end": 41.08,
+        "score": 0.805
+      },
+      {
+        "text": "the",
+        "start": 41.12,
+        "end": 41.2,
+        "score": 0.989
+      },
+      {
+        "text": "priest",
+        "start": 41.26,
+        "end": 41.66,
+        "score": 0.999
+      },
+      {
+        "text": "received",
+        "start": 42.0,
+        "end": 42.5,
+        "score": 0.998
+      },
+      {
+        "text": "thirteen",
+        "start": 42.62,
+        "end": 43.16,
+        "score": 0.92
+      },
+      {
+        "text": "cities",
+        "start": 43.28,
+        "end": 43.68,
+        "score": 0.997
+      },
+      {
+        "text": "by",
+        "start": 43.76,
+        "end": 43.96,
+        "score": 0.922
+      },
+      {
+        "text": "lot",
+        "start": 44.06,
+        "end": 44.34,
+        "score": 0.924
+      },
+      {
+        "text": "from",
+        "start": 44.74,
+        "end": 44.9,
+        "score": 0.945
+      },
+      {
+        "text": "the",
+        "start": 44.94,
+        "end": 45.02,
+        "score": 0.95
+      },
+      {
+        "text": "tribes",
+        "start": 45.06,
+        "end": 45.48,
+        "score": 0.997
+      },
+      {
+        "text": "of",
+        "start": 45.62,
+        "end": 45.72,
+        "score": 0.999
+      },
+      {
+        "text": "Judah",
+        "start": 45.96,
+        "end": 46.24,
+        "score": 0.971
+      },
+      {
+        "text": "Simeon",
+        "start": 46.62,
+        "end": 46.98,
+        "score": 0.888
+      },
+      {
+        "text": "and",
+        "start": 47.22,
+        "end": 47.34,
+        "score": 0.995
+      },
+      {
+        "text": "Benjamin",
+        "start": 47.46,
+        "end": 47.84,
+        "score": 0.909
+      }
+    ],
+    "5": [
+      {
+        "text": "The",
+        "start": 48.72,
+        "end": 48.8,
+        "score": 0.931
+      },
+      {
+        "text": "remaining",
+        "start": 48.84,
+        "end": 49.28,
+        "score": 0.995
+      },
+      {
+        "text": "descendants",
+        "start": 49.32,
+        "end": 49.86,
+        "score": 0.976
+      },
+      {
+        "text": "of",
+        "start": 49.92,
+        "end": 49.98,
+        "score": 0.997
+      },
+      {
+        "text": "Kohath",
+        "start": 50.14,
+        "end": 50.56,
+        "score": 0.97
+      },
+      {
+        "text": "received",
+        "start": 50.9,
+        "end": 51.38,
+        "score": 0.962
+      },
+      {
+        "text": "ten",
+        "start": 51.5,
+        "end": 51.72,
+        "score": 0.796
+      },
+      {
+        "text": "cities",
+        "start": 51.86,
+        "end": 52.22,
+        "score": 0.998
+      },
+      {
+        "text": "by",
+        "start": 52.32,
+        "end": 52.48,
+        "score": 0.998
+      },
+      {
+        "text": "lot",
+        "start": 52.56,
+        "end": 52.82,
+        "score": 0.863
+      },
+      {
+        "text": "from",
+        "start": 53.16,
+        "end": 53.3,
+        "score": 0.991
+      },
+      {
+        "text": "the",
+        "start": 53.34,
+        "end": 53.44,
+        "score": 0.978
+      },
+      {
+        "text": "tribes",
+        "start": 53.48,
+        "end": 53.94,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 54.08,
+        "end": 54.18,
+        "score": 0.998
+      },
+      {
+        "text": "Ephraim",
+        "start": 54.48,
+        "end": 54.82,
+        "score": 0.563
+      },
+      {
+        "text": "Dan",
+        "start": 55.2,
+        "end": 55.42,
+        "score": 0.984
+      },
+      {
+        "text": "and",
+        "start": 55.88,
+        "end": 56.0,
+        "score": 0.993
+      },
+      {
+        "text": "the",
+        "start": 56.04,
+        "end": 56.14,
+        "score": 0.994
+      },
+      {
+        "text": "half",
+        "start": 56.2,
+        "end": 56.42,
+        "score": 0.984
+      },
+      {
+        "text": "tribe",
+        "start": 56.52,
+        "end": 56.94,
+        "score": 0.983
+      },
+      {
+        "text": "of",
+        "start": 57.04,
+        "end": 57.12,
+        "score": 0.986
+      },
+      {
+        "text": "Manasseh",
+        "start": 57.24,
+        "end": 57.74,
+        "score": 0.549
+      }
+    ],
+    "6": [
+      {
+        "text": "The",
+        "start": 58.78,
+        "end": 58.84,
+        "score": 0.91
+      },
+      {
+        "text": "descendants",
+        "start": 58.88,
+        "end": 59.42,
+        "score": 0.98
+      },
+      {
+        "text": "of",
+        "start": 59.48,
+        "end": 59.56,
+        "score": 0.998
+      },
+      {
+        "text": "Gershon",
+        "start": 59.7,
+        "end": 60.08,
+        "score": 0.744
+      },
+      {
+        "text": "received",
+        "start": 60.5,
+        "end": 61.0,
+        "score": 0.997
+      },
+      {
+        "text": "thirteen",
+        "start": 61.1,
+        "end": 61.6,
+        "score": 0.926
+      },
+      {
+        "text": "cities",
+        "start": 61.72,
+        "end": 62.08,
+        "score": 0.998
+      },
+      {
+        "text": "by",
+        "start": 62.18,
+        "end": 62.36,
+        "score": 0.999
+      },
+      {
+        "text": "lot",
+        "start": 62.46,
+        "end": 62.72,
+        "score": 0.943
+      },
+      {
+        "text": "from",
+        "start": 63.12,
+        "end": 63.26,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 63.3,
+        "end": 63.38,
+        "score": 0.941
+      },
+      {
+        "text": "tribes",
+        "start": 63.42,
+        "end": 63.82,
+        "score": 0.983
+      },
+      {
+        "text": "of",
+        "start": 63.88,
+        "end": 63.96,
+        "score": 0.998
+      },
+      {
+        "text": "Issachar",
+        "start": 64.16,
+        "end": 64.64,
+        "score": 0.64
+      },
+      {
+        "text": "Asher",
+        "start": 65.24,
+        "end": 65.44,
+        "score": 0.694
+      },
+      {
+        "text": "Naphtali",
+        "start": 65.94,
+        "end": 66.56,
+        "score": 0.74
+      },
+      {
+        "text": "and",
+        "start": 67.0,
+        "end": 67.12,
+        "score": 0.965
+      },
+      {
+        "text": "the",
+        "start": 67.14,
+        "end": 67.24,
+        "score": 0.972
+      },
+      {
+        "text": "half",
+        "start": 67.3,
+        "end": 67.5,
+        "score": 0.923
+      },
+      {
+        "text": "tribe",
+        "start": 67.58,
+        "end": 67.9,
+        "score": 0.995
+      },
+      {
+        "text": "of",
+        "start": 67.94,
+        "end": 68.02,
+        "score": 0.996
+      },
+      {
+        "text": "Manasseh",
+        "start": 68.14,
+        "end": 68.64,
+        "score": 0.553
+      },
+      {
+        "text": "in",
+        "start": 68.88,
+        "end": 68.96,
+        "score": 0.997
+      },
+      {
+        "text": "Bashan",
+        "start": 69.12,
+        "end": 69.44,
+        "score": 0.587
+      }
+    ],
+    "7": [
+      {
+        "text": "And",
+        "start": 70.42,
+        "end": 70.48,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 70.5,
+        "end": 70.6,
+        "score": 0.985
+      },
+      {
+        "text": "descendants",
+        "start": 70.62,
+        "end": 71.18,
+        "score": 0.969
+      },
+      {
+        "text": "of",
+        "start": 71.22,
+        "end": 71.3,
+        "score": 0.995
+      },
+      {
+        "text": "Merari",
+        "start": 71.38,
+        "end": 71.98,
+        "score": 0.74
+      },
+      {
+        "text": "received",
+        "start": 72.36,
+        "end": 72.84,
+        "score": 0.987
+      },
+      {
+        "text": "twelve",
+        "start": 72.94,
+        "end": 73.34,
+        "score": 0.984
+      },
+      {
+        "text": "cities",
+        "start": 73.4,
+        "end": 73.8,
+        "score": 0.999
+      },
+      {
+        "text": "from",
+        "start": 73.9,
+        "end": 74.04,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 74.06,
+        "end": 74.14,
+        "score": 0.99
+      },
+      {
+        "text": "tribes",
+        "start": 74.2,
+        "end": 74.6,
+        "score": 0.967
+      },
+      {
+        "text": "of",
+        "start": 74.72,
+        "end": 74.84,
+        "score": 0.998
+      },
+      {
+        "text": "Reuben",
+        "start": 74.96,
+        "end": 75.28,
+        "score": 0.661
+      },
+      {
+        "text": "Gad",
+        "start": 75.82,
+        "end": 76.04,
+        "score": 0.993
+      },
+      {
+        "text": "and",
+        "start": 76.26,
+        "end": 76.38,
+        "score": 0.994
+      },
+      {
+        "text": "Zebulun",
+        "start": 76.52,
+        "end": 76.94,
+        "score": 0.803
+      }
+    ],
+    "8": [
+      {
+        "text": "So",
+        "start": 78.1,
+        "end": 78.12,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 78.22,
+        "end": 78.32,
+        "score": 0.998
+      },
+      {
+        "text": "Israelites",
+        "start": 78.54,
+        "end": 79.12,
+        "score": 0.97
+      },
+      {
+        "text": "allotted",
+        "start": 79.22,
+        "end": 79.66,
+        "score": 0.824
+      },
+      {
+        "text": "to",
+        "start": 79.74,
+        "end": 79.82,
+        "score": 0.995
+      },
+      {
+        "text": "the",
+        "start": 79.9,
+        "end": 79.98,
+        "score": 0.969
+      },
+      {
+        "text": "Levites",
+        "start": 80.1,
+        "end": 80.56,
+        "score": 0.93
+      },
+      {
+        "text": "these",
+        "start": 80.64,
+        "end": 80.92,
+        "score": 0.997
+      },
+      {
+        "text": "cities",
+        "start": 80.98,
+        "end": 81.36,
+        "score": 0.999
+      },
+      {
+        "text": "together",
+        "start": 81.73,
+        "end": 82.13,
+        "score": 0.993
+      },
+      {
+        "text": "with",
+        "start": 82.19,
+        "end": 82.33,
+        "score": 0.982
+      },
+      {
+        "text": "their",
+        "start": 82.35,
+        "end": 82.47,
+        "score": 0.995
+      },
+      {
+        "text": "pasturelands",
+        "start": 82.55,
+        "end": 83.39,
+        "score": 0.872
+      },
+      {
+        "text": "as",
+        "start": 83.75,
+        "end": 83.89,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 83.95,
+        "end": 84.03,
+        "score": 0.946
+      },
+      {
+        "text": "LORD",
+        "start": 84.03,
+        "end": 84.45,
+        "score": 1.0
+      },
+      {
+        "text": "had",
+        "start": 84.45,
+        "end": 84.57,
+        "score": 0.991
+      },
+      {
+        "text": "commanded",
+        "start": 84.63,
+        "end": 85.13,
+        "score": 0.998
+      },
+      {
+        "text": "through",
+        "start": 85.31,
+        "end": 85.55,
+        "score": 0.972
+      },
+      {
+        "text": "Moses",
+        "start": 85.63,
+        "end": 86.01,
+        "score": 0.999
+      }
+    ],
+    "9": [
+      {
+        "text": "From",
+        "start": 87.15,
+        "end": 87.27,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 87.29,
+        "end": 87.39,
+        "score": 0.993
+      },
+      {
+        "text": "tribes",
+        "start": 87.43,
+        "end": 87.81,
+        "score": 0.98
+      },
+      {
+        "text": "of",
+        "start": 87.87,
+        "end": 87.97,
+        "score": 0.993
+      },
+      {
+        "text": "Judah",
+        "start": 88.15,
+        "end": 88.45,
+        "score": 0.944
+      },
+      {
+        "text": "and",
+        "start": 88.59,
+        "end": 88.73,
+        "score": 0.998
+      },
+      {
+        "text": "Simeon",
+        "start": 88.93,
+        "end": 89.29,
+        "score": 0.906
+      },
+      {
+        "text": "they",
+        "start": 89.69,
+        "end": 89.81,
+        "score": 0.975
+      },
+      {
+        "text": "designated",
+        "start": 89.93,
+        "end": 90.57,
+        "score": 0.999
+      },
+      {
+        "text": "these",
+        "start": 90.73,
+        "end": 91.05,
+        "score": 0.998
+      },
+      {
+        "text": "cities",
+        "start": 91.09,
+        "end": 91.45,
+        "score": 0.999
+      },
+      {
+        "text": "by",
+        "start": 91.53,
+        "end": 91.73,
+        "score": 1.0
+      },
+      {
+        "text": "name",
+        "start": 91.83,
+        "end": 92.19,
+        "score": 0.972
+      }
+    ],
+    "10": [
+      {
+        "text": "to",
+        "start": 92.55,
+        "end": 92.63,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 92.71,
+        "end": 92.79,
+        "score": 0.998
+      },
+      {
+        "text": "descendants",
+        "start": 92.83,
+        "end": 93.39,
+        "score": 0.987
+      },
+      {
+        "text": "of",
+        "start": 93.45,
+        "end": 93.53,
+        "score": 0.998
+      },
+      {
+        "text": "Aaron",
+        "start": 93.69,
+        "end": 93.95,
+        "score": 0.766
+      },
+      {
+        "text": "from",
+        "start": 94.39,
+        "end": 94.53,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 94.57,
+        "end": 94.65,
+        "score": 0.983
+      },
+      {
+        "text": "Kohathite",
+        "start": 94.83,
+        "end": 95.35,
+        "score": 0.871
+      },
+      {
+        "text": "clans",
+        "start": 95.37,
+        "end": 95.79,
+        "score": 0.967
+      },
+      {
+        "text": "of",
+        "start": 95.85,
+        "end": 95.91,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 95.95,
+        "end": 96.03,
+        "score": 0.993
+      },
+      {
+        "text": "Levites",
+        "start": 96.13,
+        "end": 96.65,
+        "score": 0.933
+      },
+      {
+        "text": "because",
+        "start": 97.03,
+        "end": 97.47,
+        "score": 0.971
+      },
+      {
+        "text": "the",
+        "start": 97.57,
+        "end": 97.67,
+        "score": 0.937
+      },
+      {
+        "text": "first",
+        "start": 97.73,
+        "end": 98.01,
+        "score": 0.995
+      },
+      {
+        "text": "lot",
+        "start": 98.11,
+        "end": 98.39,
+        "score": 0.996
+      },
+      {
+        "text": "fell",
+        "start": 98.55,
+        "end": 98.79,
+        "score": 0.995
+      },
+      {
+        "text": "to",
+        "start": 98.87,
+        "end": 98.95,
+        "score": 0.997
+      },
+      {
+        "text": "them",
+        "start": 99.01,
+        "end": 99.33,
+        "score": 0.994
+      }
+    ],
+    "11": [
+      {
+        "text": "They",
+        "start": 100.43,
+        "end": 100.53,
+        "score": 0.962
+      },
+      {
+        "text": "gave",
+        "start": 100.59,
+        "end": 100.81,
+        "score": 1.0
+      },
+      {
+        "text": "them",
+        "start": 100.83,
+        "end": 100.99,
+        "score": 0.994
+      },
+      {
+        "text": "Kiriath",
+        "start": 101.27,
+        "end": 101.63,
+        "score": 0.746
+      },
+      {
+        "text": "arba",
+        "start": 101.77,
+        "end": 102.01,
+        "score": 0.994
+      },
+      {
+        "text": "that",
+        "start": 102.39,
+        "end": 102.59,
+        "score": 0.967
+      },
+      {
+        "text": "is",
+        "start": 102.65,
+        "end": 102.77,
+        "score": 0.996
+      },
+      {
+        "text": "Hebron",
+        "start": 102.93,
+        "end": 103.25,
+        "score": 0.871
+      },
+      {
+        "text": "with",
+        "start": 103.73,
+        "end": 103.89,
+        "score": 0.999
+      },
+      {
+        "text": "its",
+        "start": 103.95,
+        "end": 104.07,
+        "score": 0.99
+      },
+      {
+        "text": "surrounding",
+        "start": 104.13,
+        "end": 104.67,
+        "score": 0.971
+      },
+      {
+        "text": "pasturelands",
+        "start": 104.73,
+        "end": 105.59,
+        "score": 0.892
+      },
+      {
+        "text": "in",
+        "start": 105.93,
+        "end": 106.01,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 106.03,
+        "end": 106.11,
+        "score": 0.998
+      },
+      {
+        "text": "hill",
+        "start": 106.17,
+        "end": 106.35,
+        "score": 0.888
+      },
+      {
+        "text": "country",
+        "start": 106.43,
+        "end": 106.77,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 106.95,
+        "end": 107.05,
+        "score": 0.998
+      },
+      {
+        "text": "Judah",
+        "start": 107.21,
+        "end": 107.49,
+        "score": 0.962
+      },
+      {
+        "text": "Arba",
+        "start": 108.41,
+        "end": 108.59,
+        "score": 0.996
+      },
+      {
+        "text": "was",
+        "start": 108.77,
+        "end": 108.95,
+        "score": 0.956
+      },
+      {
+        "text": "the",
+        "start": 108.99,
+        "end": 109.09,
+        "score": 0.989
+      },
+      {
+        "text": "father",
+        "start": 109.13,
+        "end": 109.45,
+        "score": 0.96
+      },
+      {
+        "text": "of",
+        "start": 109.59,
+        "end": 109.69,
+        "score": 0.999
+      },
+      {
+        "text": "Anak",
+        "start": 109.99,
+        "end": 110.29,
+        "score": 0.868
+      }
+    ],
+    "12": [
+      {
+        "text": "But",
+        "start": 111.21,
+        "end": 111.29,
+        "score": 0.999
+      },
+      {
+        "text": "they",
+        "start": 111.33,
+        "end": 111.45,
+        "score": 0.97
+      },
+      {
+        "text": "had",
+        "start": 111.49,
+        "end": 111.65,
+        "score": 0.998
+      },
+      {
+        "text": "given",
+        "start": 111.71,
+        "end": 111.99,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 112.07,
+        "end": 112.17,
+        "score": 0.996
+      },
+      {
+        "text": "fields",
+        "start": 112.27,
+        "end": 112.71,
+        "score": 0.996
+      },
+      {
+        "text": "and",
+        "start": 112.79,
+        "end": 112.91,
+        "score": 0.999
+      },
+      {
+        "text": "villages",
+        "start": 112.97,
+        "end": 113.45,
+        "score": 0.995
+      },
+      {
+        "text": "around",
+        "start": 113.63,
+        "end": 114.01,
+        "score": 0.97
+      },
+      {
+        "text": "the",
+        "start": 114.07,
+        "end": 114.17,
+        "score": 0.992
+      },
+      {
+        "text": "city",
+        "start": 114.23,
+        "end": 114.45,
+        "score": 1.0
+      },
+      {
+        "text": "to",
+        "start": 114.77,
+        "end": 114.85,
+        "score": 0.995
+      },
+      {
+        "text": "Caleb",
+        "start": 115.09,
+        "end": 115.39,
+        "score": 0.682
+      },
+      {
+        "text": "son",
+        "start": 115.53,
+        "end": 115.69,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 115.73,
+        "end": 115.81,
+        "score": 0.999
+      },
+      {
+        "text": "Jephunneh",
+        "start": 115.93,
+        "end": 116.37,
+        "score": 0.278
+      },
+      {
+        "text": "as",
+        "start": 116.59,
+        "end": 116.73,
+        "score": 0.999
+      },
+      {
+        "text": "his",
+        "start": 116.81,
+        "end": 117.01,
+        "score": 0.989
+      },
+      {
+        "text": "possession",
+        "start": 117.07,
+        "end": 117.59,
+        "score": 0.953
+      }
+    ],
+    "13": [
+      {
+        "text": "So",
+        "start": 118.91,
+        "end": 118.95,
+        "score": 0.991
+      },
+      {
+        "text": "to",
+        "start": 119.09,
+        "end": 119.17,
+        "score": 0.996
+      },
+      {
+        "text": "the",
+        "start": 119.25,
+        "end": 119.33,
+        "score": 0.997
+      },
+      {
+        "text": "descendants",
+        "start": 119.37,
+        "end": 119.99,
+        "score": 0.972
+      },
+      {
+        "text": "of",
+        "start": 120.05,
+        "end": 120.15,
+        "score": 0.999
+      },
+      {
+        "text": "Aaron",
+        "start": 120.35,
+        "end": 120.59,
+        "score": 0.79
+      },
+      {
+        "text": "the",
+        "start": 120.63,
+        "end": 120.71,
+        "score": 0.985
+      },
+      {
+        "text": "priest",
+        "start": 120.77,
+        "end": 121.25,
+        "score": 0.998
+      },
+      {
+        "text": "they",
+        "start": 121.41,
+        "end": 121.55,
+        "score": 0.999
+      },
+      {
+        "text": "gave",
+        "start": 121.63,
+        "end": 121.95,
+        "score": 0.978
+      },
+      {
+        "text": "these",
+        "start": 122.01,
+        "end": 122.29,
+        "score": 0.997
+      },
+      {
+        "text": "cities",
+        "start": 122.33,
+        "end": 122.73,
+        "score": 1.0
+      },
+      {
+        "text": "together",
+        "start": 123.03,
+        "end": 123.41,
+        "score": 0.971
+      },
+      {
+        "text": "with",
+        "start": 123.47,
+        "end": 123.61,
+        "score": 0.969
+      },
+      {
+        "text": "their",
+        "start": 123.61,
+        "end": 123.73,
+        "score": 0.68
+      },
+      {
+        "text": "pasturelands",
+        "start": 123.79,
+        "end": 124.67,
+        "score": 0.861
+      },
+      {
+        "text": "Hebron",
+        "start": 125.29,
+        "end": 125.67,
+        "score": 0.889
+      },
+      {
+        "text": "a",
+        "start": 126.01,
+        "end": 126.03,
+        "score": 0.998
+      },
+      {
+        "text": "city",
+        "start": 126.13,
+        "end": 126.33,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 126.43,
+        "end": 126.51,
+        "score": 0.998
+      },
+      {
+        "text": "refuge",
+        "start": 126.57,
+        "end": 127.09,
+        "score": 0.996
+      },
+      {
+        "text": "for",
+        "start": 127.15,
+        "end": 127.25,
+        "score": 0.993
+      },
+      {
+        "text": "the",
+        "start": 127.29,
+        "end": 127.37,
+        "score": 0.99
+      },
+      {
+        "text": "manslayer",
+        "start": 127.41,
+        "end": 128.09,
+        "score": 0.933
+      },
+      {
+        "text": "Libnah",
+        "start": 128.75,
+        "end": 129.55,
+        "score": 0.743
+      }
+    ],
+    "14": [
+      {
+        "text": "Jattir",
+        "start": 129.63,
+        "end": 129.93,
+        "score": 0.692
+      },
+      {
+        "text": "Eshtemoa",
+        "start": 130.57,
+        "end": 131.05,
+        "score": 0.825
+      }
+    ],
+    "15": [
+      {
+        "text": "Holon",
+        "start": 131.65,
+        "end": 132.01,
+        "score": 0.848
+      },
+      {
+        "text": "Debir",
+        "start": 132.57,
+        "end": 132.85,
+        "score": 0.583
+      }
+    ],
+    "16": [
+      {
+        "text": "Ain",
+        "start": 133.75,
+        "end": 133.91,
+        "score": 0.574
+      },
+      {
+        "text": "Juttah",
+        "start": 134.55,
+        "end": 134.85,
+        "score": 0.626
+      },
+      {
+        "text": "and",
+        "start": 135.29,
+        "end": 135.41,
+        "score": 0.994
+      },
+      {
+        "text": "Beth",
+        "start": 135.55,
+        "end": 135.69,
+        "score": 0.967
+      },
+      {
+        "text": "shemesh",
+        "start": 135.77,
+        "end": 136.25,
+        "score": 0.821
+      },
+      {
+        "text": "nine",
+        "start": 136.93,
+        "end": 137.23,
+        "score": 0.828
+      },
+      {
+        "text": "cities",
+        "start": 137.31,
+        "end": 137.69,
+        "score": 0.997
+      },
+      {
+        "text": "from",
+        "start": 137.95,
+        "end": 138.13,
+        "score": 0.994
+      },
+      {
+        "text": "these",
+        "start": 138.17,
+        "end": 138.43,
+        "score": 0.972
+      },
+      {
+        "text": "two",
+        "start": 138.45,
+        "end": 138.61,
+        "score": 0.993
+      },
+      {
+        "text": "tribes",
+        "start": 138.67,
+        "end": 139.25,
+        "score": 0.994
+      },
+      {
+        "text": "together",
+        "start": 139.57,
+        "end": 139.99,
+        "score": 0.978
+      },
+      {
+        "text": "with",
+        "start": 140.09,
+        "end": 140.25,
+        "score": 0.965
+      },
+      {
+        "text": "their",
+        "start": 140.27,
+        "end": 140.41,
+        "score": 0.995
+      },
+      {
+        "text": "pasturelands",
+        "start": 140.47,
+        "end": 141.41,
+        "score": 0.857
+      }
+    ],
+    "17": [
+      {
+        "text": "And",
+        "start": 142.27,
+        "end": 142.35,
+        "score": 0.984
+      },
+      {
+        "text": "from",
+        "start": 142.43,
+        "end": 142.57,
+        "score": 0.975
+      },
+      {
+        "text": "the",
+        "start": 142.61,
+        "end": 142.69,
+        "score": 0.997
+      },
+      {
+        "text": "tribe",
+        "start": 142.75,
+        "end": 143.07,
+        "score": 0.982
+      },
+      {
+        "text": "of",
+        "start": 143.09,
+        "end": 143.15,
+        "score": 0.997
+      },
+      {
+        "text": "Benjamin",
+        "start": 143.27,
+        "end": 143.67,
+        "score": 0.93
+      },
+      {
+        "text": "they",
+        "start": 144.03,
+        "end": 144.15,
+        "score": 0.998
+      },
+      {
+        "text": "gave",
+        "start": 144.21,
+        "end": 144.43,
+        "score": 0.999
+      },
+      {
+        "text": "them",
+        "start": 144.45,
+        "end": 144.61,
+        "score": 0.98
+      },
+      {
+        "text": "Gibeon",
+        "start": 144.95,
+        "end": 145.31,
+        "score": 0.833
+      },
+      {
+        "text": "Geba",
+        "start": 145.81,
+        "end": 146.59,
+        "score": 0.66
+      }
+    ],
+    "18": [
+      {
+        "text": "Anathoth",
+        "start": 146.67,
+        "end": 147.17,
+        "score": 0.921
+      },
+      {
+        "text": "and",
+        "start": 147.41,
+        "end": 147.53,
+        "score": 0.997
+      },
+      {
+        "text": "Almon",
+        "start": 147.77,
+        "end": 148.11,
+        "score": 0.898
+      },
+      {
+        "text": "four",
+        "start": 148.63,
+        "end": 148.85,
+        "score": 0.934
+      },
+      {
+        "text": "cities",
+        "start": 148.97,
+        "end": 149.39,
+        "score": 0.998
+      },
+      {
+        "text": "together",
+        "start": 149.61,
+        "end": 150.03,
+        "score": 0.997
+      },
+      {
+        "text": "with",
+        "start": 150.13,
+        "end": 150.29,
+        "score": 0.986
+      },
+      {
+        "text": "their",
+        "start": 150.33,
+        "end": 150.47,
+        "score": 0.968
+      },
+      {
+        "text": "pasturelands",
+        "start": 150.53,
+        "end": 151.47,
+        "score": 0.876
+      }
+    ],
+    "19": [
+      {
+        "text": "In",
+        "start": 152.31,
+        "end": 152.35,
+        "score": 0.946
+      },
+      {
+        "text": "all",
+        "start": 152.49,
+        "end": 152.71,
+        "score": 0.997
+      },
+      {
+        "text": "thirteen",
+        "start": 153.11,
+        "end": 153.61,
+        "score": 0.905
+      },
+      {
+        "text": "cities",
+        "start": 153.71,
+        "end": 154.11,
+        "score": 0.998
+      },
+      {
+        "text": "together",
+        "start": 154.31,
+        "end": 154.71,
+        "score": 0.987
+      },
+      {
+        "text": "with",
+        "start": 154.77,
+        "end": 154.91,
+        "score": 0.933
+      },
+      {
+        "text": "their",
+        "start": 154.93,
+        "end": 155.05,
+        "score": 0.995
+      },
+      {
+        "text": "pasturelands",
+        "start": 155.09,
+        "end": 155.85,
+        "score": 0.866
+      },
+      {
+        "text": "were",
+        "start": 156.17,
+        "end": 156.33,
+        "score": 0.995
+      },
+      {
+        "text": "given",
+        "start": 156.37,
+        "end": 156.61,
+        "score": 1.0
+      },
+      {
+        "text": "to",
+        "start": 156.71,
+        "end": 156.81,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 156.89,
+        "end": 156.97,
+        "score": 0.993
+      },
+      {
+        "text": "priests",
+        "start": 157.05,
+        "end": 157.61,
+        "score": 0.968
+      },
+      {
+        "text": "the",
+        "start": 157.85,
+        "end": 157.95,
+        "score": 0.905
+      },
+      {
+        "text": "descendants",
+        "start": 157.97,
+        "end": 158.53,
+        "score": 0.967
+      },
+      {
+        "text": "of",
+        "start": 158.57,
+        "end": 158.65,
+        "score": 0.998
+      },
+      {
+        "text": "Aaron",
+        "start": 158.73,
+        "end": 159.01,
+        "score": 0.752
+      }
+    ],
+    "20": [
+      {
+        "text": "The",
+        "start": 159.99,
+        "end": 160.05,
+        "score": 0.875
+      },
+      {
+        "text": "remaining",
+        "start": 160.11,
+        "end": 160.57,
+        "score": 0.998
+      },
+      {
+        "text": "Kohathite",
+        "start": 160.77,
+        "end": 161.31,
+        "score": 0.948
+      },
+      {
+        "text": "clans",
+        "start": 161.33,
+        "end": 161.77,
+        "score": 0.969
+      },
+      {
+        "text": "of",
+        "start": 161.81,
+        "end": 161.89,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 161.93,
+        "end": 162.01,
+        "score": 0.952
+      },
+      {
+        "text": "Levites",
+        "start": 162.13,
+        "end": 162.57,
+        "score": 0.939
+      },
+      {
+        "text": "were",
+        "start": 162.67,
+        "end": 162.83,
+        "score": 0.994
+      },
+      {
+        "text": "allotted",
+        "start": 162.85,
+        "end": 163.29,
+        "score": 0.831
+      },
+      {
+        "text": "these",
+        "start": 163.43,
+        "end": 163.75,
+        "score": 0.967
+      },
+      {
+        "text": "cities",
+        "start": 163.77,
+        "end": 164.25,
+        "score": 0.999
+      }
+    ],
+    "21": [
+      {
+        "text": "they",
+        "start": 166.73,
+        "end": 166.85,
+        "score": 0.998
+      },
+      {
+        "text": "were",
+        "start": 166.89,
+        "end": 167.05,
+        "score": 0.999
+      },
+      {
+        "text": "given",
+        "start": 167.09,
+        "end": 167.37,
+        "score": 0.97
+      },
+      {
+        "text": "Shechem",
+        "start": 167.57,
+        "end": 167.93,
+        "score": 0.499
+      },
+      {
+        "text": "in",
+        "start": 168.17,
+        "end": 168.23,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 168.27,
+        "end": 168.33,
+        "score": 0.997
+      },
+      {
+        "text": "hill",
+        "start": 168.39,
+        "end": 168.55,
+        "score": 0.954
+      },
+      {
+        "text": "country",
+        "start": 168.61,
+        "end": 168.93,
+        "score": 0.952
+      },
+      {
+        "text": "of",
+        "start": 169.03,
+        "end": 169.11,
+        "score": 0.998
+      },
+      {
+        "text": "Ephraim",
+        "start": 169.35,
+        "end": 169.63,
+        "score": 0.538
+      },
+      {
+        "text": "a",
+        "start": 170.11,
+        "end": 170.13,
+        "score": 0.998
+      },
+      {
+        "text": "city",
+        "start": 170.29,
+        "end": 170.51,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 170.71,
+        "end": 170.81,
+        "score": 0.998
+      },
+      {
+        "text": "refuge",
+        "start": 170.89,
+        "end": 171.43,
+        "score": 0.999
+      },
+      {
+        "text": "for",
+        "start": 171.55,
+        "end": 171.67,
+        "score": 0.996
+      },
+      {
+        "text": "the",
+        "start": 171.69,
+        "end": 171.77,
+        "score": 0.975
+      },
+      {
+        "text": "manslayer",
+        "start": 171.81,
+        "end": 172.47,
+        "score": 0.974
+      },
+      {
+        "text": "Gezer",
+        "start": 173.41,
+        "end": 173.73,
+        "score": 0.74
+      }
+    ],
+    "22": [
+      {
+        "text": "Kibzaim",
+        "start": 174.11,
+        "end": 174.63,
+        "score": 0.615
+      },
+      {
+        "text": "and",
+        "start": 174.87,
+        "end": 175.01,
+        "score": 0.972
+      },
+      {
+        "text": "Beth",
+        "start": 175.13,
+        "end": 175.27,
+        "score": 0.894
+      },
+      {
+        "text": "horon",
+        "start": 175.31,
+        "end": 175.73,
+        "score": 0.828
+      },
+      {
+        "text": "four",
+        "start": 176.25,
+        "end": 176.47,
+        "score": 0.92
+      },
+      {
+        "text": "cities",
+        "start": 176.57,
+        "end": 176.99,
+        "score": 0.987
+      },
+      {
+        "text": "together",
+        "start": 177.21,
+        "end": 177.61,
+        "score": 0.99
+      },
+      {
+        "text": "with",
+        "start": 177.69,
+        "end": 177.83,
+        "score": 0.999
+      },
+      {
+        "text": "their",
+        "start": 177.85,
+        "end": 177.99,
+        "score": 0.95
+      },
+      {
+        "text": "pasturelands",
+        "start": 178.05,
+        "end": 178.97,
+        "score": 0.865
+      }
+    ],
+    "23": [
+      {
+        "text": "From",
+        "start": 179.85,
+        "end": 179.97,
+        "score": 0.995
+      },
+      {
+        "text": "the",
+        "start": 179.99,
+        "end": 180.09,
+        "score": 0.993
+      },
+      {
+        "text": "tribe",
+        "start": 180.13,
+        "end": 180.45,
+        "score": 0.913
+      },
+      {
+        "text": "of",
+        "start": 180.47,
+        "end": 180.55,
+        "score": 0.993
+      },
+      {
+        "text": "Dan",
+        "start": 180.75,
+        "end": 181.01,
+        "score": 0.989
+      },
+      {
+        "text": "they",
+        "start": 181.27,
+        "end": 181.39,
+        "score": 0.997
+      },
+      {
+        "text": "were",
+        "start": 181.43,
+        "end": 181.59,
+        "score": 0.945
+      },
+      {
+        "text": "given",
+        "start": 181.61,
+        "end": 181.87,
+        "score": 0.999
+      },
+      {
+        "text": "Elteke",
+        "start": 182.17,
+        "end": 182.53,
+        "score": 0.554
+      },
+      {
+        "text": "Gibbethon",
+        "start": 183.07,
+        "end": 183.59,
+        "score": 0.752
+      }
+    ],
+    "24": [
+      {
+        "text": "Aijalon",
+        "start": 184.13,
+        "end": 184.65,
+        "score": 0.743
+      },
+      {
+        "text": "and",
+        "start": 185.07,
+        "end": 185.19,
+        "score": 0.989
+      },
+      {
+        "text": "Gath",
+        "start": 185.31,
+        "end": 185.47,
+        "score": 0.927
+      },
+      {
+        "text": "rimmon",
+        "start": 185.53,
+        "end": 185.83,
+        "score": 0.675
+      },
+      {
+        "text": "four",
+        "start": 186.51,
+        "end": 186.73,
+        "score": 0.86
+      },
+      {
+        "text": "cities",
+        "start": 186.83,
+        "end": 187.23,
+        "score": 0.966
+      },
+      {
+        "text": "together",
+        "start": 187.53,
+        "end": 187.93,
+        "score": 0.99
+      },
+      {
+        "text": "with",
+        "start": 188.01,
+        "end": 188.15,
+        "score": 0.971
+      },
+      {
+        "text": "their",
+        "start": 188.17,
+        "end": 188.29,
+        "score": 0.982
+      },
+      {
+        "text": "pasturelands",
+        "start": 188.35,
+        "end": 189.25,
+        "score": 0.853
+      }
+    ],
+    "25": [
+      {
+        "text": "And",
+        "start": 190.11,
+        "end": 190.17,
+        "score": 0.997
+      },
+      {
+        "text": "from",
+        "start": 190.23,
+        "end": 190.39,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 190.41,
+        "end": 190.51,
+        "score": 0.992
+      },
+      {
+        "text": "half",
+        "start": 190.59,
+        "end": 190.81,
+        "score": 0.941
+      },
+      {
+        "text": "tribe",
+        "start": 190.89,
+        "end": 191.19,
+        "score": 0.993
+      },
+      {
+        "text": "of",
+        "start": 191.23,
+        "end": 191.29,
+        "score": 0.996
+      },
+      {
+        "text": "Manasseh",
+        "start": 191.41,
+        "end": 191.89,
+        "score": 0.568
+      },
+      {
+        "text": "they",
+        "start": 192.33,
+        "end": 192.45,
+        "score": 0.997
+      },
+      {
+        "text": "were",
+        "start": 192.49,
+        "end": 192.63,
+        "score": 0.998
+      },
+      {
+        "text": "given",
+        "start": 192.67,
+        "end": 192.95,
+        "score": 0.974
+      },
+      {
+        "text": "Taanach",
+        "start": 193.23,
+        "end": 193.73,
+        "score": 0.641
+      },
+      {
+        "text": "and",
+        "start": 194.09,
+        "end": 194.21,
+        "score": 0.996
+      },
+      {
+        "text": "Gath",
+        "start": 194.35,
+        "end": 194.51,
+        "score": 0.978
+      },
+      {
+        "text": "rimmon",
+        "start": 194.57,
+        "end": 194.87,
+        "score": 0.682
+      },
+      {
+        "text": "two",
+        "start": 195.55,
+        "end": 195.71,
+        "score": 0.977
+      },
+      {
+        "text": "cities",
+        "start": 195.81,
+        "end": 196.19,
+        "score": 0.877
+      },
+      {
+        "text": "together",
+        "start": 196.49,
+        "end": 196.87,
+        "score": 0.991
+      },
+      {
+        "text": "with",
+        "start": 196.95,
+        "end": 197.09,
+        "score": 0.997
+      },
+      {
+        "text": "their",
+        "start": 197.11,
+        "end": 197.25,
+        "score": 0.963
+      },
+      {
+        "text": "pasturelands",
+        "start": 197.31,
+        "end": 198.21,
+        "score": 0.862
+      }
+    ],
+    "26": [
+      {
+        "text": "In",
+        "start": 199.03,
+        "end": 199.05,
+        "score": 0.998
+      },
+      {
+        "text": "all",
+        "start": 199.17,
+        "end": 199.37,
+        "score": 0.962
+      },
+      {
+        "text": "ten",
+        "start": 199.79,
+        "end": 200.01,
+        "score": 0.91
+      },
+      {
+        "text": "cities",
+        "start": 200.13,
+        "end": 200.53,
+        "score": 0.997
+      },
+      {
+        "text": "together",
+        "start": 200.65,
+        "end": 201.05,
+        "score": 0.971
+      },
+      {
+        "text": "with",
+        "start": 201.11,
+        "end": 201.27,
+        "score": 0.98
+      },
+      {
+        "text": "their",
+        "start": 201.29,
+        "end": 201.41,
+        "score": 0.992
+      },
+      {
+        "text": "pasturelands",
+        "start": 201.47,
+        "end": 202.27,
+        "score": 0.825
+      },
+      {
+        "text": "were",
+        "start": 202.59,
+        "end": 202.75,
+        "score": 0.978
+      },
+      {
+        "text": "given",
+        "start": 202.77,
+        "end": 203.01,
+        "score": 1.0
+      },
+      {
+        "text": "to",
+        "start": 203.11,
+        "end": 203.19,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 203.23,
+        "end": 203.31,
+        "score": 0.945
+      },
+      {
+        "text": "rest",
+        "start": 203.39,
+        "end": 203.71,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 203.81,
+        "end": 203.87,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 203.91,
+        "end": 203.99,
+        "score": 0.936
+      },
+      {
+        "text": "Kohathite",
+        "start": 204.11,
+        "end": 204.61,
+        "score": 0.841
+      },
+      {
+        "text": "clans",
+        "start": 204.65,
+        "end": 205.25,
+        "score": 0.939
+      }
+    ],
+    "27": [
+      {
+        "text": "This",
+        "start": 206.31,
+        "end": 206.47,
+        "score": 0.999
+      },
+      {
+        "text": "is",
+        "start": 206.53,
+        "end": 206.63,
+        "score": 0.999
+      },
+      {
+        "text": "what",
+        "start": 206.67,
+        "end": 206.83,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 206.87,
+        "end": 206.95,
+        "score": 0.998
+      },
+      {
+        "text": "Levite",
+        "start": 207.07,
+        "end": 207.45,
+        "score": 0.973
+      },
+      {
+        "text": "clans",
+        "start": 207.49,
+        "end": 207.93,
+        "score": 0.95
+      },
+      {
+        "text": "of",
+        "start": 208.05,
+        "end": 208.13,
+        "score": 0.987
+      },
+      {
+        "text": "the",
+        "start": 208.15,
+        "end": 208.23,
+        "score": 0.922
+      },
+      {
+        "text": "Gershonites",
+        "start": 208.33,
+        "end": 208.87,
+        "score": 0.728
+      },
+      {
+        "text": "were",
+        "start": 208.91,
+        "end": 209.05,
+        "score": 0.999
+      },
+      {
+        "text": "given",
+        "start": 209.07,
+        "end": 209.35,
+        "score": 1.0
+      }
+    ],
+    "28": [
+      {
+        "text": "From",
+        "start": 210.19,
+        "end": 210.31,
+        "score": 0.994
+      },
+      {
+        "text": "the",
+        "start": 210.35,
+        "end": 210.43,
+        "score": 0.983
+      },
+      {
+        "text": "tribe",
+        "start": 210.79,
+        "end": 212.75,
+        "score": 0.893
+      },
+      {
+        "text": "of",
+        "start": 213.05,
+        "end": 215.51,
+        "score": 0.997
+      },
+      {
+        "text": "Issachar",
+        "start": 216.59,
+        "end": 224.23,
+        "score": 0.989
+      },
+      {
+        "text": "they",
+        "start": 224.61,
+        "end": 224.73,
+        "score": 0.998
+      },
+      {
+        "text": "were",
+        "start": 224.77,
+        "end": 224.93,
+        "score": 0.999
+      },
+      {
+        "text": "given",
+        "start": 224.97,
+        "end": 225.23,
+        "score": 0.999
+      },
+      {
+        "text": "Kishion",
+        "start": 225.49,
+        "end": 226.01,
+        "score": 0.811
+      },
+      {
+        "text": "Daberath",
+        "start": 226.39,
+        "end": 226.99,
+        "score": 0.891
+      }
+    ],
+    "29": [
+      {
+        "text": "Jarmuth",
+        "start": 227.39,
+        "end": 227.73,
+        "score": 0.845
+      },
+      {
+        "text": "and",
+        "start": 228.07,
+        "end": 228.19,
+        "score": 0.993
+      },
+      {
+        "text": "En",
+        "start": 228.29,
+        "end": 228.31,
+        "score": 0.985
+      },
+      {
+        "text": "gannim",
+        "start": 228.39,
+        "end": 228.77,
+        "score": 0.351
+      },
+      {
+        "text": "four",
+        "start": 229.31,
+        "end": 229.51,
+        "score": 0.691
+      },
+      {
+        "text": "cities",
+        "start": 229.61,
+        "end": 229.99,
+        "score": 0.999
+      },
+      {
+        "text": "together",
+        "start": 230.29,
+        "end": 230.67,
+        "score": 0.998
+      },
+      {
+        "text": "with",
+        "start": 230.75,
+        "end": 230.91,
+        "score": 0.996
+      },
+      {
+        "text": "their",
+        "start": 230.93,
+        "end": 231.07,
+        "score": 0.993
+      },
+      {
+        "text": "pasturelands",
+        "start": 231.13,
+        "end": 232.05,
+        "score": 0.766
+      }
+    ],
+    "30": [
+      {
+        "text": "From",
+        "start": 232.91,
+        "end": 233.01,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 233.03,
+        "end": 233.11,
+        "score": 0.994
+      },
+      {
+        "text": "tribe",
+        "start": 233.15,
+        "end": 233.45,
+        "score": 0.988
+      },
+      {
+        "text": "of",
+        "start": 233.47,
+        "end": 233.55,
+        "score": 0.997
+      },
+      {
+        "text": "Asher",
+        "start": 233.87,
+        "end": 234.07,
+        "score": 0.688
+      },
+      {
+        "text": "they",
+        "start": 234.41,
+        "end": 234.53,
+        "score": 0.896
+      },
+      {
+        "text": "were",
+        "start": 234.55,
+        "end": 234.69,
+        "score": 0.995
+      },
+      {
+        "text": "given",
+        "start": 234.71,
+        "end": 234.97,
+        "score": 0.999
+      },
+      {
+        "text": "Mishal",
+        "start": 235.29,
+        "end": 235.71,
+        "score": 0.887
+      },
+      {
+        "text": "Abdon",
+        "start": 236.23,
+        "end": 236.59,
+        "score": 0.955
+      }
+    ],
+    "31": [
+      {
+        "text": "Helkath",
+        "start": 237.03,
+        "end": 237.55,
+        "score": 0.887
+      },
+      {
+        "text": "and",
+        "start": 237.87,
+        "end": 237.99,
+        "score": 0.994
+      },
+      {
+        "text": "Rehob",
+        "start": 238.11,
+        "end": 238.53,
+        "score": 0.823
+      },
+      {
+        "text": "four",
+        "start": 239.05,
+        "end": 239.27,
+        "score": 0.875
+      },
+      {
+        "text": "cities",
+        "start": 239.37,
+        "end": 239.75,
+        "score": 0.999
+      },
+      {
+        "text": "together",
+        "start": 240.07,
+        "end": 240.47,
+        "score": 0.992
+      },
+      {
+        "text": "with",
+        "start": 240.55,
+        "end": 240.69,
+        "score": 0.997
+      },
+      {
+        "text": "their",
+        "start": 240.71,
+        "end": 240.83,
+        "score": 0.99
+      },
+      {
+        "text": "pasturelands",
+        "start": 240.89,
+        "end": 241.83,
+        "score": 0.801
+      }
+    ],
+    "32": [
+      {
+        "text": "And",
+        "start": 242.65,
+        "end": 242.71,
+        "score": 0.998
+      },
+      {
+        "text": "from",
+        "start": 242.77,
+        "end": 242.93,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 242.97,
+        "end": 243.05,
+        "score": 0.993
+      },
+      {
+        "text": "tribe",
+        "start": 243.11,
+        "end": 243.47,
+        "score": 0.992
+      },
+      {
+        "text": "of",
+        "start": 243.51,
+        "end": 243.59,
+        "score": 0.993
+      },
+      {
+        "text": "Naphtali",
+        "start": 243.75,
+        "end": 244.34,
+        "score": 0.775
+      },
+      {
+        "text": "they",
+        "start": 244.78,
+        "end": 244.88,
+        "score": 0.998
+      },
+      {
+        "text": "were",
+        "start": 244.92,
+        "end": 245.08,
+        "score": 0.994
+      },
+      {
+        "text": "given",
+        "start": 245.1,
+        "end": 245.38,
+        "score": 0.949
+      },
+      {
+        "text": "Kedesh",
+        "start": 245.64,
+        "end": 246.1,
+        "score": 0.681
+      },
+      {
+        "text": "in",
+        "start": 246.28,
+        "end": 246.38,
+        "score": 0.998
+      },
+      {
+        "text": "Galilee",
+        "start": 246.54,
+        "end": 246.98,
+        "score": 0.991
+      },
+      {
+        "text": "a",
+        "start": 247.36,
+        "end": 247.38,
+        "score": 0.997
+      },
+      {
+        "text": "city",
+        "start": 247.5,
+        "end": 247.72,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 247.82,
+        "end": 247.9,
+        "score": 0.998
+      },
+      {
+        "text": "refuge",
+        "start": 247.98,
+        "end": 248.52,
+        "score": 0.959
+      },
+      {
+        "text": "for",
+        "start": 248.58,
+        "end": 248.7,
+        "score": 0.937
+      },
+      {
+        "text": "the",
+        "start": 248.72,
+        "end": 248.8,
+        "score": 0.984
+      },
+      {
+        "text": "manslayer",
+        "start": 248.84,
+        "end": 249.48,
+        "score": 0.974
+      },
+      {
+        "text": "Hammoth",
+        "start": 250.08,
+        "end": 250.36,
+        "score": 0.648
+      },
+      {
+        "text": "dor",
+        "start": 250.44,
+        "end": 250.7,
+        "score": 0.98
+      },
+      {
+        "text": "and",
+        "start": 251.1,
+        "end": 251.22,
+        "score": 0.995
+      },
+      {
+        "text": "Kartan",
+        "start": 251.38,
+        "end": 251.82,
+        "score": 0.986
+      },
+      {
+        "text": "three",
+        "start": 252.3,
+        "end": 252.54,
+        "score": 0.976
+      },
+      {
+        "text": "cities",
+        "start": 252.66,
+        "end": 253.08,
+        "score": 0.959
+      },
+      {
+        "text": "together",
+        "start": 253.32,
+        "end": 253.72,
+        "score": 0.977
+      },
+      {
+        "text": "with",
+        "start": 253.8,
+        "end": 253.92,
+        "score": 0.996
+      },
+      {
+        "text": "their",
+        "start": 253.96,
+        "end": 254.08,
+        "score": 0.986
+      },
+      {
+        "text": "pasturelands",
+        "start": 254.14,
+        "end": 255.08,
+        "score": 0.883
+      }
+    ],
+    "33": [
+      {
+        "text": "In",
+        "start": 255.82,
+        "end": 255.84,
+        "score": 0.999
+      },
+      {
+        "text": "all",
+        "start": 255.98,
+        "end": 256.16,
+        "score": 0.99
+      },
+      {
+        "text": "thirteen",
+        "start": 256.56,
+        "end": 257.06,
+        "score": 0.869
+      },
+      {
+        "text": "cities",
+        "start": 257.16,
+        "end": 257.56,
+        "score": 0.999
+      },
+      {
+        "text": "together",
+        "start": 257.82,
+        "end": 258.2,
+        "score": 0.976
+      },
+      {
+        "text": "with",
+        "start": 258.26,
+        "end": 258.42,
+        "score": 0.937
+      },
+      {
+        "text": "their",
+        "start": 258.44,
+        "end": 258.56,
+        "score": 0.984
+      },
+      {
+        "text": "pasturelands",
+        "start": 258.6,
+        "end": 259.42,
+        "score": 0.883
+      },
+      {
+        "text": "were",
+        "start": 259.54,
+        "end": 259.7,
+        "score": 0.979
+      },
+      {
+        "text": "given",
+        "start": 259.74,
+        "end": 260.0,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 260.12,
+        "end": 260.22,
+        "score": 0.891
+      },
+      {
+        "text": "the",
+        "start": 260.28,
+        "end": 260.36,
+        "score": 0.995
+      },
+      {
+        "text": "Gershonite",
+        "start": 260.46,
+        "end": 260.98,
+        "score": 0.717
+      },
+      {
+        "text": "clans",
+        "start": 261.02,
+        "end": 261.62,
+        "score": 0.983
+      }
+    ],
+    "34": [
+      {
+        "text": "This",
+        "start": 262.62,
+        "end": 262.76,
+        "score": 1.0
+      },
+      {
+        "text": "is",
+        "start": 262.82,
+        "end": 262.92,
+        "score": 0.999
+      },
+      {
+        "text": "what",
+        "start": 262.98,
+        "end": 263.2,
+        "score": 0.987
+      },
+      {
+        "text": "the",
+        "start": 263.26,
+        "end": 263.36,
+        "score": 0.963
+      },
+      {
+        "text": "Merarite",
+        "start": 263.44,
+        "end": 264.02,
+        "score": 0.802
+      },
+      {
+        "text": "clan",
+        "start": 264.06,
+        "end": 264.4,
+        "score": 0.937
+      },
+      {
+        "text": "the",
+        "start": 264.72,
+        "end": 264.82,
+        "score": 0.991
+      },
+      {
+        "text": "rest",
+        "start": 264.9,
+        "end": 265.18,
+        "score": 0.963
+      },
+      {
+        "text": "of",
+        "start": 265.24,
+        "end": 265.3,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 265.34,
+        "end": 265.4,
+        "score": 0.991
+      },
+      {
+        "text": "Levites",
+        "start": 265.52,
+        "end": 268.34,
+        "score": 0.814
+      },
+      {
+        "text": "were",
+        "start": 269.34,
+        "end": 269.48,
+        "score": 0.995
+      },
+      {
+        "text": "given",
+        "start": 269.5,
+        "end": 269.8,
+        "score": 0.999
+      }
+    ],
+    "35": [
+      {
+        "text": "Dimnah",
+        "start": 272.06,
+        "end": 272.4,
+        "score": 0.796
+      },
+      {
+        "text": "and",
+        "start": 272.66,
+        "end": 272.8,
+        "score": 0.955
+      },
+      {
+        "text": "Nahalal",
+        "start": 272.96,
+        "end": 273.54,
+        "score": 0.801
+      },
+      {
+        "text": "four",
+        "start": 274.04,
+        "end": 274.26,
+        "score": 0.895
+      },
+      {
+        "text": "cities",
+        "start": 274.34,
+        "end": 274.72,
+        "score": 0.999
+      },
+      {
+        "text": "together",
+        "start": 274.94,
+        "end": 275.32,
+        "score": 0.998
+      },
+      {
+        "text": "with",
+        "start": 275.4,
+        "end": 275.54,
+        "score": 0.998
+      },
+      {
+        "text": "their",
+        "start": 275.58,
+        "end": 275.7,
+        "score": 0.921
+      },
+      {
+        "text": "pasturelands",
+        "start": 275.76,
+        "end": 276.66,
+        "score": 0.883
+      }
+    ],
+    "36": [
+      {
+        "text": "From",
+        "start": 277.48,
+        "end": 277.6,
+        "score": 0.97
+      },
+      {
+        "text": "the",
+        "start": 277.62,
+        "end": 277.7,
+        "score": 0.921
+      },
+      {
+        "text": "tribe",
+        "start": 277.74,
+        "end": 278.06,
+        "score": 0.978
+      },
+      {
+        "text": "of",
+        "start": 278.08,
+        "end": 278.16,
+        "score": 0.997
+      },
+      {
+        "text": "Reuben",
+        "start": 278.26,
+        "end": 278.56,
+        "score": 0.647
+      },
+      {
+        "text": "they",
+        "start": 278.94,
+        "end": 279.06,
+        "score": 0.93
+      },
+      {
+        "text": "were",
+        "start": 279.08,
+        "end": 279.22,
+        "score": 0.998
+      },
+      {
+        "text": "given",
+        "start": 279.26,
+        "end": 279.5,
+        "score": 0.998
+      },
+      {
+        "text": "Bezer",
+        "start": 279.82,
+        "end": 280.14,
+        "score": 0.726
+      },
+      {
+        "text": "Jahaz",
+        "start": 280.68,
+        "end": 281.22,
+        "score": 0.706
+      }
+    ],
+    "37": [
+      {
+        "text": "Kedemoth",
+        "start": 281.66,
+        "end": 282.16,
+        "score": 0.776
+      },
+      {
+        "text": "and",
+        "start": 282.52,
+        "end": 282.64,
+        "score": 0.99
+      },
+      {
+        "text": "Mephaath",
+        "start": 282.76,
+        "end": 283.34,
+        "score": 0.661
+      },
+      {
+        "text": "four",
+        "start": 283.76,
+        "end": 283.98,
+        "score": 0.861
+      },
+      {
+        "text": "cities",
+        "start": 284.1,
+        "end": 284.48,
+        "score": 0.896
+      },
+      {
+        "text": "together",
+        "start": 284.8,
+        "end": 285.2,
+        "score": 0.998
+      },
+      {
+        "text": "with",
+        "start": 285.3,
+        "end": 285.44,
+        "score": 0.993
+      },
+      {
+        "text": "their",
+        "start": 285.48,
+        "end": 285.6,
+        "score": 0.975
+      },
+      {
+        "text": "pasturelands",
+        "start": 285.66,
+        "end": 286.58,
+        "score": 0.89
+      }
+    ],
+    "38": [
+      {
+        "text": "And",
+        "start": 287.36,
+        "end": 287.42,
+        "score": 0.944
+      },
+      {
+        "text": "from",
+        "start": 287.46,
+        "end": 287.62,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 287.66,
+        "end": 287.74,
+        "score": 0.998
+      },
+      {
+        "text": "tribe",
+        "start": 287.8,
+        "end": 288.12,
+        "score": 0.958
+      },
+      {
+        "text": "of",
+        "start": 288.14,
+        "end": 288.22,
+        "score": 0.998
+      },
+      {
+        "text": "Gad",
+        "start": 288.42,
+        "end": 288.68,
+        "score": 0.995
+      },
+      {
+        "text": "they",
+        "start": 288.88,
+        "end": 288.98,
+        "score": 0.998
+      },
+      {
+        "text": "were",
+        "start": 289.02,
+        "end": 289.16,
+        "score": 0.999
+      },
+      {
+        "text": "given",
+        "start": 289.2,
+        "end": 289.48,
+        "score": 0.999
+      },
+      {
+        "text": "Ramoth",
+        "start": 289.74,
+        "end": 290.16,
+        "score": 0.762
+      },
+      {
+        "text": "in",
+        "start": 290.26,
+        "end": 290.34,
+        "score": 0.996
+      },
+      {
+        "text": "Gilead",
+        "start": 290.5,
+        "end": 291.0,
+        "score": 0.823
+      },
+      {
+        "text": "a",
+        "start": 291.44,
+        "end": 291.46,
+        "score": 0.998
+      },
+      {
+        "text": "city",
+        "start": 291.58,
+        "end": 291.78,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 291.86,
+        "end": 291.94,
+        "score": 0.882
+      },
+      {
+        "text": "refuge",
+        "start": 292.02,
+        "end": 292.5,
+        "score": 0.982
+      },
+      {
+        "text": "for",
+        "start": 292.56,
+        "end": 292.68,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 292.72,
+        "end": 292.8,
+        "score": 0.981
+      },
+      {
+        "text": "manslayer",
+        "start": 292.82,
+        "end": 293.48,
+        "score": 0.974
+      },
+      {
+        "text": "Mahanaim",
+        "start": 294.2,
+        "end": 294.8,
+        "score": 0.63
+      }
+    ],
+    "39": [
+      {
+        "text": "Heshbon",
+        "start": 295.26,
+        "end": 295.74,
+        "score": 0.715
+      },
+      {
+        "text": "and",
+        "start": 296.0,
+        "end": 296.12,
+        "score": 0.993
+      },
+      {
+        "text": "Jazer",
+        "start": 296.28,
+        "end": 296.6,
+        "score": 0.573
+      },
+      {
+        "text": "four",
+        "start": 297.2,
+        "end": 297.4,
+        "score": 0.916
+      },
+      {
+        "text": "cities",
+        "start": 297.5,
+        "end": 297.88,
+        "score": 0.998
+      },
+      {
+        "text": "in",
+        "start": 298.0,
+        "end": 298.08,
+        "score": 0.998
+      },
+      {
+        "text": "all",
+        "start": 298.18,
+        "end": 298.38,
+        "score": 0.984
+      },
+      {
+        "text": "together",
+        "start": 298.74,
+        "end": 299.16,
+        "score": 0.638
+      },
+      {
+        "text": "with",
+        "start": 299.26,
+        "end": 299.42,
+        "score": 0.132
+      },
+      {
+        "text": "their",
+        "start": 299.42,
+        "end": 299.58,
+        "score": 0.119
+      },
+      {
+        "text": "pasturelands",
+        "start": 299.64,
+        "end": 300.56,
+        "score": 0.083
+      }
+    ],
+    "40": [
+      {
+        "text": "In",
+        "start": 301.38,
+        "end": 301.4,
+        "score": 0.999
+      },
+      {
+        "text": "all",
+        "start": 301.52,
+        "end": 301.74,
+        "score": 0.999
+      },
+      {
+        "text": "twelve",
+        "start": 302.04,
+        "end": 302.4,
+        "score": 0.996
+      },
+      {
+        "text": "cities",
+        "start": 302.48,
+        "end": 302.84,
+        "score": 1.0
+      },
+      {
+        "text": "were",
+        "start": 302.9,
+        "end": 303.04,
+        "score": 0.999
+      },
+      {
+        "text": "allotted",
+        "start": 303.08,
+        "end": 303.5,
+        "score": 0.934
+      },
+      {
+        "text": "to",
+        "start": 303.6,
+        "end": 303.68,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 303.74,
+        "end": 303.82,
+        "score": 0.927
+      },
+      {
+        "text": "clans",
+        "start": 303.86,
+        "end": 304.26,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 304.4,
+        "end": 304.48,
+        "score": 0.999
+      },
+      {
+        "text": "Merari",
+        "start": 304.6,
+        "end": 305.18,
+        "score": 0.678
+      },
+      {
+        "text": "the",
+        "start": 305.6,
+        "end": 305.68,
+        "score": 0.978
+      },
+      {
+        "text": "remaining",
+        "start": 305.76,
+        "end": 306.22,
+        "score": 1.0
+      },
+      {
+        "text": "Levite",
+        "start": 306.36,
+        "end": 306.76,
+        "score": 0.938
+      },
+      {
+        "text": "clans",
+        "start": 306.8,
+        "end": 307.4,
+        "score": 0.997
+      }
+    ],
+    "41": [
+      {
+        "text": "For",
+        "start": 308.26,
+        "end": 308.32,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 308.36,
+        "end": 308.44,
+        "score": 0.982
+      },
+      {
+        "text": "Levites",
+        "start": 308.54,
+        "end": 308.94,
+        "score": 0.971
+      },
+      {
+        "text": "then",
+        "start": 308.98,
+        "end": 309.2,
+        "score": 0.999
+      },
+      {
+        "text": "there",
+        "start": 309.58,
+        "end": 309.76,
+        "score": 0.995
+      },
+      {
+        "text": "were",
+        "start": 309.78,
+        "end": 309.98,
+        "score": 0.959
+      },
+      {
+        "text": "forty",
+        "start": 310.08,
+        "end": 310.36,
+        "score": 0.317
+      },
+      {
+        "text": "eight",
+        "start": 310.5,
+        "end": 310.64,
+        "score": 0.377
+      },
+      {
+        "text": "cities",
+        "start": 310.74,
+        "end": 311.1,
+        "score": 1.0
+      },
+      {
+        "text": "in",
+        "start": 311.24,
+        "end": 311.32,
+        "score": 0.999
+      },
+      {
+        "text": "all",
+        "start": 311.4,
+        "end": 311.62,
+        "score": 0.921
+      },
+      {
+        "text": "together",
+        "start": 312.06,
+        "end": 312.5,
+        "score": 0.996
+      },
+      {
+        "text": "with",
+        "start": 312.58,
+        "end": 312.74,
+        "score": 0.997
+      },
+      {
+        "text": "their",
+        "start": 312.76,
+        "end": 312.9,
+        "score": 0.993
+      },
+      {
+        "text": "pasturelands",
+        "start": 312.98,
+        "end": 313.84,
+        "score": 0.982
+      },
+      {
+        "text": "within",
+        "start": 314.16,
+        "end": 314.46,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 314.5,
+        "end": 314.6,
+        "score": 0.991
+      },
+      {
+        "text": "territory",
+        "start": 314.64,
+        "end": 315.24,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 315.46,
+        "end": 315.56,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 315.6,
+        "end": 315.68,
+        "score": 0.999
+      },
+      {
+        "text": "Israelites",
+        "start": 315.9,
+        "end": 316.62,
+        "score": 0.978
+      }
+    ],
+    "42": [
+      {
+        "text": "Each",
+        "start": 317.44,
+        "end": 317.58,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 317.62,
+        "end": 317.7,
+        "score": 1.0
+      },
+      {
+        "text": "these",
+        "start": 317.74,
+        "end": 317.98,
+        "score": 0.944
+      },
+      {
+        "text": "cities",
+        "start": 318.0,
+        "end": 318.34,
+        "score": 1.0
+      },
+      {
+        "text": "had",
+        "start": 318.62,
+        "end": 318.78,
+        "score": 1.0
+      },
+      {
+        "text": "its",
+        "start": 318.84,
+        "end": 318.98,
+        "score": 0.999
+      },
+      {
+        "text": "own",
+        "start": 319.1,
+        "end": 319.28,
+        "score": 0.979
+      },
+      {
+        "text": "surrounding",
+        "start": 319.38,
+        "end": 319.92,
+        "score": 0.978
+      },
+      {
+        "text": "pasturelands",
+        "start": 319.96,
+        "end": 320.9,
+        "score": 0.974
+      },
+      {
+        "text": "this",
+        "start": 321.36,
+        "end": 321.54,
+        "score": 0.999
+      },
+      {
+        "text": "was",
+        "start": 321.6,
+        "end": 321.76,
+        "score": 1.0
+      },
+      {
+        "text": "true",
+        "start": 321.82,
+        "end": 322.1,
+        "score": 0.99
+      },
+      {
+        "text": "for",
+        "start": 322.44,
+        "end": 322.62,
+        "score": 0.999
+      },
+      {
+        "text": "all",
+        "start": 322.76,
+        "end": 322.92,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 322.98,
+        "end": 323.06,
+        "score": 0.933
+      },
+      {
+        "text": "cities",
+        "start": 323.14,
+        "end": 323.6,
+        "score": 1.0
+      }
+    ],
+    "43": [
+      {
+        "text": "Thus",
+        "start": 324.4,
+        "end": 324.62,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 324.7,
+        "end": 324.78,
+        "score": 0.999
+      },
+      {
+        "text": "LORD",
+        "start": 324.78,
+        "end": 325.14,
+        "score": 1.0
+      },
+      {
+        "text": "gave",
+        "start": 325.14,
+        "end": 325.4,
+        "score": 1.0
+      },
+      {
+        "text": "Israel",
+        "start": 325.64,
+        "end": 325.98,
+        "score": 0.996
+      },
+      {
+        "text": "all",
+        "start": 326.24,
+        "end": 326.38,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 326.44,
+        "end": 326.54,
+        "score": 0.956
+      },
+      {
+        "text": "land",
+        "start": 326.58,
+        "end": 326.94,
+        "score": 0.997
+      },
+      {
+        "text": "He",
+        "start": 327.08,
+        "end": 327.12,
+        "score": 0.863
+      },
+      {
+        "text": "had",
+        "start": 327.18,
+        "end": 327.34,
+        "score": 0.995
+      },
+      {
+        "text": "sworn",
+        "start": 327.42,
+        "end": 327.78,
+        "score": 0.981
+      },
+      {
+        "text": "to",
+        "start": 327.86,
+        "end": 327.94,
+        "score": 0.999
+      },
+      {
+        "text": "give",
+        "start": 328.04,
+        "end": 328.24,
+        "score": 1.0
+      },
+      {
+        "text": "their",
+        "start": 328.26,
+        "end": 328.4,
+        "score": 0.997
+      },
+      {
+        "text": "fathers",
+        "start": 328.46,
+        "end": 328.96,
+        "score": 0.994
+      },
+      {
+        "text": "and",
+        "start": 329.44,
+        "end": 329.54,
+        "score": 0.948
+      },
+      {
+        "text": "they",
+        "start": 329.58,
+        "end": 329.7,
+        "score": 0.951
+      },
+      {
+        "text": "took",
+        "start": 329.78,
+        "end": 329.98,
+        "score": 1.0
+      },
+      {
+        "text": "possession",
+        "start": 330.04,
+        "end": 330.54,
+        "score": 0.996
+      },
+      {
+        "text": "of",
+        "start": 330.6,
+        "end": 330.68,
+        "score": 1.0
+      },
+      {
+        "text": "it",
+        "start": 330.72,
+        "end": 330.82,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 331.16,
+        "end": 331.28,
+        "score": 0.999
+      },
+      {
+        "text": "settled",
+        "start": 331.4,
+        "end": 331.76,
+        "score": 0.999
+      },
+      {
+        "text": "in",
+        "start": 331.88,
+        "end": 331.98,
+        "score": 0.999
+      },
+      {
+        "text": "it",
+        "start": 332.04,
+        "end": 332.18,
+        "score": 0.999
+      }
+    ],
+    "44": [
+      {
+        "text": "And",
+        "start": 333.06,
+        "end": 333.1,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 333.14,
+        "end": 333.2,
+        "score": 0.999
+      },
+      {
+        "text": "LORD",
+        "start": 333.2,
+        "end": 333.54,
+        "score": 1.0
+      },
+      {
+        "text": "gave",
+        "start": 333.54,
+        "end": 333.74,
+        "score": 1.0
+      },
+      {
+        "text": "them",
+        "start": 333.76,
+        "end": 333.88,
+        "score": 1.0
+      },
+      {
+        "text": "rest",
+        "start": 334.0,
+        "end": 334.34,
+        "score": 1.0
+      },
+      {
+        "text": "on",
+        "start": 334.46,
+        "end": 334.56,
+        "score": 1.0
+      },
+      {
+        "text": "every",
+        "start": 334.7,
+        "end": 334.9,
+        "score": 0.964
+      },
+      {
+        "text": "side",
+        "start": 335.02,
+        "end": 335.5,
+        "score": 0.943
+      },
+      {
+        "text": "just",
+        "start": 335.86,
+        "end": 336.14,
+        "score": 0.953
+      },
+      {
+        "text": "as",
+        "start": 336.22,
+        "end": 336.34,
+        "score": 0.98
+      },
+      {
+        "text": "He",
+        "start": 336.42,
+        "end": 336.44,
+        "score": 1.0
+      },
+      {
+        "text": "had",
+        "start": 336.5,
+        "end": 336.62,
+        "score": 0.999
+      },
+      {
+        "text": "sworn",
+        "start": 336.68,
+        "end": 337.02,
+        "score": 0.991
+      },
+      {
+        "text": "to",
+        "start": 337.1,
+        "end": 337.18,
+        "score": 0.999
+      },
+      {
+        "text": "their",
+        "start": 337.24,
+        "end": 337.4,
+        "score": 0.962
+      },
+      {
+        "text": "fathers",
+        "start": 337.46,
+        "end": 338.02,
+        "score": 0.976
+      },
+      {
+        "text": "None",
+        "start": 338.88,
+        "end": 339.0,
+        "score": 0.996
+      },
+      {
+        "text": "of",
+        "start": 339.02,
+        "end": 339.1,
+        "score": 1.0
+      },
+      {
+        "text": "their",
+        "start": 339.12,
+        "end": 339.28,
+        "score": 0.998
+      },
+      {
+        "text": "enemies",
+        "start": 339.42,
+        "end": 339.8,
+        "score": 1.0
+      },
+      {
+        "text": "could",
+        "start": 339.86,
+        "end": 340.04,
+        "score": 0.99
+      },
+      {
+        "text": "stand",
+        "start": 340.1,
+        "end": 340.46,
+        "score": 1.0
+      },
+      {
+        "text": "against",
+        "start": 340.58,
+        "end": 340.96,
+        "score": 0.987
+      },
+      {
+        "text": "them",
+        "start": 341.0,
+        "end": 341.2,
+        "score": 0.999
+      },
+      {
+        "text": "for",
+        "start": 341.72,
+        "end": 341.88,
+        "score": 0.991
+      },
+      {
+        "text": "the",
+        "start": 341.92,
+        "end": 342.0,
+        "score": 0.999
+      },
+      {
+        "text": "LORD",
+        "start": 342.0,
+        "end": 342.34,
+        "score": 1.0
+      },
+      {
+        "text": "delivered",
+        "start": 342.34,
+        "end": 342.82,
+        "score": 1.0
+      },
+      {
+        "text": "all",
+        "start": 343.06,
+        "end": 343.24,
+        "score": 0.999
+      },
+      {
+        "text": "their",
+        "start": 343.3,
+        "end": 343.48,
+        "score": 0.983
+      },
+      {
+        "text": "enemies",
+        "start": 343.58,
+        "end": 344.04,
+        "score": 1.0
+      },
+      {
+        "text": "into",
+        "start": 344.26,
+        "end": 344.46,
+        "score": 1.0
+      },
+      {
+        "text": "their",
+        "start": 344.52,
+        "end": 344.7,
+        "score": 0.991
+      },
+      {
+        "text": "hand",
+        "start": 344.76,
+        "end": 345.2,
+        "score": 0.986
+      }
+    ],
+    "45": [
+      {
+        "text": "Not",
+        "start": 346.14,
+        "end": 346.26,
+        "score": 1.0
+      },
+      {
+        "text": "one",
+        "start": 346.48,
+        "end": 346.7,
+        "score": 0.987
+      },
+      {
+        "text": "of",
+        "start": 346.8,
+        "end": 346.9,
+        "score": 0.852
+      },
+      {
+        "text": "all",
+        "start": 347.06,
+        "end": 347.24,
+        "score": 0.989
+      },
+      {
+        "text": "the",
+        "start": 347.32,
+        "end": 347.4,
+        "score": 0.999
+      },
+      {
+        "text": "LORD",
+        "start": 347.4,
+        "end": 347.78,
+        "score": 1.0
+      },
+      {
+        "text": "s",
+        "start": 347.78,
+        "end": 347.8,
+        "score": 0.982
+      },
+      {
+        "text": "good",
+        "start": 347.86,
+        "end": 348.04,
+        "score": 0.999
+      },
+      {
+        "text": "promises",
+        "start": 348.12,
+        "end": 348.7,
+        "score": 1.0
+      },
+      {
+        "text": "to",
+        "start": 348.8,
+        "end": 348.88,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 348.94,
+        "end": 349.04,
+        "score": 0.925
+      },
+      {
+        "text": "house",
+        "start": 349.08,
+        "end": 349.36,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 349.4,
+        "end": 349.46,
+        "score": 1.0
+      },
+      {
+        "text": "Israel",
+        "start": 349.68,
+        "end": 350.0,
+        "score": 0.997
+      },
+      {
+        "text": "had",
+        "start": 350.34,
+        "end": 350.5,
+        "score": 1.0
+      },
+      {
+        "text": "failed",
+        "start": 350.62,
+        "end": 351.1,
+        "score": 0.986
+      },
+      {
+        "text": "everything",
+        "start": 351.7,
+        "end": 352.24,
+        "score": 0.971
+      },
+      {
+        "text": "was",
+        "start": 352.52,
+        "end": 352.7,
+        "score": 0.995
+      },
+      {
+        "text": "fulfilled",
+        "start": 352.76,
+        "end": 353.38,
+        "score": 0.986
+      }
+    ]
+  }
+}

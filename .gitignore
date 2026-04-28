@@ -23,7 +23,7 @@ dist/
 *.egg
 
 # Output and downloads
-output/
+#output/
 audio/
 downloads/
 word-timing-data/

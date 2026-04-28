@@ -1,0 +1,736 @@
+{
+  "book": "SNG",
+  "chapter": "002",
+  "verses": {
+    "1": [
+      {
+        "text": "I",
+        "start": 0.0,
+        "end": 14.84,
+        "score": 1.0
+      },
+      {
+        "text": "am",
+        "start": 14.84,
+        "end": 14.94,
+        "score": 0.999
+      },
+      {
+        "text": "a",
+        "start": 14.96,
+        "end": 14.98,
+        "score": 0.0
+      },
+      {
+        "text": "rose",
+        "start": 15.04,
+        "end": 15.24,
+        "score": 0.249
+      },
+      {
+        "text": "of",
+        "start": 15.28,
+        "end": 15.34,
+        "score": 0.0
+      },
+      {
+        "text": "Sharon",
+        "start": 15.34,
+        "end": 15.62,
+        "score": 0.586
+      }
+    ],
+    "2": [
+      {
+        "text": "Like",
+        "start": 16.0,
+        "end": 16.54,
+        "score": 0.333
+      },
+      {
+        "text": "a",
+        "start": 16.6,
+        "end": 16.62,
+        "score": 0.999
+      },
+      {
+        "text": "lily",
+        "start": 16.78,
+        "end": 16.98,
+        "score": 0.5
+      },
+      {
+        "text": "among",
+        "start": 17.22,
+        "end": 17.52,
+        "score": 0.985
+      },
+      {
+        "text": "the",
+        "start": 17.58,
+        "end": 17.68,
+        "score": 0.985
+      },
+      {
+        "text": "thorns",
+        "start": 17.76,
+        "end": 18.32,
+        "score": 0.34
+      }
+    ],
+    "3": [
+      {
+        "text": "Like",
+        "start": 21.96,
+        "end": 22.08,
+        "score": 0.998
+      },
+      {
+        "text": "an",
+        "start": 22.12,
+        "end": 22.2,
+        "score": 0.996
+      },
+      {
+        "text": "apple",
+        "start": 22.36,
+        "end": 22.66,
+        "score": 0.978
+      },
+      {
+        "text": "tree",
+        "start": 22.72,
+        "end": 23.0,
+        "score": 0.969
+      },
+      {
+        "text": "among",
+        "start": 23.18,
+        "end": 23.46,
+        "score": 0.982
+      },
+      {
+        "text": "the",
+        "start": 23.52,
+        "end": 23.6,
+        "score": 0.998
+      },
+      {
+        "text": "trees",
+        "start": 23.66,
+        "end": 24.0,
+        "score": 0.959
+      },
+      {
+        "text": "of",
+        "start": 24.04,
+        "end": 24.1,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 24.14,
+        "end": 24.22,
+        "score": 0.998
+      },
+      {
+        "text": "forest",
+        "start": 24.28,
+        "end": 24.74,
+        "score": 0.999
+      }
+    ],
+    "4": [
+      {
+        "text": "He",
+        "start": 24.74,
+        "end": 24.76,
+        "score": 0.0
+      },
+      {
+        "text": "has",
+        "start": 24.76,
+        "end": 25.22,
+        "score": 0.333
+      },
+      {
+        "text": "brought",
+        "start": 25.54,
+        "end": 26.0,
+        "score": 0.286
+      },
+      {
+        "text": "me",
+        "start": 26.1,
+        "end": 26.16,
+        "score": 0.0
+      },
+      {
+        "text": "to",
+        "start": 26.22,
+        "end": 26.3,
+        "score": 0.5
+      },
+      {
+        "text": "the",
+        "start": 26.46,
+        "end": 26.54,
+        "score": 0.998
+      },
+      {
+        "text": "house",
+        "start": 26.62,
+        "end": 26.84,
+        "score": 0.377
+      },
+      {
+        "text": "of",
+        "start": 26.84,
+        "end": 26.9,
+        "score": 0.0
+      },
+      {
+        "text": "wine",
+        "start": 26.9,
+        "end": 27.26,
+        "score": 0.25
+      }
+    ],
+    "5": [
+      {
+        "text": "Sustain",
+        "start": 27.32,
+        "end": 28.34,
+        "score": 0.166
+      },
+      {
+        "text": "me",
+        "start": 28.36,
+        "end": 28.46,
+        "score": 0.5
+      },
+      {
+        "text": "with",
+        "start": 28.56,
+        "end": 29.04,
+        "score": 0.5
+      },
+      {
+        "text": "raisins",
+        "start": 29.08,
+        "end": 29.7,
+        "score": 0.428
+      }
+    ],
+    "6": [
+      {
+        "text": "His",
+        "start": 29.74,
+        "end": 29.84,
+        "score": 0.998
+      },
+      {
+        "text": "left",
+        "start": 29.84,
+        "end": 29.94,
+        "score": 0.0
+      },
+      {
+        "text": "hand",
+        "start": 29.96,
+        "end": 30.34,
+        "score": 0.749
+      },
+      {
+        "text": "is",
+        "start": 30.36,
+        "end": 30.42,
+        "score": 0.0
+      },
+      {
+        "text": "under",
+        "start": 30.8,
+        "end": 30.96,
+        "score": 0.399
+      },
+      {
+        "text": "my",
+        "start": 30.96,
+        "end": 31.0,
+        "score": 0.0
+      },
+      {
+        "text": "head",
+        "start": 31.0,
+        "end": 31.16,
+        "score": 0.0
+      }
+    ],
+    "7": [
+      {
+        "text": "O",
+        "start": 31.16,
+        "end": 54.02,
+        "score": 1.0
+      },
+      {
+        "text": "daughters",
+        "start": 54.02,
+        "end": 54.46,
+        "score": 0.967
+      },
+      {
+        "text": "of",
+        "start": 54.5,
+        "end": 54.58,
+        "score": 0.999
+      },
+      {
+        "text": "Jerusalem",
+        "start": 54.7,
+        "end": 55.24,
+        "score": 1.0
+      },
+      {
+        "text": "I",
+        "start": 55.24,
+        "end": 85.45,
+        "score": 1.0
+      },
+      {
+        "text": "adjure",
+        "start": 85.45,
+        "end": 85.63,
+        "score": 0.167
+      },
+      {
+        "text": "you",
+        "start": 85.65,
+        "end": 85.71,
+        "score": 0.035
+      }
+    ],
+    "8": [
+      {
+        "text": "Listen",
+        "start": 85.71,
+        "end": 87.03,
+        "score": 0.2
+      },
+      {
+        "text": "My",
+        "start": 87.19,
+        "end": 87.21,
+        "score": 1.0
+      },
+      {
+        "text": "beloved",
+        "start": 87.29,
+        "end": 87.77,
+        "score": 0.999
+      },
+      {
+        "text": "approaches",
+        "start": 88.01,
+        "end": 89.39,
+        "score": 0.3
+      }
+    ],
+    "9": [
+      {
+        "text": "My",
+        "start": 89.61,
+        "end": 89.63,
+        "score": 0.002
+      },
+      {
+        "text": "beloved",
+        "start": 89.71,
+        "end": 90.05,
+        "score": 0.285
+      },
+      {
+        "text": "is",
+        "start": 90.11,
+        "end": 90.23,
+        "score": 0.0
+      },
+      {
+        "text": "like",
+        "start": 90.29,
+        "end": 90.45,
+        "score": 0.5
+      },
+      {
+        "text": "a",
+        "start": 90.45,
+        "end": 90.47,
+        "score": 0.0
+      },
+      {
+        "text": "gazelle",
+        "start": 90.47,
+        "end": 91.05,
+        "score": 0.26
+      },
+      {
+        "text": "or",
+        "start": 91.07,
+        "end": 91.21,
+        "score": 0.0
+      },
+      {
+        "text": "a",
+        "start": 91.25,
+        "end": 91.27,
+        "score": 1.0
+      },
+      {
+        "text": "young",
+        "start": 91.33,
+        "end": 91.59,
+        "score": 0.2
+      },
+      {
+        "text": "stag",
+        "start": 91.59,
+        "end": 92.05,
+        "score": 0.0
+      }
+    ],
+    "10": [
+      {
+        "text": "My",
+        "start": 92.19,
+        "end": 92.21,
+        "score": 1.0
+      },
+      {
+        "text": "beloved",
+        "start": 92.33,
+        "end": 92.67,
+        "score": 0.266
+      },
+      {
+        "text": "calls",
+        "start": 92.69,
+        "end": 92.91,
+        "score": 0.2
+      },
+      {
+        "text": "to",
+        "start": 92.91,
+        "end": 93.03,
+        "score": 0.5
+      },
+      {
+        "text": "me",
+        "start": 93.15,
+        "end": 93.23,
+        "score": 0.499
+      }
+    ],
+    "11": [
+      {
+        "text": "For",
+        "start": 94.31,
+        "end": 94.39,
+        "score": 0.999
+      },
+      {
+        "text": "now",
+        "start": 94.47,
+        "end": 94.73,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 94.99,
+        "end": 95.07,
+        "score": 0.997
+      },
+      {
+        "text": "winter",
+        "start": 95.17,
+        "end": 95.47,
+        "score": 0.999
+      },
+      {
+        "text": "is",
+        "start": 95.63,
+        "end": 95.73,
+        "score": 0.997
+      },
+      {
+        "text": "past",
+        "start": 95.81,
+        "end": 99.71,
+        "score": 0.969
+      }
+    ],
+    "12": [
+      {
+        "text": "The",
+        "start": 99.71,
+        "end": 99.77,
+        "score": 0.974
+      },
+      {
+        "text": "flowers",
+        "start": 99.85,
+        "end": 100.43,
+        "score": 0.978
+      },
+      {
+        "text": "have",
+        "start": 100.49,
+        "end": 100.65,
+        "score": 0.954
+      },
+      {
+        "text": "appeared",
+        "start": 100.69,
+        "end": 101.13,
+        "score": 0.924
+      },
+      {
+        "text": "in",
+        "start": 101.25,
+        "end": 101.31,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 101.35,
+        "end": 101.43,
+        "score": 0.969
+      },
+      {
+        "text": "countryside",
+        "start": 101.49,
+        "end": 102.35,
+        "score": 0.883
+      }
+    ],
+    "13": [
+      {
+        "text": "The",
+        "start": 102.35,
+        "end": 102.39,
+        "score": 0.003
+      },
+      {
+        "text": "fig",
+        "start": 102.39,
+        "end": 102.47,
+        "score": 0.0
+      },
+      {
+        "text": "tree",
+        "start": 102.93,
+        "end": 103.05,
+        "score": 0.499
+      },
+      {
+        "text": "ripens",
+        "start": 103.05,
+        "end": 103.41,
+        "score": 0.333
+      },
+      {
+        "text": "its",
+        "start": 103.45,
+        "end": 103.69,
+        "score": 0.0
+      },
+      {
+        "text": "figs",
+        "start": 103.73,
+        "end": 103.89,
+        "score": 0.5
+      }
+    ],
+    "14": [
+      {
+        "text": "O",
+        "start": 103.89,
+        "end": 125.71,
+        "score": 1.0
+      },
+      {
+        "text": "my",
+        "start": 125.71,
+        "end": 125.89,
+        "score": 0.994
+      },
+      {
+        "text": "dove",
+        "start": 126.03,
+        "end": 126.37,
+        "score": 0.858
+      },
+      {
+        "text": "in",
+        "start": 126.51,
+        "end": 126.57,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 126.59,
+        "end": 126.69,
+        "score": 0.996
+      },
+      {
+        "text": "clefts",
+        "start": 126.77,
+        "end": 127.23,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 127.27,
+        "end": 127.35,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 127.39,
+        "end": 127.47,
+        "score": 0.997
+      },
+      {
+        "text": "rock",
+        "start": 127.55,
+        "end": 127.85,
+        "score": 0.999
+      }
+    ],
+    "15": [
+      {
+        "text": "Catch",
+        "start": 128.29,
+        "end": 128.45,
+        "score": 0.494
+      },
+      {
+        "text": "for",
+        "start": 128.45,
+        "end": 128.51,
+        "score": 0.0
+      },
+      {
+        "text": "us",
+        "start": 128.55,
+        "end": 128.59,
+        "score": 0.0
+      },
+      {
+        "text": "the",
+        "start": 128.67,
+        "end": 128.75,
+        "score": 0.32
+      },
+      {
+        "text": "foxes",
+        "start": 128.81,
+        "end": 129.15,
+        "score": 0.401
+      }
+    ],
+    "16": [
+      {
+        "text": "My",
+        "start": 129.35,
+        "end": 129.37,
+        "score": 0.0
+      },
+      {
+        "text": "beloved",
+        "start": 129.41,
+        "end": 130.63,
+        "score": 0.428
+      },
+      {
+        "text": "is",
+        "start": 130.69,
+        "end": 130.73,
+        "score": 0.0
+      },
+      {
+        "text": "mine",
+        "start": 130.73,
+        "end": 131.13,
+        "score": 0.5
+      },
+      {
+        "text": "and",
+        "start": 131.17,
+        "end": 131.23,
+        "score": 0.001
+      },
+      {
+        "text": "I",
+        "start": 131.23,
+        "end": 169.72,
+        "score": 1.0
+      },
+      {
+        "text": "am",
+        "start": 169.72,
+        "end": 169.76,
+        "score": 0.468
+      },
+      {
+        "text": "his",
+        "start": 169.76,
+        "end": 169.9,
+        "score": 0.483
+      }
+    ],
+    "17": [
+      {
+        "text": "Before",
+        "start": 169.92,
+        "end": 170.36,
+        "score": 0.55
+      },
+      {
+        "text": "the",
+        "start": 170.46,
+        "end": 170.52,
+        "score": 0.647
+      },
+      {
+        "text": "day",
+        "start": 170.52,
+        "end": 170.58,
+        "score": 0.001
+      },
+      {
+        "text": "breaks",
+        "start": 170.6,
+        "end": 171.74,
+        "score": 0.167
+      },
+      {
+        "text": "and",
+        "start": 171.74,
+        "end": 171.86,
+        "score": 0.0
+      },
+      {
+        "text": "shadows",
+        "start": 171.86,
+        "end": 172.18,
+        "score": 0.0
+      },
+      {
+        "text": "flee",
+        "start": 172.18,
+        "end": 172.3,
+        "score": 0.0
+      }
+    ]
+  }
+}

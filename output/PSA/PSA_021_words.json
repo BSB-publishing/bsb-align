@@ -1,0 +1,584 @@
+{
+  "book": "PSA",
+  "chapter": "021",
+  "verses": {
+    "1": [
+      {
+        "text": "For",
+        "start": 3.18,
+        "end": 3.78,
+        "score": 0.002
+      },
+      {
+        "text": "the",
+        "start": 4.1,
+        "end": 4.8,
+        "score": 0.002
+      },
+      {
+        "text": "choirmaster",
+        "start": 4.94,
+        "end": 6.04,
+        "score": 0.09
+      },
+      {
+        "text": "A",
+        "start": 6.04,
+        "end": 19.72,
+        "score": 1.0
+      },
+      {
+        "text": "Psalm",
+        "start": 19.72,
+        "end": 19.86,
+        "score": 0.252
+      },
+      {
+        "text": "of",
+        "start": 19.86,
+        "end": 19.9,
+        "score": 0.0
+      },
+      {
+        "text": "David",
+        "start": 19.9,
+        "end": 19.98,
+        "score": 0.0
+      }
+    ],
+    "2": [
+      {
+        "text": "You",
+        "start": 19.98,
+        "end": 20.04,
+        "score": 0.0
+      },
+      {
+        "text": "have",
+        "start": 20.04,
+        "end": 20.24,
+        "score": 0.493
+      },
+      {
+        "text": "granted",
+        "start": 20.32,
+        "end": 20.88,
+        "score": 0.143
+      },
+      {
+        "text": "his",
+        "start": 20.94,
+        "end": 21.1,
+        "score": 0.999
+      },
+      {
+        "text": "heart",
+        "start": 21.18,
+        "end": 21.46,
+        "score": 0.0
+      },
+      {
+        "text": "s",
+        "start": 21.46,
+        "end": 21.48,
+        "score": 0.0
+      },
+      {
+        "text": "desire",
+        "start": 21.48,
+        "end": 22.54,
+        "score": 0.166
+      }
+    ],
+    "3": [
+      {
+        "text": "For",
+        "start": 22.58,
+        "end": 22.66,
+        "score": 1.0
+      },
+      {
+        "text": "You",
+        "start": 22.8,
+        "end": 22.86,
+        "score": 0.999
+      },
+      {
+        "text": "welcomed",
+        "start": 22.96,
+        "end": 23.4,
+        "score": 0.994
+      },
+      {
+        "text": "him",
+        "start": 23.44,
+        "end": 23.6,
+        "score": 1.0
+      },
+      {
+        "text": "with",
+        "start": 23.94,
+        "end": 24.12,
+        "score": 1.0
+      },
+      {
+        "text": "rich",
+        "start": 24.22,
+        "end": 24.48,
+        "score": 0.999
+      },
+      {
+        "text": "blessings",
+        "start": 24.54,
+        "end": 25.18,
+        "score": 0.964
+      }
+    ],
+    "4": [
+      {
+        "text": "He",
+        "start": 25.82,
+        "end": 25.84,
+        "score": 0.0
+      },
+      {
+        "text": "asked",
+        "start": 26.08,
+        "end": 26.3,
+        "score": 0.598
+      },
+      {
+        "text": "You",
+        "start": 26.3,
+        "end": 26.34,
+        "score": 0.0
+      },
+      {
+        "text": "for",
+        "start": 26.34,
+        "end": 26.44,
+        "score": 0.333
+      },
+      {
+        "text": "life",
+        "start": 26.52,
+        "end": 26.86,
+        "score": 0.49
+      },
+      {
+        "text": "and",
+        "start": 26.9,
+        "end": 27.0,
+        "score": 0.597
+      },
+      {
+        "text": "You",
+        "start": 27.3,
+        "end": 27.42,
+        "score": 0.0
+      },
+      {
+        "text": "granted",
+        "start": 27.42,
+        "end": 28.06,
+        "score": 0.286
+      },
+      {
+        "text": "it",
+        "start": 28.12,
+        "end": 28.18,
+        "score": 0.0
+      }
+    ],
+    "5": [
+      {
+        "text": "Great",
+        "start": 28.4,
+        "end": 28.84,
+        "score": 0.49
+      },
+      {
+        "text": "is",
+        "start": 28.84,
+        "end": 28.96,
+        "score": 0.0
+      },
+      {
+        "text": "his",
+        "start": 29.64,
+        "end": 30.12,
+        "score": 0.622
+      },
+      {
+        "text": "glory",
+        "start": 30.16,
+        "end": 30.38,
+        "score": 0.2
+      },
+      {
+        "text": "in",
+        "start": 30.42,
+        "end": 30.46,
+        "score": 0.0
+      },
+      {
+        "text": "Your",
+        "start": 30.5,
+        "end": 30.58,
+        "score": 0.666
+      },
+      {
+        "text": "salvation",
+        "start": 30.6,
+        "end": 31.42,
+        "score": 0.222
+      }
+    ],
+    "6": [
+      {
+        "text": "For",
+        "start": 31.44,
+        "end": 31.54,
+        "score": 0.0
+      },
+      {
+        "text": "You",
+        "start": 31.56,
+        "end": 31.62,
+        "score": 0.985
+      },
+      {
+        "text": "grant",
+        "start": 31.66,
+        "end": 31.94,
+        "score": 0.995
+      },
+      {
+        "text": "him",
+        "start": 32.04,
+        "end": 32.24,
+        "score": 0.326
+      },
+      {
+        "text": "blessings",
+        "start": 32.7,
+        "end": 33.72,
+        "score": 0.333
+      },
+      {
+        "text": "forever",
+        "start": 34.12,
+        "end": 34.64,
+        "score": 0.992
+      }
+    ],
+    "7": [
+      {
+        "text": "For",
+        "start": 34.82,
+        "end": 34.9,
+        "score": 0.0
+      },
+      {
+        "text": "the",
+        "start": 34.94,
+        "end": 35.06,
+        "score": 0.333
+      },
+      {
+        "text": "king",
+        "start": 35.12,
+        "end": 36.36,
+        "score": 0.25
+      },
+      {
+        "text": "trusts",
+        "start": 36.42,
+        "end": 36.76,
+        "score": 0.333
+      },
+      {
+        "text": "in",
+        "start": 36.82,
+        "end": 36.98,
+        "score": 0.499
+      },
+      {
+        "text": "the",
+        "start": 36.98,
+        "end": 37.12,
+        "score": 0.327
+      },
+      {
+        "text": "LORD",
+        "start": 37.12,
+        "end": 57.47,
+        "score": 1.0
+      }
+    ],
+    "8": [
+      {
+        "text": "Your",
+        "start": 57.47,
+        "end": 57.59,
+        "score": 0.996
+      },
+      {
+        "text": "hand",
+        "start": 57.69,
+        "end": 58.07,
+        "score": 0.998
+      },
+      {
+        "text": "will",
+        "start": 58.17,
+        "end": 58.35,
+        "score": 0.985
+      },
+      {
+        "text": "apprehend",
+        "start": 58.47,
+        "end": 59.09,
+        "score": 0.999
+      },
+      {
+        "text": "all",
+        "start": 59.23,
+        "end": 59.37,
+        "score": 1.0
+      },
+      {
+        "text": "Your",
+        "start": 59.49,
+        "end": 59.59,
+        "score": 0.896
+      },
+      {
+        "text": "enemies",
+        "start": 59.71,
+        "end": 60.23,
+        "score": 1.0
+      }
+    ],
+    "9": [
+      {
+        "text": "You",
+        "start": 60.89,
+        "end": 60.97,
+        "score": 0.971
+      },
+      {
+        "text": "will",
+        "start": 60.99,
+        "end": 61.11,
+        "score": 0.0
+      },
+      {
+        "text": "place",
+        "start": 61.11,
+        "end": 61.35,
+        "score": 0.0
+      },
+      {
+        "text": "them",
+        "start": 61.37,
+        "end": 61.57,
+        "score": 0.496
+      },
+      {
+        "text": "in",
+        "start": 61.67,
+        "end": 61.71,
+        "score": 0.465
+      },
+      {
+        "text": "a",
+        "start": 61.71,
+        "end": 61.73,
+        "score": 0.0
+      },
+      {
+        "text": "fiery",
+        "start": 61.73,
+        "end": 61.83,
+        "score": 0.0
+      },
+      {
+        "text": "furnace",
+        "start": 61.83,
+        "end": 62.01,
+        "score": 0.0
+      }
+    ],
+    "10": [
+      {
+        "text": "You",
+        "start": 62.01,
+        "end": 62.05,
+        "score": 0.0
+      },
+      {
+        "text": "will",
+        "start": 62.05,
+        "end": 62.23,
+        "score": 0.939
+      },
+      {
+        "text": "wipe",
+        "start": 62.25,
+        "end": 62.39,
+        "score": 0.0
+      },
+      {
+        "text": "their",
+        "start": 62.39,
+        "end": 62.59,
+        "score": 0.198
+      },
+      {
+        "text": "descendants",
+        "start": 62.59,
+        "end": 62.85,
+        "score": 0.144
+      },
+      {
+        "text": "from",
+        "start": 62.85,
+        "end": 62.93,
+        "score": 0.25
+      },
+      {
+        "text": "the",
+        "start": 62.95,
+        "end": 63.13,
+        "score": 0.0
+      },
+      {
+        "text": "earth",
+        "start": 63.15,
+        "end": 63.25,
+        "score": 0.2
+      }
+    ],
+    "11": [
+      {
+        "text": "Though",
+        "start": 63.27,
+        "end": 63.43,
+        "score": 0.386
+      },
+      {
+        "text": "they",
+        "start": 63.43,
+        "end": 63.55,
+        "score": 0.008
+      },
+      {
+        "text": "intend",
+        "start": 63.55,
+        "end": 63.73,
+        "score": 0.352
+      },
+      {
+        "text": "You",
+        "start": 63.79,
+        "end": 63.87,
+        "score": 0.964
+      },
+      {
+        "text": "harm",
+        "start": 63.91,
+        "end": 64.19,
+        "score": 0.0
+      }
+    ],
+    "12": [
+      {
+        "text": "For",
+        "start": 64.81,
+        "end": 64.85,
+        "score": 0.0
+      },
+      {
+        "text": "You",
+        "start": 64.87,
+        "end": 64.93,
+        "score": 0.999
+      },
+      {
+        "text": "will",
+        "start": 64.97,
+        "end": 65.13,
+        "score": 0.99
+      },
+      {
+        "text": "put",
+        "start": 65.21,
+        "end": 65.51,
+        "score": 0.333
+      },
+      {
+        "text": "them",
+        "start": 65.59,
+        "end": 65.77,
+        "score": 0.998
+      },
+      {
+        "text": "to",
+        "start": 66.17,
+        "end": 66.25,
+        "score": 0.0
+      },
+      {
+        "text": "flight",
+        "start": 66.39,
+        "end": 66.73,
+        "score": 0.333
+      }
+    ],
+    "13": [
+      {
+        "text": "Be",
+        "start": 66.73,
+        "end": 66.75,
+        "score": 0.002
+      },
+      {
+        "text": "exalted",
+        "start": 66.77,
+        "end": 67.29,
+        "score": 0.13
+      },
+      {
+        "text": "O",
+        "start": 67.29,
+        "end": 67.31,
+        "score": 1.0
+      },
+      {
+        "text": "LORD",
+        "start": 67.33,
+        "end": 99.79,
+        "score": 1.0
+      },
+      {
+        "text": "in",
+        "start": 99.79,
+        "end": 99.85,
+        "score": 0.0
+      },
+      {
+        "text": "Your",
+        "start": 99.87,
+        "end": 99.99,
+        "score": 0.922
+      },
+      {
+        "text": "strength",
+        "start": 100.05,
+        "end": 100.91,
+        "score": 0.125
+      }
+    ]
+  }
+}

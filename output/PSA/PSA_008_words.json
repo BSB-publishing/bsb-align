@@ -1,0 +1,414 @@
+{
+  "book": "PSA",
+  "chapter": "008",
+  "verses": {
+    "1": [
+      {
+        "text": "For",
+        "start": 2.42,
+        "end": 2.5,
+        "score": 0.926
+      },
+      {
+        "text": "the",
+        "start": 2.54,
+        "end": 2.62,
+        "score": 0.96
+      },
+      {
+        "text": "choirmaster",
+        "start": 2.68,
+        "end": 3.48,
+        "score": 0.692
+      },
+      {
+        "text": "According",
+        "start": 4.04,
+        "end": 4.48,
+        "score": 0.997
+      },
+      {
+        "text": "to",
+        "start": 4.54,
+        "end": 4.64,
+        "score": 0.99
+      },
+      {
+        "text": "Gittith",
+        "start": 4.84,
+        "end": 5.18,
+        "score": 0.745
+      }
+    ],
+    "2": [
+      {
+        "text": "From",
+        "start": 5.92,
+        "end": 6.18,
+        "score": 0.011
+      },
+      {
+        "text": "the",
+        "start": 6.18,
+        "end": 6.24,
+        "score": 0.001
+      },
+      {
+        "text": "mouths",
+        "start": 6.24,
+        "end": 6.42,
+        "score": 0.149
+      },
+      {
+        "text": "of",
+        "start": 6.42,
+        "end": 6.52,
+        "score": 0.762
+      },
+      {
+        "text": "children",
+        "start": 6.6,
+        "end": 9.46,
+        "score": 0.218
+      },
+      {
+        "text": "and",
+        "start": 9.54,
+        "end": 9.78,
+        "score": 0.235
+      },
+      {
+        "text": "infants",
+        "start": 10.26,
+        "end": 10.56,
+        "score": 0.002
+      }
+    ],
+    "3": [
+      {
+        "text": "When",
+        "start": 10.56,
+        "end": 10.68,
+        "score": 0.0
+      },
+      {
+        "text": "I",
+        "start": 10.68,
+        "end": 40.07,
+        "score": 1.0
+      },
+      {
+        "text": "behold",
+        "start": 40.07,
+        "end": 40.85,
+        "score": 0.167
+      },
+      {
+        "text": "Your",
+        "start": 40.87,
+        "end": 40.97,
+        "score": 0.666
+      },
+      {
+        "text": "heavens",
+        "start": 41.03,
+        "end": 41.47,
+        "score": 0.425
+      }
+    ],
+    "4": [
+      {
+        "text": "what",
+        "start": 41.47,
+        "end": 41.59,
+        "score": 0.0
+      },
+      {
+        "text": "is",
+        "start": 41.63,
+        "end": 41.67,
+        "score": 0.0
+      },
+      {
+        "text": "man",
+        "start": 41.67,
+        "end": 41.93,
+        "score": 1.0
+      },
+      {
+        "text": "that",
+        "start": 42.23,
+        "end": 42.39,
+        "score": 0.996
+      },
+      {
+        "text": "You",
+        "start": 42.53,
+        "end": 42.59,
+        "score": 0.995
+      },
+      {
+        "text": "are",
+        "start": 42.81,
+        "end": 42.95,
+        "score": 0.673
+      },
+      {
+        "text": "mindful",
+        "start": 42.95,
+        "end": 43.11,
+        "score": 0.143
+      },
+      {
+        "text": "of",
+        "start": 43.11,
+        "end": 43.19,
+        "score": 0.5
+      },
+      {
+        "text": "him",
+        "start": 43.25,
+        "end": 43.45,
+        "score": 0.939
+      }
+    ],
+    "5": [
+      {
+        "text": "You",
+        "start": 44.43,
+        "end": 44.49,
+        "score": 0.999
+      },
+      {
+        "text": "made",
+        "start": 44.57,
+        "end": 44.81,
+        "score": 0.999
+      },
+      {
+        "text": "him",
+        "start": 44.85,
+        "end": 45.01,
+        "score": 1.0
+      },
+      {
+        "text": "a",
+        "start": 45.17,
+        "end": 45.19,
+        "score": 0.999
+      },
+      {
+        "text": "little",
+        "start": 45.29,
+        "end": 45.55,
+        "score": 0.954
+      },
+      {
+        "text": "lower",
+        "start": 45.63,
+        "end": 45.91,
+        "score": 0.996
+      },
+      {
+        "text": "than",
+        "start": 45.99,
+        "end": 46.13,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 46.17,
+        "end": 46.27,
+        "score": 0.995
+      },
+      {
+        "text": "angels",
+        "start": 46.41,
+        "end": 46.97,
+        "score": 0.965
+      }
+    ],
+    "6": [
+      {
+        "text": "You",
+        "start": 47.57,
+        "end": 47.63,
+        "score": 0.995
+      },
+      {
+        "text": "made",
+        "start": 47.77,
+        "end": 48.11,
+        "score": 0.25
+      },
+      {
+        "text": "him",
+        "start": 48.11,
+        "end": 48.27,
+        "score": 0.983
+      },
+      {
+        "text": "ruler",
+        "start": 48.35,
+        "end": 48.89,
+        "score": 0.4
+      },
+      {
+        "text": "of",
+        "start": 49.17,
+        "end": 49.25,
+        "score": 0.0
+      },
+      {
+        "text": "the",
+        "start": 49.27,
+        "end": 49.45,
+        "score": 0.332
+      },
+      {
+        "text": "works",
+        "start": 49.53,
+        "end": 50.53,
+        "score": 0.368
+      },
+      {
+        "text": "of",
+        "start": 50.53,
+        "end": 50.57,
+        "score": 0.0
+      },
+      {
+        "text": "Your",
+        "start": 50.57,
+        "end": 50.71,
+        "score": 0.666
+      },
+      {
+        "text": "hands",
+        "start": 50.71,
+        "end": 51.05,
+        "score": 0.4
+      }
+    ],
+    "7": [
+      {
+        "text": "all",
+        "start": 51.09,
+        "end": 51.51,
+        "score": 0.0
+      },
+      {
+        "text": "sheep",
+        "start": 51.57,
+        "end": 51.83,
+        "score": 0.196
+      },
+      {
+        "text": "and",
+        "start": 51.83,
+        "end": 51.89,
+        "score": 0.0
+      },
+      {
+        "text": "oxen",
+        "start": 52.05,
+        "end": 52.19,
+        "score": 0.25
+      }
+    ],
+    "8": [
+      {
+        "text": "the",
+        "start": 52.19,
+        "end": 52.29,
+        "score": 0.996
+      },
+      {
+        "text": "birds",
+        "start": 52.37,
+        "end": 52.69,
+        "score": 0.4
+      },
+      {
+        "text": "of",
+        "start": 52.75,
+        "end": 52.83,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 52.89,
+        "end": 52.97,
+        "score": 0.0
+      },
+      {
+        "text": "air",
+        "start": 52.97,
+        "end": 53.05,
+        "score": 0.333
+      },
+      {
+        "text": "and",
+        "start": 53.23,
+        "end": 53.55,
+        "score": 0.979
+      },
+      {
+        "text": "the",
+        "start": 53.55,
+        "end": 53.63,
+        "score": 0.0
+      },
+      {
+        "text": "fish",
+        "start": 53.63,
+        "end": 54.39,
+        "score": 0.25
+      },
+      {
+        "text": "of",
+        "start": 54.41,
+        "end": 54.47,
+        "score": 0.448
+      },
+      {
+        "text": "the",
+        "start": 54.49,
+        "end": 54.59,
+        "score": 0.333
+      },
+      {
+        "text": "sea",
+        "start": 54.65,
+        "end": 54.75,
+        "score": 0.325
+      }
+    ],
+    "9": [
+      {
+        "text": "O",
+        "start": 54.75,
+        "end": 54.79,
+        "score": 1.0
+      },
+      {
+        "text": "LORD",
+        "start": 54.81,
+        "end": 74.87,
+        "score": 1.0
+      },
+      {
+        "text": "our",
+        "start": 74.87,
+        "end": 75.15,
+        "score": 0.0
+      },
+      {
+        "text": "Lord",
+        "start": 75.43,
+        "end": 75.99,
+        "score": 0.0
+      }
+    ]
+  }
+}

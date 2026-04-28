@@ -1,0 +1,6878 @@
+{
+  "book": "1KI",
+  "chapter": "011",
+  "verses": {
+    "1": [
+      {
+        "text": "King",
+        "start": 4.6,
+        "end": 4.74,
+        "score": 0.83
+      },
+      {
+        "text": "Solomon",
+        "start": 4.92,
+        "end": 5.28,
+        "score": 0.58
+      },
+      {
+        "text": "however",
+        "start": 5.4,
+        "end": 5.84,
+        "score": 0.997
+      },
+      {
+        "text": "loved",
+        "start": 6.24,
+        "end": 6.54,
+        "score": 0.999
+      },
+      {
+        "text": "many",
+        "start": 6.64,
+        "end": 6.86,
+        "score": 1.0
+      },
+      {
+        "text": "foreign",
+        "start": 7.02,
+        "end": 7.38,
+        "score": 0.842
+      },
+      {
+        "text": "women",
+        "start": 7.46,
+        "end": 7.72,
+        "score": 0.999
+      },
+      {
+        "text": "along",
+        "start": 8.08,
+        "end": 8.42,
+        "score": 0.962
+      },
+      {
+        "text": "with",
+        "start": 8.48,
+        "end": 8.62,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 8.66,
+        "end": 8.74,
+        "score": 0.996
+      },
+      {
+        "text": "daughter",
+        "start": 8.8,
+        "end": 9.12,
+        "score": 0.991
+      },
+      {
+        "text": "of",
+        "start": 9.16,
+        "end": 9.32,
+        "score": 0.635
+      },
+      {
+        "text": "Pharaoh",
+        "start": 9.32,
+        "end": 9.72,
+        "score": 0.459
+      },
+      {
+        "text": "women",
+        "start": 10.44,
+        "end": 10.72,
+        "score": 0.972
+      },
+      {
+        "text": "of",
+        "start": 10.9,
+        "end": 11.02,
+        "score": 0.984
+      },
+      {
+        "text": "Moab",
+        "start": 11.18,
+        "end": 11.58,
+        "score": 0.975
+      },
+      {
+        "text": "Ammon",
+        "start": 12.06,
+        "end": 12.28,
+        "score": 0.541
+      },
+      {
+        "text": "Edom",
+        "start": 12.8,
+        "end": 12.96,
+        "score": 0.69
+      },
+      {
+        "text": "and",
+        "start": 13.2,
+        "end": 13.32,
+        "score": 0.992
+      },
+      {
+        "text": "Sidon",
+        "start": 13.62,
+        "end": 13.82,
+        "score": 0.929
+      },
+      {
+        "text": "as",
+        "start": 14.3,
+        "end": 14.42,
+        "score": 0.999
+      },
+      {
+        "text": "well",
+        "start": 14.48,
+        "end": 14.66,
+        "score": 0.992
+      },
+      {
+        "text": "as",
+        "start": 14.7,
+        "end": 14.82,
+        "score": 0.998
+      },
+      {
+        "text": "Hittite",
+        "start": 14.96,
+        "end": 15.34,
+        "score": 0.785
+      },
+      {
+        "text": "women",
+        "start": 15.38,
+        "end": 15.66,
+        "score": 0.997
+      }
+    ],
+    "2": [
+      {
+        "text": "These",
+        "start": 16.6,
+        "end": 16.88,
+        "score": 0.998
+      },
+      {
+        "text": "women",
+        "start": 16.92,
+        "end": 17.22,
+        "score": 0.999
+      },
+      {
+        "text": "were",
+        "start": 17.36,
+        "end": 17.52,
+        "score": 0.99
+      },
+      {
+        "text": "from",
+        "start": 17.54,
+        "end": 17.72,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 17.78,
+        "end": 17.86,
+        "score": 0.998
+      },
+      {
+        "text": "nations",
+        "start": 17.9,
+        "end": 18.32,
+        "score": 0.999
+      },
+      {
+        "text": "about",
+        "start": 18.38,
+        "end": 18.68,
+        "score": 0.999
+      },
+      {
+        "text": "which",
+        "start": 18.76,
+        "end": 19.02,
+        "score": 0.977
+      },
+      {
+        "text": "the",
+        "start": 19.12,
+        "end": 19.2,
+        "score": 0.991
+      },
+      {
+        "text": "LORD",
+        "start": 19.2,
+        "end": 19.58,
+        "score": 1.0
+      },
+      {
+        "text": "had",
+        "start": 19.58,
+        "end": 19.72,
+        "score": 0.999
+      },
+      {
+        "text": "told",
+        "start": 19.8,
+        "end": 20.06,
+        "score": 0.952
+      },
+      {
+        "text": "the",
+        "start": 20.1,
+        "end": 20.2,
+        "score": 0.917
+      },
+      {
+        "text": "Israelites",
+        "start": 20.38,
+        "end": 21.02,
+        "score": 0.994
+      },
+      {
+        "text": "You",
+        "start": 21.56,
+        "end": 21.62,
+        "score": 0.998
+      },
+      {
+        "text": "must",
+        "start": 21.68,
+        "end": 21.94,
+        "score": 0.988
+      },
+      {
+        "text": "not",
+        "start": 22.04,
+        "end": 22.26,
+        "score": 0.985
+      },
+      {
+        "text": "intermarry",
+        "start": 22.44,
+        "end": 22.94,
+        "score": 0.98
+      },
+      {
+        "text": "with",
+        "start": 23.04,
+        "end": 23.2,
+        "score": 0.997
+      },
+      {
+        "text": "them",
+        "start": 23.22,
+        "end": 23.46,
+        "score": 0.956
+      },
+      {
+        "text": "for",
+        "start": 23.94,
+        "end": 24.08,
+        "score": 0.999
+      },
+      {
+        "text": "surely",
+        "start": 24.2,
+        "end": 24.56,
+        "score": 0.997
+      },
+      {
+        "text": "they",
+        "start": 24.82,
+        "end": 24.94,
+        "score": 0.989
+      },
+      {
+        "text": "will",
+        "start": 25.0,
+        "end": 25.16,
+        "score": 0.989
+      },
+      {
+        "text": "turn",
+        "start": 25.24,
+        "end": 25.46,
+        "score": 0.999
+      },
+      {
+        "text": "your",
+        "start": 25.52,
+        "end": 25.68,
+        "score": 0.93
+      },
+      {
+        "text": "hearts",
+        "start": 25.76,
+        "end": 26.2,
+        "score": 0.932
+      },
+      {
+        "text": "after",
+        "start": 26.38,
+        "end": 26.62,
+        "score": 0.999
+      },
+      {
+        "text": "their",
+        "start": 26.68,
+        "end": 26.84,
+        "score": 0.907
+      },
+      {
+        "text": "gods",
+        "start": 26.9,
+        "end": 27.46,
+        "score": 0.814
+      },
+      {
+        "text": "Yet",
+        "start": 28.38,
+        "end": 28.5,
+        "score": 0.998
+      },
+      {
+        "text": "Solomon",
+        "start": 28.7,
+        "end": 29.06,
+        "score": 0.984
+      },
+      {
+        "text": "clung",
+        "start": 29.2,
+        "end": 29.54,
+        "score": 0.825
+      },
+      {
+        "text": "to",
+        "start": 29.64,
+        "end": 29.74,
+        "score": 0.998
+      },
+      {
+        "text": "these",
+        "start": 29.82,
+        "end": 30.08,
+        "score": 0.997
+      },
+      {
+        "text": "women",
+        "start": 30.12,
+        "end": 30.4,
+        "score": 0.97
+      },
+      {
+        "text": "in",
+        "start": 30.62,
+        "end": 30.7,
+        "score": 0.998
+      },
+      {
+        "text": "love",
+        "start": 30.78,
+        "end": 31.2,
+        "score": 0.999
+      }
+    ],
+    "3": [
+      {
+        "text": "He",
+        "start": 32.12,
+        "end": 32.14,
+        "score": 0.999
+      },
+      {
+        "text": "had",
+        "start": 32.28,
+        "end": 32.48,
+        "score": 0.999
+      },
+      {
+        "text": "seven",
+        "start": 32.66,
+        "end": 32.94,
+        "score": 0.937
+      },
+      {
+        "text": "hundred",
+        "start": 33.0,
+        "end": 33.3,
+        "score": 0.847
+      },
+      {
+        "text": "wives",
+        "start": 33.38,
+        "end": 33.78,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 33.86,
+        "end": 33.96,
+        "score": 0.999
+      },
+      {
+        "text": "royal",
+        "start": 34.06,
+        "end": 34.36,
+        "score": 0.999
+      },
+      {
+        "text": "birth",
+        "start": 34.44,
+        "end": 34.82,
+        "score": 0.847
+      },
+      {
+        "text": "and",
+        "start": 35.28,
+        "end": 35.42,
+        "score": 0.943
+      },
+      {
+        "text": "three",
+        "start": 35.5,
+        "end": 35.74,
+        "score": 0.919
+      },
+      {
+        "text": "hundred",
+        "start": 35.8,
+        "end": 36.12,
+        "score": 0.589
+      },
+      {
+        "text": "concubines",
+        "start": 36.18,
+        "end": 37.06,
+        "score": 0.96
+      },
+      {
+        "text": "and",
+        "start": 37.68,
+        "end": 37.78,
+        "score": 0.998
+      },
+      {
+        "text": "his",
+        "start": 37.84,
+        "end": 38.0,
+        "score": 0.997
+      },
+      {
+        "text": "wives",
+        "start": 38.08,
+        "end": 38.54,
+        "score": 0.997
+      },
+      {
+        "text": "turned",
+        "start": 38.64,
+        "end": 38.98,
+        "score": 0.993
+      },
+      {
+        "text": "his",
+        "start": 39.02,
+        "end": 39.2,
+        "score": 0.993
+      },
+      {
+        "text": "heart",
+        "start": 39.26,
+        "end": 39.56,
+        "score": 0.976
+      },
+      {
+        "text": "away",
+        "start": 39.72,
+        "end": 40.08,
+        "score": 0.999
+      }
+    ],
+    "4": [
+      {
+        "text": "For",
+        "start": 41.34,
+        "end": 41.42,
+        "score": 0.999
+      },
+      {
+        "text": "when",
+        "start": 41.48,
+        "end": 41.62,
+        "score": 0.996
+      },
+      {
+        "text": "Solomon",
+        "start": 41.84,
+        "end": 42.18,
+        "score": 0.989
+      },
+      {
+        "text": "grew",
+        "start": 42.26,
+        "end": 42.46,
+        "score": 0.999
+      },
+      {
+        "text": "old",
+        "start": 42.64,
+        "end": 42.92,
+        "score": 0.992
+      },
+      {
+        "text": "his",
+        "start": 43.28,
+        "end": 43.44,
+        "score": 0.999
+      },
+      {
+        "text": "wives",
+        "start": 43.54,
+        "end": 43.9,
+        "score": 0.999
+      },
+      {
+        "text": "turned",
+        "start": 43.96,
+        "end": 44.22,
+        "score": 0.991
+      },
+      {
+        "text": "his",
+        "start": 44.26,
+        "end": 44.4,
+        "score": 0.999
+      },
+      {
+        "text": "heart",
+        "start": 44.46,
+        "end": 44.72,
+        "score": 0.982
+      },
+      {
+        "text": "after",
+        "start": 44.9,
+        "end": 45.14,
+        "score": 0.999
+      },
+      {
+        "text": "other",
+        "start": 45.26,
+        "end": 45.46,
+        "score": 0.999
+      },
+      {
+        "text": "gods",
+        "start": 45.52,
+        "end": 46.04,
+        "score": 0.998
+      },
+      {
+        "text": "and",
+        "start": 46.56,
+        "end": 46.66,
+        "score": 0.981
+      },
+      {
+        "text": "he",
+        "start": 46.7,
+        "end": 46.76,
+        "score": 0.999
+      },
+      {
+        "text": "was",
+        "start": 46.84,
+        "end": 47.0,
+        "score": 0.999
+      },
+      {
+        "text": "not",
+        "start": 47.1,
+        "end": 47.32,
+        "score": 0.979
+      },
+      {
+        "text": "wholeheartedly",
+        "start": 47.4,
+        "end": 48.16,
+        "score": 0.87
+      },
+      {
+        "text": "devoted",
+        "start": 48.22,
+        "end": 48.68,
+        "score": 1.0
+      },
+      {
+        "text": "to",
+        "start": 48.74,
+        "end": 48.82,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 48.88,
+        "end": 48.96,
+        "score": 0.995
+      },
+      {
+        "text": "LORD",
+        "start": 48.96,
+        "end": 49.38,
+        "score": 1.0
+      },
+      {
+        "text": "his",
+        "start": 49.38,
+        "end": 49.54,
+        "score": 0.999
+      },
+      {
+        "text": "God",
+        "start": 49.7,
+        "end": 49.9,
+        "score": 1.0
+      },
+      {
+        "text": "as",
+        "start": 50.32,
+        "end": 50.42,
+        "score": 0.999
+      },
+      {
+        "text": "his",
+        "start": 50.46,
+        "end": 50.6,
+        "score": 0.996
+      },
+      {
+        "text": "father",
+        "start": 50.66,
+        "end": 50.96,
+        "score": 0.97
+      },
+      {
+        "text": "David",
+        "start": 51.16,
+        "end": 51.42,
+        "score": 0.998
+      },
+      {
+        "text": "had",
+        "start": 51.52,
+        "end": 51.68,
+        "score": 0.999
+      },
+      {
+        "text": "been",
+        "start": 51.72,
+        "end": 52.0,
+        "score": 0.904
+      }
+    ],
+    "5": [
+      {
+        "text": "Solomon",
+        "start": 53.22,
+        "end": 53.58,
+        "score": 0.804
+      },
+      {
+        "text": "followed",
+        "start": 53.68,
+        "end": 54.04,
+        "score": 0.996
+      },
+      {
+        "text": "Ashtoreth",
+        "start": 54.32,
+        "end": 54.82,
+        "score": 0.717
+      },
+      {
+        "text": "the",
+        "start": 55.02,
+        "end": 55.12,
+        "score": 0.966
+      },
+      {
+        "text": "goddess",
+        "start": 55.18,
+        "end": 55.54,
+        "score": 0.691
+      },
+      {
+        "text": "of",
+        "start": 55.62,
+        "end": 55.68,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 55.72,
+        "end": 55.78,
+        "score": 0.943
+      },
+      {
+        "text": "Sidonians",
+        "start": 55.92,
+        "end": 56.6,
+        "score": 0.846
+      },
+      {
+        "text": "and",
+        "start": 57.06,
+        "end": 57.2,
+        "score": 0.957
+      },
+      {
+        "text": "Milcom",
+        "start": 57.36,
+        "end": 58.62,
+        "score": 0.886
+      }
+    ],
+    "6": [
+      {
+        "text": "So",
+        "start": 59.0,
+        "end": 59.02,
+        "score": 0.999
+      },
+      {
+        "text": "Solomon",
+        "start": 59.22,
+        "end": 61.8,
+        "score": 0.99
+      },
+      {
+        "text": "did",
+        "start": 61.9,
+        "end": 62.06,
+        "score": 0.999
+      },
+      {
+        "text": "evil",
+        "start": 62.26,
+        "end": 62.6,
+        "score": 0.982
+      },
+      {
+        "text": "in",
+        "start": 62.78,
+        "end": 62.84,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 62.88,
+        "end": 62.96,
+        "score": 0.975
+      },
+      {
+        "text": "sight",
+        "start": 63.06,
+        "end": 63.32,
+        "score": 0.973
+      },
+      {
+        "text": "of",
+        "start": 63.36,
+        "end": 63.42,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 63.46,
+        "end": 63.54,
+        "score": 0.997
+      },
+      {
+        "text": "LORD",
+        "start": 63.54,
+        "end": 64.64,
+        "score": 1.0
+      },
+      {
+        "text": "unlike",
+        "start": 64.64,
+        "end": 65.08,
+        "score": 0.999
+      },
+      {
+        "text": "his",
+        "start": 65.12,
+        "end": 65.26,
+        "score": 0.996
+      },
+      {
+        "text": "father",
+        "start": 65.32,
+        "end": 65.62,
+        "score": 0.979
+      },
+      {
+        "text": "David",
+        "start": 65.76,
+        "end": 66.02,
+        "score": 0.966
+      },
+      {
+        "text": "he",
+        "start": 66.42,
+        "end": 66.5,
+        "score": 0.999
+      },
+      {
+        "text": "did",
+        "start": 66.6,
+        "end": 66.76,
+        "score": 0.975
+      },
+      {
+        "text": "not",
+        "start": 66.82,
+        "end": 67.0,
+        "score": 0.999
+      },
+      {
+        "text": "follow",
+        "start": 67.1,
+        "end": 67.4,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 67.46,
+        "end": 67.56,
+        "score": 0.948
+      },
+      {
+        "text": "LORD",
+        "start": 67.56,
+        "end": 67.98,
+        "score": 1.0
+      },
+      {
+        "text": "completely",
+        "start": 67.98,
+        "end": 68.54,
+        "score": 0.999
+      }
+    ],
+    "7": [
+      {
+        "text": "At",
+        "start": 70.0,
+        "end": 70.02,
+        "score": 0.998
+      },
+      {
+        "text": "that",
+        "start": 70.06,
+        "end": 70.26,
+        "score": 0.982
+      },
+      {
+        "text": "time",
+        "start": 70.34,
+        "end": 70.74,
+        "score": 0.975
+      },
+      {
+        "text": "on",
+        "start": 70.9,
+        "end": 71.0,
+        "score": 0.998
+      },
+      {
+        "text": "a",
+        "start": 71.06,
+        "end": 71.08,
+        "score": 0.996
+      },
+      {
+        "text": "hill",
+        "start": 71.18,
+        "end": 71.42,
+        "score": 0.84
+      },
+      {
+        "text": "east",
+        "start": 71.64,
+        "end": 71.86,
+        "score": 0.984
+      },
+      {
+        "text": "of",
+        "start": 71.9,
+        "end": 71.98,
+        "score": 0.999
+      },
+      {
+        "text": "Jerusalem",
+        "start": 72.08,
+        "end": 72.58,
+        "score": 1.0
+      },
+      {
+        "text": "Solomon",
+        "start": 73.14,
+        "end": 73.5,
+        "score": 0.991
+      },
+      {
+        "text": "built",
+        "start": 73.58,
+        "end": 73.84,
+        "score": 0.918
+      },
+      {
+        "text": "a",
+        "start": 74.0,
+        "end": 74.02,
+        "score": 0.998
+      },
+      {
+        "text": "high",
+        "start": 74.16,
+        "end": 74.44,
+        "score": 0.909
+      },
+      {
+        "text": "place",
+        "start": 74.46,
+        "end": 74.84,
+        "score": 0.985
+      },
+      {
+        "text": "for",
+        "start": 74.88,
+        "end": 75.02,
+        "score": 0.999
+      },
+      {
+        "text": "Chemosh",
+        "start": 75.1,
+        "end": 75.68,
+        "score": 0.535
+      },
+      {
+        "text": "the",
+        "start": 75.98,
+        "end": 76.08,
+        "score": 0.996
+      },
+      {
+        "text": "abomination",
+        "start": 76.14,
+        "end": 76.92,
+        "score": 0.996
+      },
+      {
+        "text": "of",
+        "start": 77.06,
+        "end": 77.16,
+        "score": 0.999
+      },
+      {
+        "text": "Moab",
+        "start": 77.3,
+        "end": 77.7,
+        "score": 0.993
+      },
+      {
+        "text": "and",
+        "start": 78.4,
+        "end": 78.62,
+        "score": 0.999
+      },
+      {
+        "text": "for",
+        "start": 78.7,
+        "end": 78.86,
+        "score": 0.999
+      },
+      {
+        "text": "Molech",
+        "start": 79.0,
+        "end": 79.4,
+        "score": 0.541
+      },
+      {
+        "text": "the",
+        "start": 79.64,
+        "end": 79.74,
+        "score": 0.982
+      },
+      {
+        "text": "abomination",
+        "start": 79.78,
+        "end": 80.52,
+        "score": 0.993
+      },
+      {
+        "text": "of",
+        "start": 80.66,
+        "end": 80.74,
+        "score": 0.942
+      },
+      {
+        "text": "the",
+        "start": 80.76,
+        "end": 80.86,
+        "score": 0.978
+      },
+      {
+        "text": "Ammonites",
+        "start": 80.96,
+        "end": 81.58,
+        "score": 0.728
+      }
+    ],
+    "8": [
+      {
+        "text": "He",
+        "start": 82.48,
+        "end": 82.5,
+        "score": 0.999
+      },
+      {
+        "text": "did",
+        "start": 82.6,
+        "end": 82.76,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 82.8,
+        "end": 82.88,
+        "score": 0.996
+      },
+      {
+        "text": "same",
+        "start": 82.96,
+        "end": 83.26,
+        "score": 0.999
+      },
+      {
+        "text": "for",
+        "start": 83.32,
+        "end": 83.46,
+        "score": 0.999
+      },
+      {
+        "text": "all",
+        "start": 83.62,
+        "end": 83.8,
+        "score": 0.968
+      },
+      {
+        "text": "his",
+        "start": 83.9,
+        "end": 84.08,
+        "score": 0.994
+      },
+      {
+        "text": "foreign",
+        "start": 84.16,
+        "end": 84.5,
+        "score": 0.807
+      },
+      {
+        "text": "wives",
+        "start": 84.54,
+        "end": 85.02,
+        "score": 0.999
+      },
+      {
+        "text": "who",
+        "start": 85.36,
+        "end": 85.46,
+        "score": 0.984
+      },
+      {
+        "text": "burned",
+        "start": 85.58,
+        "end": 85.9,
+        "score": 0.948
+      },
+      {
+        "text": "incense",
+        "start": 86.04,
+        "end": 86.58,
+        "score": 0.866
+      },
+      {
+        "text": "and",
+        "start": 86.9,
+        "end": 87.02,
+        "score": 0.999
+      },
+      {
+        "text": "sacrificed",
+        "start": 87.12,
+        "end": 87.9,
+        "score": 0.997
+      },
+      {
+        "text": "to",
+        "start": 88.02,
+        "end": 88.1,
+        "score": 0.998
+      },
+      {
+        "text": "their",
+        "start": 88.16,
+        "end": 88.32,
+        "score": 0.958
+      },
+      {
+        "text": "gods",
+        "start": 88.38,
+        "end": 88.92,
+        "score": 0.998
+      }
+    ],
+    "9": [
+      {
+        "text": "Now",
+        "start": 90.12,
+        "end": 90.22,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 90.26,
+        "end": 90.34,
+        "score": 0.999
+      },
+      {
+        "text": "LORD",
+        "start": 90.34,
+        "end": 90.84,
+        "score": 1.0
+      },
+      {
+        "text": "grew",
+        "start": 90.84,
+        "end": 91.06,
+        "score": 0.999
+      },
+      {
+        "text": "angry",
+        "start": 91.22,
+        "end": 91.52,
+        "score": 0.996
+      },
+      {
+        "text": "with",
+        "start": 91.62,
+        "end": 91.78,
+        "score": 0.999
+      },
+      {
+        "text": "Solomon",
+        "start": 91.94,
+        "end": 92.3,
+        "score": 0.989
+      },
+      {
+        "text": "because",
+        "start": 92.8,
+        "end": 93.26,
+        "score": 0.996
+      },
+      {
+        "text": "his",
+        "start": 93.3,
+        "end": 93.44,
+        "score": 0.999
+      },
+      {
+        "text": "heart",
+        "start": 93.5,
+        "end": 93.76,
+        "score": 0.979
+      },
+      {
+        "text": "had",
+        "start": 93.84,
+        "end": 93.98,
+        "score": 0.999
+      },
+      {
+        "text": "turned",
+        "start": 94.04,
+        "end": 94.28,
+        "score": 0.955
+      },
+      {
+        "text": "away",
+        "start": 94.32,
+        "end": 94.56,
+        "score": 0.999
+      },
+      {
+        "text": "from",
+        "start": 94.66,
+        "end": 94.8,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 94.84,
+        "end": 94.92,
+        "score": 0.999
+      },
+      {
+        "text": "LORD",
+        "start": 94.92,
+        "end": 95.66,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 95.66,
+        "end": 95.76,
+        "score": 0.936
+      },
+      {
+        "text": "God",
+        "start": 95.92,
+        "end": 96.08,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 96.12,
+        "end": 96.2,
+        "score": 0.998
+      },
+      {
+        "text": "Israel",
+        "start": 96.46,
+        "end": 96.8,
+        "score": 0.987
+      },
+      {
+        "text": "who",
+        "start": 97.18,
+        "end": 97.28,
+        "score": 0.997
+      },
+      {
+        "text": "had",
+        "start": 97.36,
+        "end": 97.5,
+        "score": 0.996
+      },
+      {
+        "text": "appeared",
+        "start": 97.54,
+        "end": 97.92,
+        "score": 0.955
+      },
+      {
+        "text": "to",
+        "start": 97.98,
+        "end": 98.06,
+        "score": 0.996
+      },
+      {
+        "text": "him",
+        "start": 98.14,
+        "end": 98.3,
+        "score": 0.998
+      },
+      {
+        "text": "twice",
+        "start": 98.42,
+        "end": 98.94,
+        "score": 0.784
+      }
+    ],
+    "10": [
+      {
+        "text": "Although",
+        "start": 100.04,
+        "end": 100.44,
+        "score": 0.963
+      },
+      {
+        "text": "He",
+        "start": 100.46,
+        "end": 100.48,
+        "score": 0.999
+      },
+      {
+        "text": "had",
+        "start": 100.56,
+        "end": 100.7,
+        "score": 0.999
+      },
+      {
+        "text": "warned",
+        "start": 100.78,
+        "end": 101.06,
+        "score": 0.776
+      },
+      {
+        "text": "Solomon",
+        "start": 101.18,
+        "end": 101.54,
+        "score": 0.996
+      },
+      {
+        "text": "explicitly",
+        "start": 101.7,
+        "end": 102.42,
+        "score": 0.98
+      },
+      {
+        "text": "not",
+        "start": 102.9,
+        "end": 103.1,
+        "score": 1.0
+      },
+      {
+        "text": "to",
+        "start": 103.16,
+        "end": 103.26,
+        "score": 0.999
+      },
+      {
+        "text": "follow",
+        "start": 103.38,
+        "end": 103.7,
+        "score": 0.998
+      },
+      {
+        "text": "other",
+        "start": 103.84,
+        "end": 104.02,
+        "score": 0.999
+      },
+      {
+        "text": "gods",
+        "start": 104.1,
+        "end": 105.0,
+        "score": 1.0
+      },
+      {
+        "text": "Solomon",
+        "start": 105.08,
+        "end": 105.46,
+        "score": 0.964
+      },
+      {
+        "text": "did",
+        "start": 105.58,
+        "end": 105.74,
+        "score": 0.999
+      },
+      {
+        "text": "not",
+        "start": 105.8,
+        "end": 105.98,
+        "score": 0.949
+      },
+      {
+        "text": "keep",
+        "start": 106.08,
+        "end": 106.32,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 106.4,
+        "end": 106.48,
+        "score": 0.994
+      },
+      {
+        "text": "LORD",
+        "start": 106.48,
+        "end": 106.82,
+        "score": 1.0
+      },
+      {
+        "text": "s",
+        "start": 106.82,
+        "end": 106.84,
+        "score": 0.994
+      },
+      {
+        "text": "command",
+        "start": 106.88,
+        "end": 107.4,
+        "score": 0.952
+      }
+    ],
+    "11": [
+      {
+        "text": "Then",
+        "start": 108.5,
+        "end": 108.64,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 108.68,
+        "end": 108.76,
+        "score": 0.948
+      },
+      {
+        "text": "LORD",
+        "start": 108.76,
+        "end": 109.16,
+        "score": 1.0
+      },
+      {
+        "text": "said",
+        "start": 109.16,
+        "end": 109.36,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 109.42,
+        "end": 109.48,
+        "score": 0.998
+      },
+      {
+        "text": "Solomon",
+        "start": 109.68,
+        "end": 110.04,
+        "score": 0.991
+      },
+      {
+        "text": "Because",
+        "start": 110.58,
+        "end": 111.0,
+        "score": 0.986
+      },
+      {
+        "text": "you",
+        "start": 111.04,
+        "end": 111.14,
+        "score": 0.997
+      },
+      {
+        "text": "have",
+        "start": 111.2,
+        "end": 111.36,
+        "score": 0.998
+      },
+      {
+        "text": "done",
+        "start": 111.38,
+        "end": 111.58,
+        "score": 0.927
+      },
+      {
+        "text": "this",
+        "start": 111.62,
+        "end": 111.88,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 112.24,
+        "end": 112.36,
+        "score": 0.973
+      },
+      {
+        "text": "have",
+        "start": 112.4,
+        "end": 112.54,
+        "score": 0.998
+      },
+      {
+        "text": "not",
+        "start": 112.6,
+        "end": 112.78,
+        "score": 0.999
+      },
+      {
+        "text": "kept",
+        "start": 112.88,
+        "end": 113.12,
+        "score": 0.999
+      },
+      {
+        "text": "My",
+        "start": 113.34,
+        "end": 113.36,
+        "score": 0.999
+      },
+      {
+        "text": "covenant",
+        "start": 113.44,
+        "end": 113.9,
+        "score": 0.916
+      },
+      {
+        "text": "and",
+        "start": 114.06,
+        "end": 114.18,
+        "score": 0.997
+      },
+      {
+        "text": "My",
+        "start": 114.4,
+        "end": 114.42,
+        "score": 1.0
+      },
+      {
+        "text": "statutes",
+        "start": 114.5,
+        "end": 115.08,
+        "score": 0.961
+      },
+      {
+        "text": "which",
+        "start": 115.38,
+        "end": 115.56,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 115.56,
+        "end": 115.86,
+        "score": 1.0
+      },
+      {
+        "text": "have",
+        "start": 115.86,
+        "end": 116.02,
+        "score": 0.951
+      },
+      {
+        "text": "commanded",
+        "start": 116.04,
+        "end": 116.54,
+        "score": 0.976
+      },
+      {
+        "text": "you",
+        "start": 116.6,
+        "end": 116.7,
+        "score": 0.955
+      },
+      {
+        "text": "I",
+        "start": 116.7,
+        "end": 117.68,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 117.68,
+        "end": 117.88,
+        "score": 0.969
+      },
+      {
+        "text": "tear",
+        "start": 118.02,
+        "end": 118.26,
+        "score": 0.599
+      },
+      {
+        "text": "the",
+        "start": 118.32,
+        "end": 118.4,
+        "score": 0.994
+      },
+      {
+        "text": "kingdom",
+        "start": 118.48,
+        "end": 118.84,
+        "score": 0.999
+      },
+      {
+        "text": "away",
+        "start": 119.0,
+        "end": 119.26,
+        "score": 1.0
+      },
+      {
+        "text": "from",
+        "start": 119.34,
+        "end": 119.5,
+        "score": 1.0
+      },
+      {
+        "text": "you",
+        "start": 119.56,
+        "end": 119.7,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 120.08,
+        "end": 120.2,
+        "score": 0.999
+      },
+      {
+        "text": "give",
+        "start": 120.28,
+        "end": 120.48,
+        "score": 0.993
+      },
+      {
+        "text": "it",
+        "start": 120.5,
+        "end": 120.58,
+        "score": 0.801
+      },
+      {
+        "text": "to",
+        "start": 120.64,
+        "end": 120.72,
+        "score": 0.998
+      },
+      {
+        "text": "your",
+        "start": 120.8,
+        "end": 120.94,
+        "score": 0.991
+      },
+      {
+        "text": "servant",
+        "start": 121.04,
+        "end": 121.44,
+        "score": 0.999
+      }
+    ],
+    "12": [
+      {
+        "text": "Nevertheless",
+        "start": 122.54,
+        "end": 123.18,
+        "score": 0.994
+      },
+      {
+        "text": "for",
+        "start": 123.48,
+        "end": 123.62,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 123.66,
+        "end": 123.74,
+        "score": 0.995
+      },
+      {
+        "text": "sake",
+        "start": 123.86,
+        "end": 124.12,
+        "score": 0.94
+      },
+      {
+        "text": "of",
+        "start": 124.16,
+        "end": 124.22,
+        "score": 0.999
+      },
+      {
+        "text": "your",
+        "start": 124.26,
+        "end": 124.42,
+        "score": 0.992
+      },
+      {
+        "text": "father",
+        "start": 124.5,
+        "end": 124.82,
+        "score": 0.999
+      },
+      {
+        "text": "David",
+        "start": 124.96,
+        "end": 125.2,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 125.2,
+        "end": 125.7,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 125.7,
+        "end": 125.88,
+        "score": 0.985
+      },
+      {
+        "text": "not",
+        "start": 125.94,
+        "end": 126.12,
+        "score": 1.0
+      },
+      {
+        "text": "do",
+        "start": 126.22,
+        "end": 126.32,
+        "score": 0.999
+      },
+      {
+        "text": "it",
+        "start": 126.44,
+        "end": 126.56,
+        "score": 0.999
+      },
+      {
+        "text": "during",
+        "start": 126.74,
+        "end": 127.02,
+        "score": 0.987
+      },
+      {
+        "text": "your",
+        "start": 127.06,
+        "end": 127.22,
+        "score": 0.975
+      },
+      {
+        "text": "lifetime",
+        "start": 127.28,
+        "end": 127.92,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 127.92,
+        "end": 128.9,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 128.9,
+        "end": 129.06,
+        "score": 0.978
+      },
+      {
+        "text": "tear",
+        "start": 129.14,
+        "end": 129.36,
+        "score": 0.53
+      },
+      {
+        "text": "it",
+        "start": 129.4,
+        "end": 129.48,
+        "score": 0.995
+      },
+      {
+        "text": "out",
+        "start": 129.62,
+        "end": 129.74,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 129.78,
+        "end": 129.84,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 129.86,
+        "end": 129.96,
+        "score": 0.994
+      },
+      {
+        "text": "hand",
+        "start": 130.04,
+        "end": 130.34,
+        "score": 0.995
+      },
+      {
+        "text": "of",
+        "start": 130.46,
+        "end": 130.54,
+        "score": 0.999
+      },
+      {
+        "text": "your",
+        "start": 130.58,
+        "end": 130.72,
+        "score": 0.994
+      },
+      {
+        "text": "son",
+        "start": 130.8,
+        "end": 131.1,
+        "score": 1.0
+      }
+    ],
+    "13": [
+      {
+        "text": "Yet",
+        "start": 132.06,
+        "end": 132.14,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 132.14,
+        "end": 132.38,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 132.38,
+        "end": 132.54,
+        "score": 0.912
+      },
+      {
+        "text": "not",
+        "start": 132.6,
+        "end": 132.78,
+        "score": 0.936
+      },
+      {
+        "text": "tear",
+        "start": 132.86,
+        "end": 133.1,
+        "score": 0.494
+      },
+      {
+        "text": "the",
+        "start": 133.16,
+        "end": 133.24,
+        "score": 0.998
+      },
+      {
+        "text": "whole",
+        "start": 133.34,
+        "end": 133.58,
+        "score": 0.931
+      },
+      {
+        "text": "kingdom",
+        "start": 133.64,
+        "end": 133.98,
+        "score": 0.995
+      },
+      {
+        "text": "away",
+        "start": 134.14,
+        "end": 134.4,
+        "score": 0.965
+      },
+      {
+        "text": "from",
+        "start": 134.48,
+        "end": 134.66,
+        "score": 0.999
+      },
+      {
+        "text": "him",
+        "start": 134.72,
+        "end": 134.9,
+        "score": 1.0
+      },
+      {
+        "text": "I",
+        "start": 134.9,
+        "end": 135.9,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 135.9,
+        "end": 136.08,
+        "score": 0.999
+      },
+      {
+        "text": "give",
+        "start": 136.16,
+        "end": 136.42,
+        "score": 0.979
+      },
+      {
+        "text": "one",
+        "start": 136.58,
+        "end": 136.74,
+        "score": 0.922
+      },
+      {
+        "text": "tribe",
+        "start": 136.8,
+        "end": 137.16,
+        "score": 0.977
+      },
+      {
+        "text": "to",
+        "start": 137.2,
+        "end": 137.28,
+        "score": 0.998
+      },
+      {
+        "text": "your",
+        "start": 137.36,
+        "end": 137.54,
+        "score": 0.999
+      },
+      {
+        "text": "son",
+        "start": 137.64,
+        "end": 137.9,
+        "score": 1.0
+      },
+      {
+        "text": "for",
+        "start": 138.28,
+        "end": 138.4,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 138.46,
+        "end": 138.54,
+        "score": 0.918
+      },
+      {
+        "text": "sake",
+        "start": 138.64,
+        "end": 138.94,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 138.96,
+        "end": 139.04,
+        "score": 0.999
+      },
+      {
+        "text": "My",
+        "start": 139.28,
+        "end": 139.3,
+        "score": 1.0
+      },
+      {
+        "text": "servant",
+        "start": 139.4,
+        "end": 139.74,
+        "score": 0.999
+      },
+      {
+        "text": "David",
+        "start": 139.86,
+        "end": 140.14,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 140.56,
+        "end": 140.68,
+        "score": 0.923
+      },
+      {
+        "text": "for",
+        "start": 140.72,
+        "end": 140.84,
+        "score": 0.993
+      },
+      {
+        "text": "the",
+        "start": 140.86,
+        "end": 140.96,
+        "score": 0.983
+      },
+      {
+        "text": "sake",
+        "start": 141.06,
+        "end": 141.38,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 141.5,
+        "end": 141.58,
+        "score": 0.999
+      },
+      {
+        "text": "Jerusalem",
+        "start": 141.72,
+        "end": 142.24,
+        "score": 1.0
+      },
+      {
+        "text": "which",
+        "start": 142.5,
+        "end": 142.68,
+        "score": 0.997
+      },
+      {
+        "text": "I",
+        "start": 142.68,
+        "end": 143.04,
+        "score": 1.0
+      },
+      {
+        "text": "have",
+        "start": 143.04,
+        "end": 143.2,
+        "score": 0.995
+      },
+      {
+        "text": "chosen",
+        "start": 143.24,
+        "end": 143.62,
+        "score": 0.996
+      }
+    ],
+    "14": [
+      {
+        "text": "Then",
+        "start": 145.0,
+        "end": 145.12,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 145.16,
+        "end": 145.24,
+        "score": 0.986
+      },
+      {
+        "text": "LORD",
+        "start": 145.24,
+        "end": 145.62,
+        "score": 1.0
+      },
+      {
+        "text": "raised",
+        "start": 145.62,
+        "end": 145.9,
+        "score": 0.908
+      },
+      {
+        "text": "up",
+        "start": 145.96,
+        "end": 146.08,
+        "score": 1.0
+      },
+      {
+        "text": "against",
+        "start": 146.14,
+        "end": 146.5,
+        "score": 0.985
+      },
+      {
+        "text": "Solomon",
+        "start": 146.66,
+        "end": 147.02,
+        "score": 0.963
+      },
+      {
+        "text": "an",
+        "start": 147.22,
+        "end": 147.3,
+        "score": 0.997
+      },
+      {
+        "text": "adversary",
+        "start": 147.44,
+        "end": 148.06,
+        "score": 0.998
+      },
+      {
+        "text": "Hadad",
+        "start": 148.7,
+        "end": 149.12,
+        "score": 0.889
+      },
+      {
+        "text": "the",
+        "start": 149.28,
+        "end": 149.54,
+        "score": 0.974
+      },
+      {
+        "text": "Edomite",
+        "start": 149.62,
+        "end": 150.04,
+        "score": 0.759
+      },
+      {
+        "text": "from",
+        "start": 150.34,
+        "end": 150.5,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 150.52,
+        "end": 150.62,
+        "score": 0.995
+      },
+      {
+        "text": "royal",
+        "start": 150.7,
+        "end": 151.02,
+        "score": 0.999
+      },
+      {
+        "text": "line",
+        "start": 151.12,
+        "end": 151.48,
+        "score": 0.977
+      },
+      {
+        "text": "of",
+        "start": 151.62,
+        "end": 151.72,
+        "score": 0.998
+      },
+      {
+        "text": "Edom",
+        "start": 151.96,
+        "end": 152.12,
+        "score": 0.694
+      }
+    ],
+    "15": [
+      {
+        "text": "Earlier",
+        "start": 153.18,
+        "end": 153.56,
+        "score": 0.952
+      },
+      {
+        "text": "when",
+        "start": 153.9,
+        "end": 154.06,
+        "score": 0.999
+      },
+      {
+        "text": "David",
+        "start": 154.24,
+        "end": 154.5,
+        "score": 0.998
+      },
+      {
+        "text": "was",
+        "start": 154.56,
+        "end": 154.74,
+        "score": 0.998
+      },
+      {
+        "text": "in",
+        "start": 154.9,
+        "end": 155.0,
+        "score": 0.998
+      },
+      {
+        "text": "Edom",
+        "start": 155.26,
+        "end": 155.42,
+        "score": 0.693
+      },
+      {
+        "text": "Joab",
+        "start": 156.0,
+        "end": 156.36,
+        "score": 0.993
+      },
+      {
+        "text": "the",
+        "start": 156.44,
+        "end": 156.54,
+        "score": 0.922
+      },
+      {
+        "text": "commander",
+        "start": 156.58,
+        "end": 157.04,
+        "score": 0.995
+      },
+      {
+        "text": "of",
+        "start": 157.08,
+        "end": 157.14,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 157.18,
+        "end": 157.26,
+        "score": 0.998
+      },
+      {
+        "text": "army",
+        "start": 157.42,
+        "end": 157.64,
+        "score": 1.0
+      },
+      {
+        "text": "had",
+        "start": 158.04,
+        "end": 158.18,
+        "score": 0.999
+      },
+      {
+        "text": "gone",
+        "start": 158.26,
+        "end": 158.52,
+        "score": 0.85
+      },
+      {
+        "text": "to",
+        "start": 158.58,
+        "end": 158.66,
+        "score": 0.999
+      },
+      {
+        "text": "bury",
+        "start": 158.8,
+        "end": 159.04,
+        "score": 0.985
+      },
+      {
+        "text": "the",
+        "start": 159.12,
+        "end": 159.2,
+        "score": 0.993
+      },
+      {
+        "text": "dead",
+        "start": 159.26,
+        "end": 159.58,
+        "score": 0.95
+      },
+      {
+        "text": "and",
+        "start": 160.0,
+        "end": 160.12,
+        "score": 0.999
+      },
+      {
+        "text": "had",
+        "start": 160.16,
+        "end": 160.28,
+        "score": 0.993
+      },
+      {
+        "text": "struck",
+        "start": 160.34,
+        "end": 160.62,
+        "score": 0.911
+      },
+      {
+        "text": "down",
+        "start": 160.7,
+        "end": 160.96,
+        "score": 0.996
+      },
+      {
+        "text": "every",
+        "start": 161.16,
+        "end": 161.4,
+        "score": 0.95
+      },
+      {
+        "text": "male",
+        "start": 161.5,
+        "end": 161.86,
+        "score": 0.777
+      },
+      {
+        "text": "in",
+        "start": 162.04,
+        "end": 162.12,
+        "score": 0.998
+      },
+      {
+        "text": "Edom",
+        "start": 162.4,
+        "end": 162.56,
+        "score": 0.686
+      }
+    ],
+    "16": [
+      {
+        "text": "Joab",
+        "start": 163.62,
+        "end": 164.02,
+        "score": 0.99
+      },
+      {
+        "text": "and",
+        "start": 164.22,
+        "end": 164.36,
+        "score": 0.998
+      },
+      {
+        "text": "all",
+        "start": 164.5,
+        "end": 164.66,
+        "score": 0.999
+      },
+      {
+        "text": "Israel",
+        "start": 164.92,
+        "end": 165.24,
+        "score": 0.993
+      },
+      {
+        "text": "had",
+        "start": 165.36,
+        "end": 165.52,
+        "score": 0.999
+      },
+      {
+        "text": "stayed",
+        "start": 165.6,
+        "end": 165.86,
+        "score": 0.785
+      },
+      {
+        "text": "there",
+        "start": 165.9,
+        "end": 166.12,
+        "score": 0.986
+      },
+      {
+        "text": "six",
+        "start": 166.26,
+        "end": 166.44,
+        "score": 0.996
+      },
+      {
+        "text": "months",
+        "start": 166.56,
+        "end": 166.98,
+        "score": 0.998
+      },
+      {
+        "text": "until",
+        "start": 167.5,
+        "end": 167.86,
+        "score": 0.996
+      },
+      {
+        "text": "he",
+        "start": 167.92,
+        "end": 168.0,
+        "score": 0.995
+      },
+      {
+        "text": "had",
+        "start": 168.08,
+        "end": 168.22,
+        "score": 0.998
+      },
+      {
+        "text": "killed",
+        "start": 168.3,
+        "end": 168.62,
+        "score": 0.964
+      },
+      {
+        "text": "every",
+        "start": 168.96,
+        "end": 169.22,
+        "score": 0.956
+      },
+      {
+        "text": "male",
+        "start": 169.34,
+        "end": 169.68,
+        "score": 0.771
+      },
+      {
+        "text": "in",
+        "start": 169.84,
+        "end": 169.94,
+        "score": 0.531
+      },
+      {
+        "text": "Edom",
+        "start": 170.22,
+        "end": 170.38,
+        "score": 0.688
+      }
+    ],
+    "17": [
+      {
+        "text": "But",
+        "start": 171.34,
+        "end": 171.46,
+        "score": 0.998
+      },
+      {
+        "text": "Hadad",
+        "start": 171.62,
+        "end": 172.06,
+        "score": 0.867
+      },
+      {
+        "text": "still",
+        "start": 172.36,
+        "end": 172.64,
+        "score": 0.998
+      },
+      {
+        "text": "just",
+        "start": 172.74,
+        "end": 172.98,
+        "score": 0.988
+      },
+      {
+        "text": "a",
+        "start": 173.04,
+        "end": 173.06,
+        "score": 0.996
+      },
+      {
+        "text": "young",
+        "start": 173.12,
+        "end": 173.34,
+        "score": 0.985
+      },
+      {
+        "text": "boy",
+        "start": 173.42,
+        "end": 173.74,
+        "score": 0.999
+      },
+      {
+        "text": "had",
+        "start": 174.16,
+        "end": 174.32,
+        "score": 0.997
+      },
+      {
+        "text": "fled",
+        "start": 174.4,
+        "end": 174.68,
+        "score": 0.987
+      },
+      {
+        "text": "to",
+        "start": 174.78,
+        "end": 174.88,
+        "score": 0.986
+      },
+      {
+        "text": "Egypt",
+        "start": 175.16,
+        "end": 175.46,
+        "score": 0.934
+      },
+      {
+        "text": "along",
+        "start": 175.86,
+        "end": 176.22,
+        "score": 0.975
+      },
+      {
+        "text": "with",
+        "start": 176.28,
+        "end": 176.46,
+        "score": 0.953
+      },
+      {
+        "text": "some",
+        "start": 176.5,
+        "end": 176.88,
+        "score": 0.992
+      },
+      {
+        "text": "Edomites",
+        "start": 176.96,
+        "end": 177.42,
+        "score": 0.821
+      },
+      {
+        "text": "who",
+        "start": 177.46,
+        "end": 177.56,
+        "score": 0.963
+      },
+      {
+        "text": "were",
+        "start": 177.6,
+        "end": 177.78,
+        "score": 0.934
+      },
+      {
+        "text": "servants",
+        "start": 177.82,
+        "end": 178.24,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 178.3,
+        "end": 178.38,
+        "score": 0.999
+      },
+      {
+        "text": "his",
+        "start": 178.42,
+        "end": 178.56,
+        "score": 0.998
+      },
+      {
+        "text": "father",
+        "start": 178.62,
+        "end": 178.98,
+        "score": 0.998
+      }
+    ],
+    "18": [
+      {
+        "text": "Hadad",
+        "start": 179.98,
+        "end": 180.36,
+        "score": 0.867
+      },
+      {
+        "text": "and",
+        "start": 180.48,
+        "end": 180.58,
+        "score": 0.989
+      },
+      {
+        "text": "his",
+        "start": 180.62,
+        "end": 180.78,
+        "score": 0.937
+      },
+      {
+        "text": "men",
+        "start": 180.86,
+        "end": 181.14,
+        "score": 0.999
+      },
+      {
+        "text": "set",
+        "start": 181.32,
+        "end": 181.52,
+        "score": 0.982
+      },
+      {
+        "text": "out",
+        "start": 181.58,
+        "end": 181.72,
+        "score": 0.952
+      },
+      {
+        "text": "from",
+        "start": 181.78,
+        "end": 182.02,
+        "score": 0.999
+      },
+      {
+        "text": "Midian",
+        "start": 182.06,
+        "end": 182.4,
+        "score": 0.736
+      },
+      {
+        "text": "and",
+        "start": 182.78,
+        "end": 182.88,
+        "score": 0.999
+      },
+      {
+        "text": "went",
+        "start": 182.94,
+        "end": 183.12,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 183.16,
+        "end": 183.24,
+        "score": 0.998
+      },
+      {
+        "text": "Paran",
+        "start": 183.42,
+        "end": 183.72,
+        "score": 0.772
+      },
+      {
+        "text": "They",
+        "start": 184.6,
+        "end": 184.7,
+        "score": 1.0
+      },
+      {
+        "text": "took",
+        "start": 184.76,
+        "end": 184.98,
+        "score": 0.999
+      },
+      {
+        "text": "men",
+        "start": 185.06,
+        "end": 185.28,
+        "score": 0.999
+      },
+      {
+        "text": "from",
+        "start": 185.36,
+        "end": 185.54,
+        "score": 0.999
+      },
+      {
+        "text": "Paran",
+        "start": 185.68,
+        "end": 185.96,
+        "score": 0.728
+      },
+      {
+        "text": "with",
+        "start": 186.06,
+        "end": 186.24,
+        "score": 0.977
+      },
+      {
+        "text": "them",
+        "start": 186.28,
+        "end": 186.48,
+        "score": 0.991
+      },
+      {
+        "text": "and",
+        "start": 186.84,
+        "end": 186.96,
+        "score": 0.999
+      },
+      {
+        "text": "went",
+        "start": 187.02,
+        "end": 187.18,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 187.24,
+        "end": 187.3,
+        "score": 0.995
+      },
+      {
+        "text": "Egypt",
+        "start": 187.6,
+        "end": 187.88,
+        "score": 0.913
+      },
+      {
+        "text": "to",
+        "start": 188.14,
+        "end": 188.22,
+        "score": 0.941
+      },
+      {
+        "text": "Pharaoh",
+        "start": 188.4,
+        "end": 188.82,
+        "score": 0.448
+      },
+      {
+        "text": "king",
+        "start": 189.04,
+        "end": 189.28,
+        "score": 0.884
+      },
+      {
+        "text": "of",
+        "start": 189.32,
+        "end": 189.4,
+        "score": 0.998
+      },
+      {
+        "text": "Egypt",
+        "start": 189.6,
+        "end": 189.86,
+        "score": 0.997
+      },
+      {
+        "text": "who",
+        "start": 190.34,
+        "end": 190.42,
+        "score": 0.999
+      },
+      {
+        "text": "gave",
+        "start": 190.52,
+        "end": 190.76,
+        "score": 1.0
+      },
+      {
+        "text": "Hadad",
+        "start": 190.88,
+        "end": 191.26,
+        "score": 0.884
+      },
+      {
+        "text": "a",
+        "start": 191.44,
+        "end": 191.46,
+        "score": 0.998
+      },
+      {
+        "text": "house",
+        "start": 191.58,
+        "end": 191.98,
+        "score": 0.994
+      },
+      {
+        "text": "and",
+        "start": 192.12,
+        "end": 192.24,
+        "score": 0.998
+      },
+      {
+        "text": "land",
+        "start": 192.32,
+        "end": 192.68,
+        "score": 0.998
+      },
+      {
+        "text": "and",
+        "start": 193.1,
+        "end": 193.2,
+        "score": 0.979
+      },
+      {
+        "text": "provided",
+        "start": 193.24,
+        "end": 193.78,
+        "score": 0.997
+      },
+      {
+        "text": "him",
+        "start": 193.84,
+        "end": 194.0,
+        "score": 0.999
+      },
+      {
+        "text": "with",
+        "start": 194.08,
+        "end": 194.24,
+        "score": 0.996
+      },
+      {
+        "text": "food",
+        "start": 194.3,
+        "end": 194.68,
+        "score": 0.991
+      }
+    ],
+    "19": [
+      {
+        "text": "There",
+        "start": 195.7,
+        "end": 195.96,
+        "score": 0.996
+      },
+      {
+        "text": "Hadad",
+        "start": 196.24,
+        "end": 196.6,
+        "score": 0.841
+      },
+      {
+        "text": "found",
+        "start": 196.66,
+        "end": 196.98,
+        "score": 0.996
+      },
+      {
+        "text": "such",
+        "start": 197.08,
+        "end": 197.34,
+        "score": 0.999
+      },
+      {
+        "text": "great",
+        "start": 197.44,
+        "end": 197.7,
+        "score": 0.982
+      },
+      {
+        "text": "favor",
+        "start": 197.78,
+        "end": 198.12,
+        "score": 0.955
+      },
+      {
+        "text": "in",
+        "start": 198.28,
+        "end": 198.34,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 198.38,
+        "end": 198.46,
+        "score": 0.996
+      },
+      {
+        "text": "sight",
+        "start": 198.54,
+        "end": 198.8,
+        "score": 0.979
+      },
+      {
+        "text": "of",
+        "start": 198.84,
+        "end": 198.9,
+        "score": 0.999
+      },
+      {
+        "text": "Pharaoh",
+        "start": 198.98,
+        "end": 199.4,
+        "score": 0.428
+      },
+      {
+        "text": "that",
+        "start": 199.8,
+        "end": 199.94,
+        "score": 1.0
+      },
+      {
+        "text": "he",
+        "start": 199.98,
+        "end": 200.02,
+        "score": 0.999
+      },
+      {
+        "text": "gave",
+        "start": 200.12,
+        "end": 200.38,
+        "score": 1.0
+      },
+      {
+        "text": "to",
+        "start": 200.42,
+        "end": 200.48,
+        "score": 0.998
+      },
+      {
+        "text": "him",
+        "start": 200.58,
+        "end": 200.78,
+        "score": 0.998
+      },
+      {
+        "text": "in",
+        "start": 200.94,
+        "end": 201.04,
+        "score": 0.999
+      },
+      {
+        "text": "marriage",
+        "start": 201.1,
+        "end": 201.52,
+        "score": 0.855
+      },
+      {
+        "text": "the",
+        "start": 201.78,
+        "end": 201.88,
+        "score": 0.97
+      },
+      {
+        "text": "sister",
+        "start": 202.0,
+        "end": 202.38,
+        "score": 0.955
+      },
+      {
+        "text": "of",
+        "start": 202.48,
+        "end": 202.56,
+        "score": 0.998
+      },
+      {
+        "text": "Queen",
+        "start": 202.7,
+        "end": 202.92,
+        "score": 0.98
+      },
+      {
+        "text": "Tahpenes",
+        "start": 203.12,
+        "end": 203.68,
+        "score": 0.531
+      },
+      {
+        "text": "his",
+        "start": 203.98,
+        "end": 204.14,
+        "score": 0.984
+      },
+      {
+        "text": "own",
+        "start": 204.26,
+        "end": 204.42,
+        "score": 0.994
+      },
+      {
+        "text": "wife",
+        "start": 204.48,
+        "end": 204.88,
+        "score": 0.97
+      }
+    ],
+    "20": [
+      {
+        "text": "And",
+        "start": 205.82,
+        "end": 205.88,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 205.9,
+        "end": 206.0,
+        "score": 0.984
+      },
+      {
+        "text": "sister",
+        "start": 206.08,
+        "end": 206.42,
+        "score": 0.972
+      },
+      {
+        "text": "of",
+        "start": 206.48,
+        "end": 206.56,
+        "score": 0.998
+      },
+      {
+        "text": "Tahpenes",
+        "start": 206.72,
+        "end": 207.24,
+        "score": 0.54
+      },
+      {
+        "text": "bore",
+        "start": 207.36,
+        "end": 207.6,
+        "score": 0.699
+      },
+      {
+        "text": "Hadad",
+        "start": 207.76,
+        "end": 208.12,
+        "score": 0.883
+      },
+      {
+        "text": "a",
+        "start": 208.28,
+        "end": 208.3,
+        "score": 0.998
+      },
+      {
+        "text": "son",
+        "start": 208.46,
+        "end": 208.76,
+        "score": 0.939
+      },
+      {
+        "text": "named",
+        "start": 209.28,
+        "end": 209.58,
+        "score": 0.997
+      },
+      {
+        "text": "Genubath",
+        "start": 209.84,
+        "end": 210.5,
+        "score": 0.872
+      },
+      {
+        "text": "Tahpenes",
+        "start": 211.44,
+        "end": 211.86,
+        "score": 0.519
+      },
+      {
+        "text": "herself",
+        "start": 211.92,
+        "end": 212.42,
+        "score": 0.91
+      },
+      {
+        "text": "weaned",
+        "start": 212.52,
+        "end": 212.8,
+        "score": 0.79
+      },
+      {
+        "text": "him",
+        "start": 212.86,
+        "end": 213.04,
+        "score": 0.999
+      },
+      {
+        "text": "in",
+        "start": 213.2,
+        "end": 213.28,
+        "score": 0.998
+      },
+      {
+        "text": "Pharaoh",
+        "start": 213.36,
+        "end": 213.68,
+        "score": 0.455
+      },
+      {
+        "text": "s",
+        "start": 213.72,
+        "end": 213.74,
+        "score": 0.994
+      },
+      {
+        "text": "palace",
+        "start": 213.82,
+        "end": 214.32,
+        "score": 0.85
+      },
+      {
+        "text": "and",
+        "start": 214.84,
+        "end": 214.96,
+        "score": 0.998
+      },
+      {
+        "text": "Genubath",
+        "start": 215.1,
+        "end": 215.7,
+        "score": 0.886
+      },
+      {
+        "text": "lived",
+        "start": 215.84,
+        "end": 216.08,
+        "score": 0.995
+      },
+      {
+        "text": "there",
+        "start": 216.12,
+        "end": 216.34,
+        "score": 0.97
+      },
+      {
+        "text": "among",
+        "start": 216.46,
+        "end": 216.74,
+        "score": 0.971
+      },
+      {
+        "text": "the",
+        "start": 216.8,
+        "end": 216.9,
+        "score": 0.903
+      },
+      {
+        "text": "sons",
+        "start": 217.0,
+        "end": 217.38,
+        "score": 0.972
+      },
+      {
+        "text": "of",
+        "start": 217.42,
+        "end": 217.5,
+        "score": 0.997
+      },
+      {
+        "text": "Pharaoh",
+        "start": 217.56,
+        "end": 218.02,
+        "score": 0.428
+      }
+    ],
+    "21": [
+      {
+        "text": "When",
+        "start": 219.26,
+        "end": 219.38,
+        "score": 0.991
+      },
+      {
+        "text": "Hadad",
+        "start": 219.54,
+        "end": 219.88,
+        "score": 0.872
+      },
+      {
+        "text": "heard",
+        "start": 219.96,
+        "end": 220.18,
+        "score": 0.959
+      },
+      {
+        "text": "in",
+        "start": 220.32,
+        "end": 220.4,
+        "score": 0.998
+      },
+      {
+        "text": "Egypt",
+        "start": 220.7,
+        "end": 220.92,
+        "score": 0.998
+      },
+      {
+        "text": "that",
+        "start": 221.22,
+        "end": 221.38,
+        "score": 0.972
+      },
+      {
+        "text": "David",
+        "start": 221.58,
+        "end": 221.84,
+        "score": 0.999
+      },
+      {
+        "text": "had",
+        "start": 221.92,
+        "end": 222.06,
+        "score": 0.999
+      },
+      {
+        "text": "rested",
+        "start": 222.12,
+        "end": 222.48,
+        "score": 1.0
+      },
+      {
+        "text": "with",
+        "start": 222.54,
+        "end": 222.68,
+        "score": 0.935
+      },
+      {
+        "text": "his",
+        "start": 222.7,
+        "end": 222.84,
+        "score": 0.97
+      },
+      {
+        "text": "fathers",
+        "start": 222.92,
+        "end": 223.36,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 223.76,
+        "end": 223.86,
+        "score": 0.978
+      },
+      {
+        "text": "that",
+        "start": 223.9,
+        "end": 224.04,
+        "score": 0.998
+      },
+      {
+        "text": "Joab",
+        "start": 224.24,
+        "end": 224.64,
+        "score": 0.992
+      },
+      {
+        "text": "the",
+        "start": 224.82,
+        "end": 224.92,
+        "score": 0.907
+      },
+      {
+        "text": "commander",
+        "start": 224.94,
+        "end": 225.4,
+        "score": 0.965
+      },
+      {
+        "text": "of",
+        "start": 225.44,
+        "end": 225.5,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 225.54,
+        "end": 225.62,
+        "score": 0.998
+      },
+      {
+        "text": "army",
+        "start": 225.78,
+        "end": 226.0,
+        "score": 0.999
+      },
+      {
+        "text": "was",
+        "start": 226.22,
+        "end": 226.38,
+        "score": 0.999
+      },
+      {
+        "text": "dead",
+        "start": 226.46,
+        "end": 226.8,
+        "score": 0.98
+      },
+      {
+        "text": "he",
+        "start": 227.4,
+        "end": 227.48,
+        "score": 0.995
+      },
+      {
+        "text": "said",
+        "start": 227.6,
+        "end": 227.78,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 227.82,
+        "end": 227.9,
+        "score": 0.997
+      },
+      {
+        "text": "Pharaoh",
+        "start": 227.98,
+        "end": 228.88,
+        "score": 0.43
+      },
+      {
+        "text": "Let",
+        "start": 228.92,
+        "end": 229.0,
+        "score": 0.999
+      },
+      {
+        "text": "me",
+        "start": 229.08,
+        "end": 229.14,
+        "score": 0.998
+      },
+      {
+        "text": "go",
+        "start": 229.26,
+        "end": 229.38,
+        "score": 1.0
+      },
+      {
+        "text": "that",
+        "start": 229.78,
+        "end": 229.94,
+        "score": 0.998
+      },
+      {
+        "text": "I",
+        "start": 229.94,
+        "end": 230.2,
+        "score": 1.0
+      },
+      {
+        "text": "may",
+        "start": 230.2,
+        "end": 230.32,
+        "score": 0.999
+      },
+      {
+        "text": "return",
+        "start": 230.38,
+        "end": 230.76,
+        "score": 0.984
+      },
+      {
+        "text": "to",
+        "start": 230.84,
+        "end": 230.92,
+        "score": 0.999
+      },
+      {
+        "text": "my",
+        "start": 231.0,
+        "end": 231.14,
+        "score": 0.999
+      },
+      {
+        "text": "own",
+        "start": 231.26,
+        "end": 231.4,
+        "score": 0.978
+      },
+      {
+        "text": "country",
+        "start": 231.48,
+        "end": 231.86,
+        "score": 0.996
+      }
+    ],
+    "22": [
+      {
+        "text": "But",
+        "start": 232.9,
+        "end": 232.98,
+        "score": 0.997
+      },
+      {
+        "text": "Pharaoh",
+        "start": 233.08,
+        "end": 233.38,
+        "score": 0.491
+      },
+      {
+        "text": "asked",
+        "start": 233.56,
+        "end": 233.86,
+        "score": 0.975
+      },
+      {
+        "text": "him",
+        "start": 233.9,
+        "end": 234.04,
+        "score": 0.998
+      },
+      {
+        "text": "What",
+        "start": 234.62,
+        "end": 234.8,
+        "score": 0.887
+      },
+      {
+        "text": "have",
+        "start": 234.84,
+        "end": 234.99,
+        "score": 0.999
+      },
+      {
+        "text": "you",
+        "start": 235.01,
+        "end": 235.11,
+        "score": 0.926
+      },
+      {
+        "text": "lacked",
+        "start": 235.17,
+        "end": 235.49,
+        "score": 0.95
+      },
+      {
+        "text": "here",
+        "start": 235.53,
+        "end": 235.77,
+        "score": 0.833
+      },
+      {
+        "text": "with",
+        "start": 235.83,
+        "end": 236.01,
+        "score": 0.999
+      },
+      {
+        "text": "me",
+        "start": 236.09,
+        "end": 236.17,
+        "score": 0.999
+      },
+      {
+        "text": "that",
+        "start": 236.61,
+        "end": 236.75,
+        "score": 0.991
+      },
+      {
+        "text": "you",
+        "start": 236.81,
+        "end": 236.91,
+        "score": 0.998
+      },
+      {
+        "text": "suddenly",
+        "start": 237.01,
+        "end": 237.45,
+        "score": 0.938
+      },
+      {
+        "text": "want",
+        "start": 237.57,
+        "end": 237.75,
+        "score": 0.993
+      },
+      {
+        "text": "to",
+        "start": 237.81,
+        "end": 237.85,
+        "score": 0.992
+      },
+      {
+        "text": "go",
+        "start": 237.93,
+        "end": 238.01,
+        "score": 0.999
+      },
+      {
+        "text": "back",
+        "start": 238.13,
+        "end": 238.37,
+        "score": 0.994
+      },
+      {
+        "text": "to",
+        "start": 238.43,
+        "end": 238.51,
+        "score": 0.999
+      },
+      {
+        "text": "your",
+        "start": 238.57,
+        "end": 238.73,
+        "score": 0.938
+      },
+      {
+        "text": "own",
+        "start": 238.85,
+        "end": 238.99,
+        "score": 0.998
+      },
+      {
+        "text": "country",
+        "start": 239.07,
+        "end": 239.43,
+        "score": 0.931
+      }
+    ],
+    "23": [
+      {
+        "text": "And",
+        "start": 240.45,
+        "end": 241.29,
+        "score": 0.996
+      },
+      {
+        "text": "God",
+        "start": 245.73,
+        "end": 245.87,
+        "score": 0.998
+      },
+      {
+        "text": "raised",
+        "start": 245.95,
+        "end": 246.25,
+        "score": 0.963
+      },
+      {
+        "text": "up",
+        "start": 246.33,
+        "end": 246.45,
+        "score": 1.0
+      },
+      {
+        "text": "against",
+        "start": 246.55,
+        "end": 246.93,
+        "score": 0.968
+      },
+      {
+        "text": "Solomon",
+        "start": 247.09,
+        "end": 247.43,
+        "score": 0.989
+      },
+      {
+        "text": "another",
+        "start": 247.69,
+        "end": 248.03,
+        "score": 0.999
+      },
+      {
+        "text": "adversary",
+        "start": 248.15,
+        "end": 248.77,
+        "score": 0.998
+      },
+      {
+        "text": "Rezon",
+        "start": 249.43,
+        "end": 249.85,
+        "score": 0.859
+      },
+      {
+        "text": "the",
+        "start": 250.01,
+        "end": 250.09,
+        "score": 0.998
+      },
+      {
+        "text": "son",
+        "start": 250.17,
+        "end": 250.39,
+        "score": 0.979
+      },
+      {
+        "text": "of",
+        "start": 250.53,
+        "end": 250.63,
+        "score": 0.996
+      },
+      {
+        "text": "Eliada",
+        "start": 250.77,
+        "end": 251.19,
+        "score": 0.965
+      },
+      {
+        "text": "who",
+        "start": 251.67,
+        "end": 251.77,
+        "score": 0.978
+      },
+      {
+        "text": "had",
+        "start": 251.83,
+        "end": 251.99,
+        "score": 0.993
+      },
+      {
+        "text": "fled",
+        "start": 252.05,
+        "end": 252.29,
+        "score": 0.999
+      },
+      {
+        "text": "from",
+        "start": 252.33,
+        "end": 252.49,
+        "score": 0.988
+      },
+      {
+        "text": "his",
+        "start": 252.55,
+        "end": 252.69,
+        "score": 0.999
+      },
+      {
+        "text": "master",
+        "start": 252.77,
+        "end": 253.13,
+        "score": 0.999
+      },
+      {
+        "text": "Hadadezer",
+        "start": 253.51,
+        "end": 254.09,
+        "score": 0.828
+      },
+      {
+        "text": "king",
+        "start": 254.45,
+        "end": 254.67,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 254.79,
+        "end": 254.87,
+        "score": 0.998
+      },
+      {
+        "text": "Zobah",
+        "start": 255.03,
+        "end": 255.35,
+        "score": 0.806
+      }
+    ],
+    "24": [
+      {
+        "text": "and",
+        "start": 255.85,
+        "end": 255.95,
+        "score": 0.971
+      },
+      {
+        "text": "had",
+        "start": 255.99,
+        "end": 256.11,
+        "score": 0.998
+      },
+      {
+        "text": "gathered",
+        "start": 256.17,
+        "end": 256.55,
+        "score": 0.99
+      },
+      {
+        "text": "men",
+        "start": 256.61,
+        "end": 256.85,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 256.97,
+        "end": 257.05,
+        "score": 0.999
+      },
+      {
+        "text": "himself",
+        "start": 257.13,
+        "end": 257.71,
+        "score": 0.969
+      },
+      {
+        "text": "When",
+        "start": 258.61,
+        "end": 258.73,
+        "score": 1.0
+      },
+      {
+        "text": "David",
+        "start": 258.89,
+        "end": 259.17,
+        "score": 0.998
+      },
+      {
+        "text": "killed",
+        "start": 259.25,
+        "end": 259.55,
+        "score": 0.965
+      },
+      {
+        "text": "the",
+        "start": 259.65,
+        "end": 259.73,
+        "score": 0.918
+      },
+      {
+        "text": "Zobaites",
+        "start": 259.89,
+        "end": 260.45,
+        "score": 0.827
+      },
+      {
+        "text": "Rezon",
+        "start": 260.91,
+        "end": 261.29,
+        "score": 0.811
+      },
+      {
+        "text": "captained",
+        "start": 261.39,
+        "end": 261.95,
+        "score": 0.846
+      },
+      {
+        "text": "a",
+        "start": 262.09,
+        "end": 262.11,
+        "score": 0.997
+      },
+      {
+        "text": "band",
+        "start": 262.23,
+        "end": 262.53,
+        "score": 0.995
+      },
+      {
+        "text": "of",
+        "start": 262.59,
+        "end": 262.63,
+        "score": 0.595
+      },
+      {
+        "text": "raiders",
+        "start": 262.75,
+        "end": 263.19,
+        "score": 0.761
+      },
+      {
+        "text": "and",
+        "start": 263.37,
+        "end": 263.49,
+        "score": 0.998
+      },
+      {
+        "text": "went",
+        "start": 263.55,
+        "end": 263.71,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 263.75,
+        "end": 263.83,
+        "score": 0.997
+      },
+      {
+        "text": "Damascus",
+        "start": 263.93,
+        "end": 264.49,
+        "score": 0.959
+      },
+      {
+        "text": "where",
+        "start": 264.93,
+        "end": 265.09,
+        "score": 0.977
+      },
+      {
+        "text": "they",
+        "start": 265.11,
+        "end": 265.23,
+        "score": 0.999
+      },
+      {
+        "text": "settled",
+        "start": 265.35,
+        "end": 265.75,
+        "score": 0.976
+      },
+      {
+        "text": "and",
+        "start": 266.07,
+        "end": 266.19,
+        "score": 0.997
+      },
+      {
+        "text": "gained",
+        "start": 266.25,
+        "end": 266.51,
+        "score": 0.996
+      },
+      {
+        "text": "control",
+        "start": 266.55,
+        "end": 267.09,
+        "score": 0.998
+      }
+    ],
+    "25": [
+      {
+        "text": "Rezon",
+        "start": 268.15,
+        "end": 268.51,
+        "score": 0.853
+      },
+      {
+        "text": "was",
+        "start": 268.59,
+        "end": 268.81,
+        "score": 0.998
+      },
+      {
+        "text": "Israel",
+        "start": 269.05,
+        "end": 269.35,
+        "score": 0.998
+      },
+      {
+        "text": "s",
+        "start": 269.45,
+        "end": 269.47,
+        "score": 0.994
+      },
+      {
+        "text": "enemy",
+        "start": 269.59,
+        "end": 269.85,
+        "score": 0.999
+      },
+      {
+        "text": "throughout",
+        "start": 270.05,
+        "end": 270.53,
+        "score": 0.964
+      },
+      {
+        "text": "the",
+        "start": 270.61,
+        "end": 270.71,
+        "score": 0.955
+      },
+      {
+        "text": "days",
+        "start": 270.75,
+        "end": 270.99,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 271.05,
+        "end": 271.13,
+        "score": 0.999
+      },
+      {
+        "text": "Solomon",
+        "start": 271.29,
+        "end": 271.67,
+        "score": 0.989
+      },
+      {
+        "text": "adding",
+        "start": 272.27,
+        "end": 272.61,
+        "score": 0.911
+      },
+      {
+        "text": "to",
+        "start": 272.65,
+        "end": 272.75,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 272.81,
+        "end": 272.91,
+        "score": 0.935
+      },
+      {
+        "text": "trouble",
+        "start": 272.95,
+        "end": 273.31,
+        "score": 0.949
+      },
+      {
+        "text": "caused",
+        "start": 273.41,
+        "end": 273.85,
+        "score": 0.978
+      },
+      {
+        "text": "by",
+        "start": 273.89,
+        "end": 274.05,
+        "score": 0.999
+      },
+      {
+        "text": "Hadad",
+        "start": 274.21,
+        "end": 274.67,
+        "score": 0.863
+      },
+      {
+        "text": "So",
+        "start": 275.59,
+        "end": 275.61,
+        "score": 0.997
+      },
+      {
+        "text": "Rezon",
+        "start": 275.89,
+        "end": 276.29,
+        "score": 0.853
+      },
+      {
+        "text": "ruled",
+        "start": 276.43,
+        "end": 276.77,
+        "score": 0.957
+      },
+      {
+        "text": "over",
+        "start": 276.87,
+        "end": 277.09,
+        "score": 1.0
+      },
+      {
+        "text": "Aram",
+        "start": 277.35,
+        "end": 277.53,
+        "score": 0.982
+      },
+      {
+        "text": "with",
+        "start": 277.73,
+        "end": 277.89,
+        "score": 0.999
+      },
+      {
+        "text": "hostility",
+        "start": 277.95,
+        "end": 278.61,
+        "score": 1.0
+      },
+      {
+        "text": "toward",
+        "start": 278.73,
+        "end": 279.03,
+        "score": 0.908
+      },
+      {
+        "text": "Israel",
+        "start": 279.25,
+        "end": 279.59,
+        "score": 0.998
+      }
+    ],
+    "26": [
+      {
+        "text": "Now",
+        "start": 281.05,
+        "end": 281.15,
+        "score": 0.983
+      },
+      {
+        "text": "Jeroboam",
+        "start": 281.33,
+        "end": 281.91,
+        "score": 0.651
+      },
+      {
+        "text": "son",
+        "start": 282.07,
+        "end": 282.25,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 282.31,
+        "end": 282.39,
+        "score": 0.999
+      },
+      {
+        "text": "Nebat",
+        "start": 282.55,
+        "end": 282.93,
+        "score": 0.854
+      },
+      {
+        "text": "was",
+        "start": 283.23,
+        "end": 283.39,
+        "score": 0.999
+      },
+      {
+        "text": "an",
+        "start": 283.45,
+        "end": 283.53,
+        "score": 0.997
+      },
+      {
+        "text": "Ephraimite",
+        "start": 283.75,
+        "end": 284.35,
+        "score": 0.66
+      },
+      {
+        "text": "from",
+        "start": 284.39,
+        "end": 284.57,
+        "score": 0.999
+      },
+      {
+        "text": "Zeredah",
+        "start": 284.75,
+        "end": 285.17,
+        "score": 0.722
+      },
+      {
+        "text": "whose",
+        "start": 285.59,
+        "end": 285.81,
+        "score": 0.933
+      },
+      {
+        "text": "mother",
+        "start": 285.87,
+        "end": 286.13,
+        "score": 0.969
+      },
+      {
+        "text": "was",
+        "start": 286.31,
+        "end": 286.45,
+        "score": 0.999
+      },
+      {
+        "text": "a",
+        "start": 286.53,
+        "end": 286.55,
+        "score": 0.998
+      },
+      {
+        "text": "widow",
+        "start": 286.63,
+        "end": 286.91,
+        "score": 0.992
+      },
+      {
+        "text": "named",
+        "start": 287.03,
+        "end": 287.31,
+        "score": 0.98
+      },
+      {
+        "text": "Zeruah",
+        "start": 287.57,
+        "end": 288.01,
+        "score": 0.717
+      },
+      {
+        "text": "Jeroboam",
+        "start": 289.01,
+        "end": 289.55,
+        "score": 0.797
+      },
+      {
+        "text": "was",
+        "start": 289.73,
+        "end": 289.87,
+        "score": 0.999
+      },
+      {
+        "text": "a",
+        "start": 289.93,
+        "end": 289.95,
+        "score": 0.996
+      },
+      {
+        "text": "servant",
+        "start": 290.05,
+        "end": 290.35,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 290.39,
+        "end": 290.45,
+        "score": 0.997
+      },
+      {
+        "text": "Solomon",
+        "start": 290.63,
+        "end": 291.01,
+        "score": 0.984
+      },
+      {
+        "text": "but",
+        "start": 291.43,
+        "end": 291.59,
+        "score": 1.0
+      },
+      {
+        "text": "he",
+        "start": 291.63,
+        "end": 291.69,
+        "score": 0.999
+      },
+      {
+        "text": "rebelled",
+        "start": 291.81,
+        "end": 292.31,
+        "score": 0.976
+      },
+      {
+        "text": "against",
+        "start": 292.45,
+        "end": 292.87,
+        "score": 0.964
+      },
+      {
+        "text": "the",
+        "start": 292.91,
+        "end": 293.01,
+        "score": 0.995
+      },
+      {
+        "text": "king",
+        "start": 293.07,
+        "end": 293.37,
+        "score": 0.961
+      }
+    ],
+    "27": [
+      {
+        "text": "and",
+        "start": 294.03,
+        "end": 294.15,
+        "score": 0.92
+      },
+      {
+        "text": "this",
+        "start": 294.19,
+        "end": 294.35,
+        "score": 0.999
+      },
+      {
+        "text": "is",
+        "start": 294.41,
+        "end": 294.51,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 294.53,
+        "end": 294.63,
+        "score": 0.994
+      },
+      {
+        "text": "account",
+        "start": 294.69,
+        "end": 295.09,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 295.25,
+        "end": 295.35,
+        "score": 0.999
+      },
+      {
+        "text": "his",
+        "start": 295.41,
+        "end": 295.55,
+        "score": 0.999
+      },
+      {
+        "text": "rebellion",
+        "start": 295.61,
+        "end": 296.15,
+        "score": 0.946
+      },
+      {
+        "text": "against",
+        "start": 296.31,
+        "end": 296.71,
+        "score": 0.995
+      },
+      {
+        "text": "the",
+        "start": 296.75,
+        "end": 296.83,
+        "score": 0.97
+      },
+      {
+        "text": "king",
+        "start": 296.89,
+        "end": 297.21,
+        "score": 0.95
+      }
+    ],
+    "28": [
+      {
+        "text": "Now",
+        "start": 305.67,
+        "end": 305.77,
+        "score": 0.999
+      },
+      {
+        "text": "Jeroboam",
+        "start": 305.95,
+        "end": 306.51,
+        "score": 0.753
+      },
+      {
+        "text": "was",
+        "start": 306.83,
+        "end": 306.99,
+        "score": 0.995
+      },
+      {
+        "text": "a",
+        "start": 307.05,
+        "end": 307.07,
+        "score": 0.998
+      },
+      {
+        "text": "mighty",
+        "start": 307.19,
+        "end": 307.49,
+        "score": 0.983
+      },
+      {
+        "text": "man",
+        "start": 307.61,
+        "end": 307.89,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 307.97,
+        "end": 308.05,
+        "score": 0.997
+      },
+      {
+        "text": "valor",
+        "start": 308.11,
+        "end": 308.49,
+        "score": 0.824
+      },
+      {
+        "text": "So",
+        "start": 309.55,
+        "end": 309.57,
+        "score": 1.0
+      },
+      {
+        "text": "when",
+        "start": 309.65,
+        "end": 309.83,
+        "score": 0.991
+      },
+      {
+        "text": "Solomon",
+        "start": 310.05,
+        "end": 310.39,
+        "score": 0.996
+      },
+      {
+        "text": "noticed",
+        "start": 310.47,
+        "end": 310.91,
+        "score": 0.929
+      },
+      {
+        "text": "that",
+        "start": 310.93,
+        "end": 311.05,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 311.09,
+        "end": 311.17,
+        "score": 0.999
+      },
+      {
+        "text": "young",
+        "start": 311.23,
+        "end": 311.43,
+        "score": 0.953
+      },
+      {
+        "text": "man",
+        "start": 311.47,
+        "end": 311.69,
+        "score": 1.0
+      },
+      {
+        "text": "was",
+        "start": 311.77,
+        "end": 311.91,
+        "score": 0.999
+      },
+      {
+        "text": "industrious",
+        "start": 311.99,
+        "end": 312.69,
+        "score": 0.982
+      },
+      {
+        "text": "he",
+        "start": 313.11,
+        "end": 313.19,
+        "score": 0.998
+      },
+      {
+        "text": "put",
+        "start": 313.27,
+        "end": 313.43,
+        "score": 0.927
+      },
+      {
+        "text": "him",
+        "start": 313.47,
+        "end": 313.59,
+        "score": 0.965
+      },
+      {
+        "text": "in",
+        "start": 313.63,
+        "end": 313.71,
+        "score": 1.0
+      },
+      {
+        "text": "charge",
+        "start": 313.79,
+        "end": 314.17,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 314.29,
+        "end": 314.37,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 314.41,
+        "end": 314.51,
+        "score": 0.985
+      },
+      {
+        "text": "whole",
+        "start": 314.59,
+        "end": 314.85,
+        "score": 0.945
+      },
+      {
+        "text": "labor",
+        "start": 314.91,
+        "end": 315.21,
+        "score": 0.981
+      },
+      {
+        "text": "force",
+        "start": 315.27,
+        "end": 315.59,
+        "score": 0.995
+      },
+      {
+        "text": "of",
+        "start": 315.89,
+        "end": 315.97,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 316.01,
+        "end": 316.09,
+        "score": 0.999
+      },
+      {
+        "text": "house",
+        "start": 316.15,
+        "end": 316.47,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 316.51,
+        "end": 316.59,
+        "score": 0.999
+      },
+      {
+        "text": "Joseph",
+        "start": 316.73,
+        "end": 317.11,
+        "score": 0.979
+      }
+    ],
+    "29": [
+      {
+        "text": "During",
+        "start": 318.17,
+        "end": 318.39,
+        "score": 0.956
+      },
+      {
+        "text": "that",
+        "start": 318.45,
+        "end": 318.63,
+        "score": 0.968
+      },
+      {
+        "text": "time",
+        "start": 318.71,
+        "end": 319.05,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 319.31,
+        "end": 319.41,
+        "score": 0.988
+      },
+      {
+        "text": "prophet",
+        "start": 319.45,
+        "end": 319.85,
+        "score": 0.97
+      },
+      {
+        "text": "Ahijah",
+        "start": 320.09,
+        "end": 320.53,
+        "score": 0.778
+      },
+      {
+        "text": "the",
+        "start": 320.71,
+        "end": 320.79,
+        "score": 0.965
+      },
+      {
+        "text": "Shilonite",
+        "start": 320.89,
+        "end": 321.53,
+        "score": 0.858
+      },
+      {
+        "text": "met",
+        "start": 321.97,
+        "end": 322.19,
+        "score": 1.0
+      },
+      {
+        "text": "Jeroboam",
+        "start": 322.39,
+        "end": 322.93,
+        "score": 0.751
+      },
+      {
+        "text": "on",
+        "start": 323.11,
+        "end": 323.21,
+        "score": 0.984
+      },
+      {
+        "text": "the",
+        "start": 323.23,
+        "end": 323.31,
+        "score": 0.998
+      },
+      {
+        "text": "road",
+        "start": 323.39,
+        "end": 323.69,
+        "score": 0.996
+      },
+      {
+        "text": "as",
+        "start": 323.87,
+        "end": 323.97,
+        "score": 0.999
+      },
+      {
+        "text": "he",
+        "start": 324.01,
+        "end": 324.07,
+        "score": 0.995
+      },
+      {
+        "text": "was",
+        "start": 324.15,
+        "end": 324.29,
+        "score": 0.999
+      },
+      {
+        "text": "going",
+        "start": 324.35,
+        "end": 324.63,
+        "score": 0.999
+      },
+      {
+        "text": "out",
+        "start": 324.75,
+        "end": 324.91,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 324.95,
+        "end": 325.01,
+        "score": 1.0
+      },
+      {
+        "text": "Jerusalem",
+        "start": 325.13,
+        "end": 325.63,
+        "score": 1.0
+      },
+      {
+        "text": "Now",
+        "start": 326.67,
+        "end": 326.77,
+        "score": 0.999
+      },
+      {
+        "text": "Ahijah",
+        "start": 326.95,
+        "end": 327.35,
+        "score": 0.791
+      },
+      {
+        "text": "had",
+        "start": 327.41,
+        "end": 327.55,
+        "score": 0.999
+      },
+      {
+        "text": "wrapped",
+        "start": 327.59,
+        "end": 327.89,
+        "score": 0.749
+      },
+      {
+        "text": "himself",
+        "start": 327.91,
+        "end": 328.41,
+        "score": 0.975
+      },
+      {
+        "text": "in",
+        "start": 328.61,
+        "end": 328.69,
+        "score": 0.999
+      },
+      {
+        "text": "a",
+        "start": 328.73,
+        "end": 328.75,
+        "score": 0.996
+      },
+      {
+        "text": "new",
+        "start": 328.81,
+        "end": 328.95,
+        "score": 0.999
+      },
+      {
+        "text": "cloak",
+        "start": 329.05,
+        "end": 329.45,
+        "score": 0.912
+      },
+      {
+        "text": "and",
+        "start": 329.99,
+        "end": 330.09,
+        "score": 0.965
+      },
+      {
+        "text": "the",
+        "start": 330.11,
+        "end": 330.19,
+        "score": 0.998
+      },
+      {
+        "text": "two",
+        "start": 330.27,
+        "end": 330.41,
+        "score": 0.995
+      },
+      {
+        "text": "of",
+        "start": 330.47,
+        "end": 330.55,
+        "score": 1.0
+      },
+      {
+        "text": "them",
+        "start": 330.59,
+        "end": 330.79,
+        "score": 0.998
+      },
+      {
+        "text": "were",
+        "start": 330.97,
+        "end": 331.15,
+        "score": 0.976
+      },
+      {
+        "text": "alone",
+        "start": 331.17,
+        "end": 331.63,
+        "score": 0.976
+      },
+      {
+        "text": "in",
+        "start": 331.77,
+        "end": 331.85,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 331.87,
+        "end": 331.97,
+        "score": 0.998
+      },
+      {
+        "text": "open",
+        "start": 332.09,
+        "end": 332.35,
+        "score": 1.0
+      },
+      {
+        "text": "field",
+        "start": 332.43,
+        "end": 332.89,
+        "score": 0.991
+      }
+    ],
+    "30": [
+      {
+        "text": "And",
+        "start": 333.97,
+        "end": 334.03,
+        "score": 0.998
+      },
+      {
+        "text": "Ahijah",
+        "start": 334.15,
+        "end": 334.55,
+        "score": 0.73
+      },
+      {
+        "text": "took",
+        "start": 334.63,
+        "end": 334.83,
+        "score": 1.0
+      },
+      {
+        "text": "hold",
+        "start": 334.93,
+        "end": 335.29,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 335.35,
+        "end": 335.43,
+        "score": 0.992
+      },
+      {
+        "text": "the",
+        "start": 335.45,
+        "end": 335.55,
+        "score": 0.994
+      },
+      {
+        "text": "new",
+        "start": 335.63,
+        "end": 335.77,
+        "score": 1.0
+      },
+      {
+        "text": "cloak",
+        "start": 335.85,
+        "end": 336.15,
+        "score": 0.915
+      },
+      {
+        "text": "he",
+        "start": 336.23,
+        "end": 336.31,
+        "score": 0.997
+      },
+      {
+        "text": "was",
+        "start": 336.39,
+        "end": 336.53,
+        "score": 0.999
+      },
+      {
+        "text": "wearing",
+        "start": 336.57,
+        "end": 336.93,
+        "score": 0.956
+      },
+      {
+        "text": "tore",
+        "start": 337.31,
+        "end": 337.55,
+        "score": 0.778
+      },
+      {
+        "text": "it",
+        "start": 337.59,
+        "end": 337.71,
+        "score": 0.999
+      },
+      {
+        "text": "into",
+        "start": 337.85,
+        "end": 338.05,
+        "score": 0.999
+      },
+      {
+        "text": "twelve",
+        "start": 338.13,
+        "end": 338.51,
+        "score": 0.985
+      },
+      {
+        "text": "pieces",
+        "start": 338.57,
+        "end": 339.01,
+        "score": 0.956
+      }
+    ],
+    "31": [
+      {
+        "text": "and",
+        "start": 339.45,
+        "end": 339.57,
+        "score": 0.999
+      },
+      {
+        "text": "said",
+        "start": 339.69,
+        "end": 339.91,
+        "score": 0.506
+      },
+      {
+        "text": "to",
+        "start": 339.99,
+        "end": 340.07,
+        "score": 0.999
+      },
+      {
+        "text": "Jeroboam",
+        "start": 340.23,
+        "end": 340.81,
+        "score": 0.746
+      },
+      {
+        "text": "Take",
+        "start": 341.53,
+        "end": 341.73,
+        "score": 0.934
+      },
+      {
+        "text": "ten",
+        "start": 341.81,
+        "end": 342.03,
+        "score": 0.986
+      },
+      {
+        "text": "pieces",
+        "start": 342.15,
+        "end": 342.57,
+        "score": 0.951
+      },
+      {
+        "text": "for",
+        "start": 342.65,
+        "end": 342.77,
+        "score": 0.999
+      },
+      {
+        "text": "yourself",
+        "start": 342.83,
+        "end": 343.37,
+        "score": 0.99
+      },
+      {
+        "text": "for",
+        "start": 344.03,
+        "end": 344.17,
+        "score": 1.0
+      },
+      {
+        "text": "this",
+        "start": 344.25,
+        "end": 344.41,
+        "score": 0.996
+      },
+      {
+        "text": "is",
+        "start": 344.47,
+        "end": 344.57,
+        "score": 0.999
+      },
+      {
+        "text": "what",
+        "start": 344.59,
+        "end": 344.75,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 344.81,
+        "end": 344.89,
+        "score": 0.999
+      },
+      {
+        "text": "LORD",
+        "start": 344.89,
+        "end": 345.47,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 345.47,
+        "end": 345.55,
+        "score": 0.656
+      },
+      {
+        "text": "God",
+        "start": 345.69,
+        "end": 345.83,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 345.87,
+        "end": 345.95,
+        "score": 0.999
+      },
+      {
+        "text": "Israel",
+        "start": 346.11,
+        "end": 346.43,
+        "score": 0.934
+      },
+      {
+        "text": "says",
+        "start": 346.55,
+        "end": 347.05,
+        "score": 0.734
+      },
+      {
+        "text": "Behold",
+        "start": 347.89,
+        "end": 348.29,
+        "score": 0.987
+      },
+      {
+        "text": "I",
+        "start": 348.29,
+        "end": 348.95,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 348.95,
+        "end": 349.15,
+        "score": 0.969
+      },
+      {
+        "text": "tear",
+        "start": 349.25,
+        "end": 349.49,
+        "score": 0.616
+      },
+      {
+        "text": "the",
+        "start": 349.55,
+        "end": 349.63,
+        "score": 0.992
+      },
+      {
+        "text": "kingdom",
+        "start": 349.69,
+        "end": 350.05,
+        "score": 0.976
+      },
+      {
+        "text": "out",
+        "start": 350.25,
+        "end": 350.41,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 350.45,
+        "end": 350.53,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 350.55,
+        "end": 350.65,
+        "score": 0.985
+      },
+      {
+        "text": "hand",
+        "start": 350.69,
+        "end": 350.93,
+        "score": 0.931
+      },
+      {
+        "text": "of",
+        "start": 350.97,
+        "end": 351.03,
+        "score": 0.999
+      },
+      {
+        "text": "Solomon",
+        "start": 351.21,
+        "end": 351.59,
+        "score": 0.961
+      },
+      {
+        "text": "and",
+        "start": 352.09,
+        "end": 352.19,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 352.19,
+        "end": 352.49,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 352.49,
+        "end": 352.65,
+        "score": 0.991
+      },
+      {
+        "text": "give",
+        "start": 352.71,
+        "end": 352.93,
+        "score": 1.0
+      },
+      {
+        "text": "you",
+        "start": 353.01,
+        "end": 353.19,
+        "score": 0.987
+      },
+      {
+        "text": "ten",
+        "start": 353.47,
+        "end": 353.71,
+        "score": 0.995
+      },
+      {
+        "text": "tribes",
+        "start": 353.81,
+        "end": 354.45,
+        "score": 0.978
+      }
+    ],
+    "32": [
+      {
+        "text": "But",
+        "start": 355.23,
+        "end": 355.33,
+        "score": 1.0
+      },
+      {
+        "text": "one",
+        "start": 355.51,
+        "end": 355.67,
+        "score": 0.962
+      },
+      {
+        "text": "tribe",
+        "start": 355.71,
+        "end": 356.11,
+        "score": 0.999
+      },
+      {
+        "text": "will",
+        "start": 356.13,
+        "end": 356.29,
+        "score": 0.986
+      },
+      {
+        "text": "remain",
+        "start": 356.33,
+        "end": 356.71,
+        "score": 0.969
+      },
+      {
+        "text": "for",
+        "start": 357.05,
+        "end": 357.19,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 357.23,
+        "end": 357.31,
+        "score": 0.999
+      },
+      {
+        "text": "sake",
+        "start": 357.41,
+        "end": 357.69,
+        "score": 0.966
+      },
+      {
+        "text": "of",
+        "start": 357.71,
+        "end": 357.79,
+        "score": 0.999
+      },
+      {
+        "text": "My",
+        "start": 358.01,
+        "end": 358.03,
+        "score": 1.0
+      },
+      {
+        "text": "servant",
+        "start": 358.15,
+        "end": 358.47,
+        "score": 0.999
+      },
+      {
+        "text": "David",
+        "start": 358.61,
+        "end": 358.89,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 359.37,
+        "end": 359.51,
+        "score": 0.98
+      },
+      {
+        "text": "for",
+        "start": 359.57,
+        "end": 359.71,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 359.75,
+        "end": 359.85,
+        "score": 0.978
+      },
+      {
+        "text": "sake",
+        "start": 359.95,
+        "end": 360.21,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 360.23,
+        "end": 360.31,
+        "score": 1.0
+      },
+      {
+        "text": "Jerusalem",
+        "start": 360.43,
+        "end": 360.95,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 361.31,
+        "end": 361.41,
+        "score": 0.956
+      },
+      {
+        "text": "city",
+        "start": 361.49,
+        "end": 361.71,
+        "score": 1.0
+      },
+      {
+        "text": "I",
+        "start": 361.71,
+        "end": 362.05,
+        "score": 1.0
+      },
+      {
+        "text": "have",
+        "start": 362.05,
+        "end": 362.19,
+        "score": 1.0
+      },
+      {
+        "text": "chosen",
+        "start": 362.23,
+        "end": 362.59,
+        "score": 1.0
+      },
+      {
+        "text": "out",
+        "start": 362.93,
+        "end": 363.05,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 363.09,
+        "end": 363.17,
+        "score": 0.999
+      },
+      {
+        "text": "all",
+        "start": 363.33,
+        "end": 363.47,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 363.53,
+        "end": 363.63,
+        "score": 0.964
+      },
+      {
+        "text": "tribes",
+        "start": 363.69,
+        "end": 364.17,
+        "score": 0.981
+      },
+      {
+        "text": "of",
+        "start": 364.21,
+        "end": 364.29,
+        "score": 0.999
+      },
+      {
+        "text": "Israel",
+        "start": 364.47,
+        "end": 364.81,
+        "score": 0.982
+      }
+    ],
+    "33": [
+      {
+        "text": "For",
+        "start": 365.89,
+        "end": 365.97,
+        "score": 1.0
+      },
+      {
+        "text": "they",
+        "start": 366.03,
+        "end": 366.17,
+        "score": 0.979
+      },
+      {
+        "text": "have",
+        "start": 366.23,
+        "end": 366.39,
+        "score": 0.852
+      }
+    ],
+    "34": [
+      {
+        "text": "Nevertheless",
+        "start": 366.41,
+        "end": 367.05,
+        "score": 0.182
+      },
+      {
+        "text": "I",
+        "start": 367.05,
+        "end": 388.15,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 388.15,
+        "end": 388.35,
+        "score": 0.999
+      },
+      {
+        "text": "not",
+        "start": 388.45,
+        "end": 388.67,
+        "score": 0.994
+      },
+      {
+        "text": "take",
+        "start": 388.77,
+        "end": 389.09,
+        "score": 0.995
+      },
+      {
+        "text": "the",
+        "start": 389.13,
+        "end": 389.23,
+        "score": 0.997
+      },
+      {
+        "text": "whole",
+        "start": 389.33,
+        "end": 389.59,
+        "score": 0.984
+      },
+      {
+        "text": "kingdom",
+        "start": 389.65,
+        "end": 390.05,
+        "score": 1.0
+      },
+      {
+        "text": "out",
+        "start": 390.25,
+        "end": 390.39,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 390.41,
+        "end": 390.49,
+        "score": 0.999
+      },
+      {
+        "text": "Solomon",
+        "start": 390.69,
+        "end": 391.03,
+        "score": 0.987
+      },
+      {
+        "text": "s",
+        "start": 391.09,
+        "end": 391.11,
+        "score": 0.995
+      },
+      {
+        "text": "hand",
+        "start": 391.17,
+        "end": 391.59,
+        "score": 0.976
+      },
+      {
+        "text": "because",
+        "start": 392.15,
+        "end": 392.59,
+        "score": 0.957
+      },
+      {
+        "text": "I",
+        "start": 392.59,
+        "end": 392.91,
+        "score": 1.0
+      },
+      {
+        "text": "have",
+        "start": 392.91,
+        "end": 393.07,
+        "score": 0.999
+      },
+      {
+        "text": "made",
+        "start": 393.11,
+        "end": 393.35,
+        "score": 0.999
+      },
+      {
+        "text": "him",
+        "start": 393.39,
+        "end": 393.55,
+        "score": 1.0
+      },
+      {
+        "text": "ruler",
+        "start": 393.65,
+        "end": 393.99,
+        "score": 0.987
+      },
+      {
+        "text": "all",
+        "start": 394.37,
+        "end": 394.53,
+        "score": 0.919
+      },
+      {
+        "text": "the",
+        "start": 394.61,
+        "end": 394.71,
+        "score": 0.999
+      },
+      {
+        "text": "days",
+        "start": 394.77,
+        "end": 395.05,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 395.13,
+        "end": 395.21,
+        "score": 1.0
+      },
+      {
+        "text": "his",
+        "start": 395.27,
+        "end": 395.43,
+        "score": 0.989
+      },
+      {
+        "text": "life",
+        "start": 395.53,
+        "end": 395.89,
+        "score": 0.999
+      },
+      {
+        "text": "for",
+        "start": 396.19,
+        "end": 396.33,
+        "score": 0.987
+      },
+      {
+        "text": "the",
+        "start": 396.37,
+        "end": 396.45,
+        "score": 0.999
+      },
+      {
+        "text": "sake",
+        "start": 396.55,
+        "end": 396.81,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 396.85,
+        "end": 396.95,
+        "score": 1.0
+      },
+      {
+        "text": "David",
+        "start": 397.11,
+        "end": 397.39,
+        "score": 0.999
+      },
+      {
+        "text": "My",
+        "start": 397.61,
+        "end": 397.63,
+        "score": 1.0
+      },
+      {
+        "text": "servant",
+        "start": 397.71,
+        "end": 398.13,
+        "score": 0.999
+      },
+      {
+        "text": "whom",
+        "start": 398.57,
+        "end": 398.75,
+        "score": 0.996
+      },
+      {
+        "text": "I",
+        "start": 398.75,
+        "end": 399.17,
+        "score": 1.0
+      },
+      {
+        "text": "chose",
+        "start": 399.17,
+        "end": 399.59,
+        "score": 0.95
+      },
+      {
+        "text": "because",
+        "start": 399.83,
+        "end": 400.25,
+        "score": 0.998
+      },
+      {
+        "text": "he",
+        "start": 400.27,
+        "end": 400.33,
+        "score": 1.0
+      },
+      {
+        "text": "kept",
+        "start": 400.45,
+        "end": 400.81,
+        "score": 0.998
+      },
+      {
+        "text": "My",
+        "start": 401.03,
+        "end": 401.05,
+        "score": 1.0
+      },
+      {
+        "text": "commandments",
+        "start": 401.11,
+        "end": 401.79,
+        "score": 0.975
+      },
+      {
+        "text": "and",
+        "start": 401.89,
+        "end": 401.99,
+        "score": 0.989
+      },
+      {
+        "text": "statutes",
+        "start": 402.05,
+        "end": 402.73,
+        "score": 0.954
+      }
+    ],
+    "35": [
+      {
+        "text": "But",
+        "start": 403.79,
+        "end": 403.89,
+        "score": 1.0
+      },
+      {
+        "text": "I",
+        "start": 403.89,
+        "end": 404.17,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 404.17,
+        "end": 404.39,
+        "score": 0.957
+      },
+      {
+        "text": "take",
+        "start": 404.49,
+        "end": 404.77,
+        "score": 0.999
+      },
+      {
+        "text": "ten",
+        "start": 404.83,
+        "end": 405.05,
+        "score": 0.995
+      },
+      {
+        "text": "tribes",
+        "start": 405.13,
+        "end": 405.53,
+        "score": 0.961
+      },
+      {
+        "text": "of",
+        "start": 405.57,
+        "end": 405.65,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 405.67,
+        "end": 405.75,
+        "score": 0.999
+      },
+      {
+        "text": "kingdom",
+        "start": 405.79,
+        "end": 406.15,
+        "score": 0.99
+      },
+      {
+        "text": "from",
+        "start": 406.51,
+        "end": 406.67,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 406.69,
+        "end": 406.79,
+        "score": 0.996
+      },
+      {
+        "text": "hand",
+        "start": 406.87,
+        "end": 407.13,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 407.17,
+        "end": 407.23,
+        "score": 0.999
+      },
+      {
+        "text": "his",
+        "start": 407.29,
+        "end": 407.43,
+        "score": 0.933
+      },
+      {
+        "text": "son",
+        "start": 407.53,
+        "end": 407.81,
+        "score": 1.0
+      },
+      {
+        "text": "and",
+        "start": 408.33,
+        "end": 408.45,
+        "score": 0.999
+      },
+      {
+        "text": "give",
+        "start": 408.53,
+        "end": 408.73,
+        "score": 1.0
+      },
+      {
+        "text": "them",
+        "start": 408.77,
+        "end": 408.93,
+        "score": 0.92
+      },
+      {
+        "text": "to",
+        "start": 409.05,
+        "end": 409.17,
+        "score": 0.999
+      },
+      {
+        "text": "you",
+        "start": 409.29,
+        "end": 409.41,
+        "score": 0.998
+      }
+    ],
+    "36": [
+      {
+        "text": "I",
+        "start": 409.41,
+        "end": 410.75,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 410.75,
+        "end": 410.93,
+        "score": 0.968
+      },
+      {
+        "text": "give",
+        "start": 410.97,
+        "end": 411.21,
+        "score": 1.0
+      },
+      {
+        "text": "one",
+        "start": 411.39,
+        "end": 411.55,
+        "score": 0.948
+      },
+      {
+        "text": "tribe",
+        "start": 411.61,
+        "end": 411.95,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 412.01,
+        "end": 412.09,
+        "score": 0.998
+      },
+      {
+        "text": "his",
+        "start": 412.17,
+        "end": 412.31,
+        "score": 0.997
+      },
+      {
+        "text": "son",
+        "start": 412.39,
+        "end": 412.67,
+        "score": 1.0
+      },
+      {
+        "text": "so",
+        "start": 413.17,
+        "end": 413.25,
+        "score": 1.0
+      },
+      {
+        "text": "that",
+        "start": 413.33,
+        "end": 413.47,
+        "score": 0.998
+      },
+      {
+        "text": "My",
+        "start": 413.65,
+        "end": 413.69,
+        "score": 0.772
+      },
+      {
+        "text": "servant",
+        "start": 413.77,
+        "end": 414.11,
+        "score": 1.0
+      },
+      {
+        "text": "David",
+        "start": 414.25,
+        "end": 414.49,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 414.81,
+        "end": 414.99,
+        "score": 0.988
+      },
+      {
+        "text": "always",
+        "start": 415.09,
+        "end": 415.51,
+        "score": 0.999
+      },
+      {
+        "text": "have",
+        "start": 415.57,
+        "end": 415.77,
+        "score": 0.982
+      },
+      {
+        "text": "a",
+        "start": 415.79,
+        "end": 415.81,
+        "score": 0.996
+      },
+      {
+        "text": "lamp",
+        "start": 415.89,
+        "end": 416.15,
+        "score": 1.0
+      },
+      {
+        "text": "before",
+        "start": 416.31,
+        "end": 416.71,
+        "score": 0.952
+      },
+      {
+        "text": "Me",
+        "start": 416.77,
+        "end": 416.79,
+        "score": 0.999
+      },
+      {
+        "text": "in",
+        "start": 417.01,
+        "end": 417.09,
+        "score": 0.999
+      },
+      {
+        "text": "Jerusalem",
+        "start": 417.21,
+        "end": 417.75,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 418.19,
+        "end": 418.27,
+        "score": 0.977
+      },
+      {
+        "text": "city",
+        "start": 418.37,
+        "end": 418.59,
+        "score": 1.0
+      },
+      {
+        "text": "where",
+        "start": 418.95,
+        "end": 419.13,
+        "score": 0.997
+      },
+      {
+        "text": "I",
+        "start": 419.13,
+        "end": 419.53,
+        "score": 1.0
+      },
+      {
+        "text": "chose",
+        "start": 419.53,
+        "end": 419.95,
+        "score": 0.953
+      },
+      {
+        "text": "to",
+        "start": 419.99,
+        "end": 420.07,
+        "score": 0.999
+      },
+      {
+        "text": "put",
+        "start": 420.13,
+        "end": 420.35,
+        "score": 1.0
+      },
+      {
+        "text": "My",
+        "start": 420.59,
+        "end": 420.61,
+        "score": 1.0
+      },
+      {
+        "text": "Name",
+        "start": 420.77,
+        "end": 421.07,
+        "score": 0.995
+      }
+    ],
+    "37": [
+      {
+        "text": "But",
+        "start": 421.99,
+        "end": 422.09,
+        "score": 1.0
+      },
+      {
+        "text": "as",
+        "start": 422.21,
+        "end": 422.37,
+        "score": 0.999
+      },
+      {
+        "text": "for",
+        "start": 422.45,
+        "end": 422.59,
+        "score": 0.998
+      },
+      {
+        "text": "you",
+        "start": 422.69,
+        "end": 422.81,
+        "score": 0.99
+      },
+      {
+        "text": "I",
+        "start": 422.81,
+        "end": 423.57,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 423.57,
+        "end": 423.75,
+        "score": 0.99
+      },
+      {
+        "text": "take",
+        "start": 423.81,
+        "end": 424.11,
+        "score": 0.999
+      },
+      {
+        "text": "you",
+        "start": 424.13,
+        "end": 424.29,
+        "score": 0.96
+      },
+      {
+        "text": "and",
+        "start": 424.67,
+        "end": 424.81,
+        "score": 0.988
+      },
+      {
+        "text": "you",
+        "start": 424.87,
+        "end": 424.99,
+        "score": 0.922
+      },
+      {
+        "text": "shall",
+        "start": 425.07,
+        "end": 425.27,
+        "score": 0.996
+      },
+      {
+        "text": "reign",
+        "start": 425.35,
+        "end": 425.65,
+        "score": 0.667
+      },
+      {
+        "text": "over",
+        "start": 425.81,
+        "end": 426.01,
+        "score": 1.0
+      },
+      {
+        "text": "all",
+        "start": 426.15,
+        "end": 426.33,
+        "score": 0.999
+      },
+      {
+        "text": "that",
+        "start": 426.37,
+        "end": 426.51,
+        "score": 0.999
+      },
+      {
+        "text": "your",
+        "start": 426.57,
+        "end": 426.73,
+        "score": 0.979
+      },
+      {
+        "text": "heart",
+        "start": 426.79,
+        "end": 427.05,
+        "score": 0.963
+      },
+      {
+        "text": "desires",
+        "start": 427.13,
+        "end": 427.87,
+        "score": 0.952
+      },
+      {
+        "text": "and",
+        "start": 428.33,
+        "end": 428.47,
+        "score": 0.926
+      },
+      {
+        "text": "you",
+        "start": 428.53,
+        "end": 428.67,
+        "score": 0.998
+      },
+      {
+        "text": "will",
+        "start": 428.73,
+        "end": 428.91,
+        "score": 0.919
+      },
+      {
+        "text": "be",
+        "start": 428.97,
+        "end": 429.03,
+        "score": 0.999
+      },
+      {
+        "text": "king",
+        "start": 429.19,
+        "end": 429.51,
+        "score": 0.989
+      },
+      {
+        "text": "over",
+        "start": 429.77,
+        "end": 429.99,
+        "score": 1.0
+      },
+      {
+        "text": "Israel",
+        "start": 430.21,
+        "end": 430.55,
+        "score": 0.991
+      }
+    ],
+    "38": [
+      {
+        "text": "If",
+        "start": 431.81,
+        "end": 431.83,
+        "score": 1.0
+      },
+      {
+        "text": "you",
+        "start": 431.89,
+        "end": 432.01,
+        "score": 0.999
+      },
+      {
+        "text": "listen",
+        "start": 432.11,
+        "end": 432.43,
+        "score": 0.986
+      },
+      {
+        "text": "to",
+        "start": 432.55,
+        "end": 432.63,
+        "score": 0.999
+      },
+      {
+        "text": "all",
+        "start": 432.85,
+        "end": 433.01,
+        "score": 0.956
+      },
+      {
+        "text": "that",
+        "start": 433.09,
+        "end": 433.23,
+        "score": 0.998
+      },
+      {
+        "text": "I",
+        "start": 433.23,
+        "end": 433.47,
+        "score": 1.0
+      },
+      {
+        "text": "command",
+        "start": 433.47,
+        "end": 433.87,
+        "score": 1.0
+      },
+      {
+        "text": "you",
+        "start": 433.93,
+        "end": 434.07,
+        "score": 0.999
+      },
+      {
+        "text": "walk",
+        "start": 434.53,
+        "end": 434.85,
+        "score": 1.0
+      },
+      {
+        "text": "in",
+        "start": 435.01,
+        "end": 435.09,
+        "score": 0.999
+      },
+      {
+        "text": "My",
+        "start": 435.29,
+        "end": 435.31,
+        "score": 1.0
+      },
+      {
+        "text": "ways",
+        "start": 435.41,
+        "end": 435.81,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 436.19,
+        "end": 436.31,
+        "score": 0.999
+      },
+      {
+        "text": "do",
+        "start": 436.39,
+        "end": 436.49,
+        "score": 1.0
+      },
+      {
+        "text": "what",
+        "start": 436.59,
+        "end": 436.77,
+        "score": 0.995
+      },
+      {
+        "text": "is",
+        "start": 436.83,
+        "end": 436.93,
+        "score": 0.999
+      },
+      {
+        "text": "right",
+        "start": 437.01,
+        "end": 437.29,
+        "score": 0.981
+      },
+      {
+        "text": "in",
+        "start": 437.39,
+        "end": 437.47,
+        "score": 0.999
+      },
+      {
+        "text": "My",
+        "start": 437.67,
+        "end": 437.69,
+        "score": 1.0
+      },
+      {
+        "text": "sight",
+        "start": 437.81,
+        "end": 438.15,
+        "score": 0.93
+      },
+      {
+        "text": "in",
+        "start": 438.59,
+        "end": 438.67,
+        "score": 1.0
+      },
+      {
+        "text": "order",
+        "start": 438.77,
+        "end": 438.99,
+        "score": 0.967
+      },
+      {
+        "text": "to",
+        "start": 439.05,
+        "end": 439.13,
+        "score": 0.999
+      },
+      {
+        "text": "keep",
+        "start": 439.23,
+        "end": 439.45,
+        "score": 0.999
+      },
+      {
+        "text": "My",
+        "start": 439.67,
+        "end": 439.69,
+        "score": 1.0
+      },
+      {
+        "text": "statutes",
+        "start": 439.79,
+        "end": 440.37,
+        "score": 0.932
+      },
+      {
+        "text": "and",
+        "start": 440.47,
+        "end": 440.59,
+        "score": 0.999
+      },
+      {
+        "text": "commandments",
+        "start": 440.65,
+        "end": 441.27,
+        "score": 0.981
+      },
+      {
+        "text": "as",
+        "start": 441.57,
+        "end": 441.71,
+        "score": 0.999
+      },
+      {
+        "text": "My",
+        "start": 441.87,
+        "end": 441.89,
+        "score": 1.0
+      },
+      {
+        "text": "servant",
+        "start": 442.01,
+        "end": 442.37,
+        "score": 0.997
+      },
+      {
+        "text": "David",
+        "start": 442.51,
+        "end": 442.77,
+        "score": 0.999
+      },
+      {
+        "text": "did",
+        "start": 442.83,
+        "end": 443.11,
+        "score": 1.0
+      },
+      {
+        "text": "then",
+        "start": 443.67,
+        "end": 443.83,
+        "score": 0.995
+      },
+      {
+        "text": "I",
+        "start": 443.83,
+        "end": 444.19,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 444.19,
+        "end": 444.35,
+        "score": 0.965
+      },
+      {
+        "text": "be",
+        "start": 444.39,
+        "end": 444.45,
+        "score": 0.999
+      },
+      {
+        "text": "with",
+        "start": 444.55,
+        "end": 444.73,
+        "score": 1.0
+      },
+      {
+        "text": "you",
+        "start": 444.81,
+        "end": 444.91,
+        "score": 0.958
+      },
+      {
+        "text": "I",
+        "start": 444.91,
+        "end": 446.05,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 446.05,
+        "end": 446.23,
+        "score": 0.963
+      },
+      {
+        "text": "build",
+        "start": 446.31,
+        "end": 446.55,
+        "score": 0.98
+      },
+      {
+        "text": "you",
+        "start": 446.59,
+        "end": 446.73,
+        "score": 0.989
+      },
+      {
+        "text": "a",
+        "start": 446.93,
+        "end": 446.95,
+        "score": 0.998
+      },
+      {
+        "text": "lasting",
+        "start": 447.07,
+        "end": 447.51,
+        "score": 1.0
+      },
+      {
+        "text": "dynasty",
+        "start": 447.55,
+        "end": 448.05,
+        "score": 0.839
+      },
+      {
+        "text": "just",
+        "start": 448.47,
+        "end": 448.79,
+        "score": 0.999
+      },
+      {
+        "text": "as",
+        "start": 448.91,
+        "end": 449.03,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 449.03,
+        "end": 449.27,
+        "score": 1.0
+      },
+      {
+        "text": "built",
+        "start": 449.27,
+        "end": 449.49,
+        "score": 0.974
+      },
+      {
+        "text": "for",
+        "start": 449.53,
+        "end": 449.67,
+        "score": 0.999
+      },
+      {
+        "text": "David",
+        "start": 449.83,
+        "end": 450.13,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 450.69,
+        "end": 450.81,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 450.81,
+        "end": 451.13,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 451.13,
+        "end": 451.29,
+        "score": 0.992
+      },
+      {
+        "text": "give",
+        "start": 451.35,
+        "end": 451.55,
+        "score": 1.0
+      },
+      {
+        "text": "Israel",
+        "start": 451.77,
+        "end": 452.11,
+        "score": 0.979
+      },
+      {
+        "text": "to",
+        "start": 452.23,
+        "end": 452.33,
+        "score": 0.999
+      },
+      {
+        "text": "you",
+        "start": 452.43,
+        "end": 452.61,
+        "score": 0.973
+      }
+    ],
+    "39": [
+      {
+        "text": "Because",
+        "start": 453.65,
+        "end": 454.01,
+        "score": 0.977
+      },
+      {
+        "text": "of",
+        "start": 454.03,
+        "end": 454.11,
+        "score": 1.0
+      },
+      {
+        "text": "this",
+        "start": 454.15,
+        "end": 454.39,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 454.39,
+        "end": 454.97,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 454.97,
+        "end": 455.17,
+        "score": 0.959
+      },
+      {
+        "text": "humble",
+        "start": 455.27,
+        "end": 455.65,
+        "score": 0.974
+      },
+      {
+        "text": "David",
+        "start": 455.83,
+        "end": 456.09,
+        "score": 0.999
+      },
+      {
+        "text": "s",
+        "start": 456.15,
+        "end": 456.17,
+        "score": 0.991
+      },
+      {
+        "text": "descendants",
+        "start": 456.21,
+        "end": 456.91,
+        "score": 0.97
+      },
+      {
+        "text": "but",
+        "start": 457.45,
+        "end": 457.61,
+        "score": 0.999
+      },
+      {
+        "text": "not",
+        "start": 457.71,
+        "end": 457.95,
+        "score": 0.999
+      },
+      {
+        "text": "forever",
+        "start": 458.07,
+        "end": 458.51,
+        "score": 0.999
+      }
+    ],
+    "40": [
+      {
+        "text": "Solomon",
+        "start": 459.93,
+        "end": 460.27,
+        "score": 0.994
+      },
+      {
+        "text": "therefore",
+        "start": 460.33,
+        "end": 460.85,
+        "score": 0.989
+      },
+      {
+        "text": "sought",
+        "start": 461.05,
+        "end": 461.27,
+        "score": 0.949
+      },
+      {
+        "text": "to",
+        "start": 461.33,
+        "end": 461.41,
+        "score": 0.999
+      },
+      {
+        "text": "kill",
+        "start": 461.55,
+        "end": 461.83,
+        "score": 0.991
+      },
+      {
+        "text": "Jeroboam",
+        "start": 462.05,
+        "end": 462.61,
+        "score": 0.756
+      },
+      {
+        "text": "But",
+        "start": 463.35,
+        "end": 463.45,
+        "score": 1.0
+      },
+      {
+        "text": "Jeroboam",
+        "start": 463.61,
+        "end": 464.15,
+        "score": 0.764
+      },
+      {
+        "text": "arose",
+        "start": 464.33,
+        "end": 464.85,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 464.97,
+        "end": 465.09,
+        "score": 0.926
+      },
+      {
+        "text": "fled",
+        "start": 465.17,
+        "end": 465.39,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 465.45,
+        "end": 465.53,
+        "score": 0.999
+      },
+      {
+        "text": "Egypt",
+        "start": 465.81,
+        "end": 466.05,
+        "score": 0.998
+      },
+      {
+        "text": "to",
+        "start": 466.37,
+        "end": 466.45,
+        "score": 0.999
+      },
+      {
+        "text": "Shishak",
+        "start": 466.63,
+        "end": 467.15,
+        "score": 0.883
+      },
+      {
+        "text": "king",
+        "start": 467.33,
+        "end": 467.63,
+        "score": 0.986
+      },
+      {
+        "text": "of",
+        "start": 467.81,
+        "end": 467.91,
+        "score": 0.999
+      },
+      {
+        "text": "Egypt",
+        "start": 468.13,
+        "end": 468.41,
+        "score": 0.998
+      },
+      {
+        "text": "where",
+        "start": 468.87,
+        "end": 469.05,
+        "score": 0.948
+      },
+      {
+        "text": "he",
+        "start": 469.07,
+        "end": 469.13,
+        "score": 0.993
+      },
+      {
+        "text": "remained",
+        "start": 469.23,
+        "end": 469.71,
+        "score": 0.986
+      },
+      {
+        "text": "until",
+        "start": 469.87,
+        "end": 470.19,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 470.23,
+        "end": 470.33,
+        "score": 0.989
+      },
+      {
+        "text": "death",
+        "start": 470.37,
+        "end": 470.63,
+        "score": 0.939
+      },
+      {
+        "text": "of",
+        "start": 470.69,
+        "end": 470.77,
+        "score": 0.999
+      },
+      {
+        "text": "Solomon",
+        "start": 470.95,
+        "end": 471.33,
+        "score": 0.989
+      }
+    ],
+    "41": [
+      {
+        "text": "As",
+        "start": 472.79,
+        "end": 472.81,
+        "score": 0.998
+      },
+      {
+        "text": "for",
+        "start": 472.87,
+        "end": 472.99,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 473.03,
+        "end": 473.11,
+        "score": 0.99
+      },
+      {
+        "text": "rest",
+        "start": 473.21,
+        "end": 473.49,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 473.55,
+        "end": 473.61,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 473.63,
+        "end": 473.73,
+        "score": 0.935
+      },
+      {
+        "text": "acts",
+        "start": 473.87,
+        "end": 474.11,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 474.15,
+        "end": 474.23,
+        "score": 0.999
+      },
+      {
+        "text": "Solomon",
+        "start": 474.39,
+        "end": 474.73,
+        "score": 0.989
+      },
+      {
+        "text": "all",
+        "start": 475.19,
+        "end": 475.35,
+        "score": 1.0
+      },
+      {
+        "text": "that",
+        "start": 475.41,
+        "end": 475.55,
+        "score": 0.985
+      },
+      {
+        "text": "he",
+        "start": 475.59,
+        "end": 475.67,
+        "score": 0.981
+      },
+      {
+        "text": "did",
+        "start": 475.79,
+        "end": 476.07,
+        "score": 1.0
+      },
+      {
+        "text": "as",
+        "start": 476.27,
+        "end": 476.39,
+        "score": 0.999
+      },
+      {
+        "text": "well",
+        "start": 476.45,
+        "end": 476.63,
+        "score": 1.0
+      },
+      {
+        "text": "as",
+        "start": 476.67,
+        "end": 476.79,
+        "score": 0.999
+      },
+      {
+        "text": "his",
+        "start": 476.83,
+        "end": 476.99,
+        "score": 0.995
+      },
+      {
+        "text": "wisdom",
+        "start": 477.05,
+        "end": 477.43,
+        "score": 0.961
+      },
+      {
+        "text": "are",
+        "start": 478.09,
+        "end": 478.23,
+        "score": 0.999
+      },
+      {
+        "text": "they",
+        "start": 478.25,
+        "end": 478.37,
+        "score": 0.995
+      },
+      {
+        "text": "not",
+        "start": 478.43,
+        "end": 478.61,
+        "score": 0.962
+      },
+      {
+        "text": "written",
+        "start": 478.65,
+        "end": 478.97,
+        "score": 0.981
+      },
+      {
+        "text": "in",
+        "start": 479.17,
+        "end": 479.23,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 479.27,
+        "end": 479.37,
+        "score": 0.965
+      },
+      {
+        "text": "Book",
+        "start": 479.49,
+        "end": 479.65,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 479.73,
+        "end": 479.79,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 479.81,
+        "end": 479.91,
+        "score": 0.97
+      },
+      {
+        "text": "Acts",
+        "start": 480.23,
+        "end": 480.37,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 480.43,
+        "end": 480.49,
+        "score": 0.999
+      },
+      {
+        "text": "Solomon",
+        "start": 480.69,
+        "end": 481.05,
+        "score": 0.989
+      }
+    ],
+    "42": [
+      {
+        "text": "Thus",
+        "start": 482.13,
+        "end": 482.35,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 482.43,
+        "end": 482.53,
+        "score": 0.998
+      },
+      {
+        "text": "time",
+        "start": 482.63,
+        "end": 483.01,
+        "score": 0.999
+      },
+      {
+        "text": "that",
+        "start": 483.05,
+        "end": 483.21,
+        "score": 0.998
+      },
+      {
+        "text": "Solomon",
+        "start": 483.37,
+        "end": 483.69,
+        "score": 0.993
+      },
+      {
+        "text": "reigned",
+        "start": 483.77,
+        "end": 484.07,
+        "score": 0.707
+      },
+      {
+        "text": "in",
+        "start": 484.11,
+        "end": 484.19,
+        "score": 0.998
+      },
+      {
+        "text": "Jerusalem",
+        "start": 484.31,
+        "end": 484.81,
+        "score": 1.0
+      },
+      {
+        "text": "over",
+        "start": 484.97,
+        "end": 485.19,
+        "score": 0.963
+      },
+      {
+        "text": "all",
+        "start": 485.35,
+        "end": 485.51,
+        "score": 0.989
+      },
+      {
+        "text": "Israel",
+        "start": 485.79,
+        "end": 486.13,
+        "score": 0.979
+      },
+      {
+        "text": "was",
+        "start": 486.49,
+        "end": 486.67,
+        "score": 0.999
+      },
+      {
+        "text": "forty",
+        "start": 486.77,
+        "end": 487.07,
+        "score": 0.99
+      },
+      {
+        "text": "years",
+        "start": 487.19,
+        "end": 487.75,
+        "score": 0.987
+      }
+    ],
+    "43": [
+      {
+        "text": "And",
+        "start": 488.73,
+        "end": 488.79,
+        "score": 0.981
+      },
+      {
+        "text": "Solomon",
+        "start": 488.97,
+        "end": 489.29,
+        "score": 0.996
+      },
+      {
+        "text": "rested",
+        "start": 489.39,
+        "end": 489.77,
+        "score": 1.0
+      },
+      {
+        "text": "with",
+        "start": 489.83,
+        "end": 489.99,
+        "score": 0.956
+      },
+      {
+        "text": "his",
+        "start": 490.01,
+        "end": 490.13,
+        "score": 0.995
+      },
+      {
+        "text": "fathers",
+        "start": 490.19,
+        "end": 490.71,
+        "score": 0.993
+      },
+      {
+        "text": "and",
+        "start": 491.09,
+        "end": 491.21,
+        "score": 0.994
+      },
+      {
+        "text": "was",
+        "start": 491.25,
+        "end": 491.39,
+        "score": 0.999
+      },
+      {
+        "text": "buried",
+        "start": 491.47,
+        "end": 491.85,
+        "score": 0.957
+      },
+      {
+        "text": "in",
+        "start": 492.03,
+        "end": 492.11,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 492.15,
+        "end": 492.23,
+        "score": 0.999
+      },
+      {
+        "text": "city",
+        "start": 492.33,
+        "end": 492.55,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 492.65,
+        "end": 492.73,
+        "score": 1.0
+      },
+      {
+        "text": "his",
+        "start": 492.79,
+        "end": 492.95,
+        "score": 0.994
+      },
+      {
+        "text": "father",
+        "start": 493.01,
+        "end": 493.33,
+        "score": 0.999
+      },
+      {
+        "text": "David",
+        "start": 493.49,
+        "end": 493.79,
+        "score": 0.999
+      },
+      {
+        "text": "And",
+        "start": 494.65,
+        "end": 494.71,
+        "score": 0.986
+      },
+      {
+        "text": "his",
+        "start": 494.75,
+        "end": 494.89,
+        "score": 0.953
+      },
+      {
+        "text": "son",
+        "start": 494.95,
+        "end": 495.19,
+        "score": 1.0
+      },
+      {
+        "text": "Rehoboam",
+        "start": 495.45,
+        "end": 496.01,
+        "score": 0.726
+      },
+      {
+        "text": "reigned",
+        "start": 496.41,
+        "end": 496.75,
+        "score": 0.729
+      },
+      {
+        "text": "in",
+        "start": 496.87,
+        "end": 496.95,
+        "score": 0.999
+      },
+      {
+        "text": "his",
+        "start": 497.01,
+        "end": 497.15,
+        "score": 1.0
+      },
+      {
+        "text": "place",
+        "start": 497.21,
+        "end": 497.69,
+        "score": 1.0
+      }
+    ]
+  }
+}
