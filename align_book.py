@@ -47,6 +47,8 @@ import torch
 import torchaudio
 from uroman import Uroman
 
+from audio_lookup import find_audio
+
 
 SCRIPT_DIR = Path(__file__).parent
 DEFAULT_TEXT_DIR = SCRIPT_DIR / "text"
@@ -191,50 +193,6 @@ def map_to_verses(words: List[dict], cleaned_verses: List[str],
         verse_words[str(vi)] = words[word_idx:word_idx + n]
         word_idx += n
     return {"book": book, "chapter": chapter_str, "verses": verse_words}
-
-
-# ─── Audio file lookup ────────────────────────────────────────────────────
-
-book_alias = {
-    "tit": "Tts",
-}
-
-def find_audio(audio_dir: Path, book: str, chapter: int,
-               glob_template: Optional[str]) -> Optional[Path]:
-    """Find an audio file for a book/chapter inside audio_dir.
-
-    Tries glob_template first if given (with {book}, {ch2}, {ch3} placeholders),
-    then falls back to a few common patterns.
-    """
-    candidates: List[Path] = []
-    book_lc = book.lower()
-    book_title = book.title()
-    ch2 = f"{chapter:02d}"
-    ch3 = f"{chapter:03d}"
-
-    patterns = []
-    if glob_template:
-        patterns.append(glob_template.format(book=book, book_lc=book_lc,
-                                             ch2=ch2, ch3=ch3, ch=chapter))
-    patterns += [
-        f"*{book}*{ch3}*.mp3",
-        f"*{book}*{ch2}*.mp3",
-        f"*{book_lc}*{ch3}*.mp3",
-        f"*{book_lc}*{ch2}*.mp3",
-        f"*{book_title}*{ch3}*.mp3",
-        f"*{book_title}*{ch2}*.mp3",
-    ]
-    if book_lc in book_alias:
-        patterns += [
-            f"*{book_alias[book_lc]}*{ch3}*.mp3",
-            f"*{book_alias[book_lc]}*{ch2}*.mp3",
-        ]
-
-    for pat in patterns:
-        candidates = sorted(audio_dir.glob(pat))
-        if candidates:
-            return candidates[0]
-    return None
 
 
 # ─── Main ──────────────────────────────────────────────────────────────────

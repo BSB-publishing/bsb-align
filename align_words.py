@@ -32,6 +32,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
+from audio_lookup import find_audio
 from text_processing import (
     LanguageConfig,
     clean_for_alignment,
@@ -84,10 +85,10 @@ def write_timing_json(entries: List[dict], output_path: Path):
 
 
 def write_word_timing_json(word_timing: dict, output_path: Path):
-    """Write compact word-level timing data."""
+    """Write per-verse word timings (matches align_book.py schema)."""
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(word_timing, f, separators=(",", ":"))
+        json.dump(word_timing, f, ensure_ascii=False, indent=2)
 
 
 def write_quality_json(word_quality: dict, output_path: Path):
@@ -157,13 +158,15 @@ def _map_mms_to_verses(
             "timestamp": round(verse_time, 2),
         })
 
-        word_times = []
+        word_dicts = []
         for w in verse_words:
-            if w["start"] is not None:
-                word_times.append(round(w["start"], 2))
-            else:
-                word_times.append(None)
-        word_timing["verses"][str(verse_num)] = word_times
+            word_dicts.append({
+                "text": w["text"],
+                "start": round(w["start"], 2) if w.get("start") is not None else None,
+                "end": round(w["end"], 2) if w.get("end") is not None else None,
+                "score": round(w["score"], 3) if "score" in w else None,
+            })
+        word_timing["verses"][str(verse_num)] = word_dicts
 
         word_idx += verse_word_count
 
@@ -272,13 +275,16 @@ def _align_whisper_to_verses(
         if vi in anchors:
             best_idx = anchors[vi]
             timestamp = round(whisper_words[best_idx]["start"], 2)
-            word_times = _align_verse_words_whisper(verse_words, whisper_words, best_idx, config)
+            word_dicts = _align_verse_words_whisper(verse_words, whisper_words, best_idx, config)
         else:
             timestamp = _interpolate_verse_time(
                 vi, verse_texts, anchors, whisper_words, total_duration,
                 timing_entries[-1]["timestamp"],
             )
-            word_times = [None] * num_verse_words
+            word_dicts = [
+                {"text": vw, "start": None, "end": None, "score": None}
+                for vw in verse_words
+            ]
 
         timing_entries.append({
             "book": book,
@@ -287,7 +293,7 @@ def _align_whisper_to_verses(
             "verse_start_alt": str(verse_num),
             "timestamp": timestamp,
         })
-        word_timing["verses"][str(verse_num)] = word_times
+        word_timing["verses"][str(verse_num)] = word_dicts
 
     return timing_entries, word_timing, matched
 
@@ -298,9 +304,17 @@ def _align_verse_words_whisper(
     timeline_start: int,
     config: LanguageConfig,
 ) -> list:
-    """Align individual verse words against Whisper timeline using fuzzy matching."""
+    """Align individual verse words against Whisper timeline using fuzzy matching.
+
+    Returns a list of word dicts (one per reference verse word) with the
+    matched timeline entry's start/end/score, and the original verse word
+    as the text. Unmatched words have None timing.
+    """
     num_verse_words = len(verse_words)
-    result = [None] * num_verse_words
+    result = [
+        {"text": vw, "start": None, "end": None, "score": None}
+        for vw in verse_words
+    ]
     ti = timeline_start
     max_ti = min(timeline_start + num_verse_words * 3, len(timeline))
 
@@ -333,7 +347,13 @@ def _align_verse_words_whisper(
                     best_offset = 0
 
         if best_ratio >= 0.4:
-            result[vi] = round(timeline[ti + best_offset]["start"], 2)
+            tl = timeline[ti + best_offset]
+            result[vi] = {
+                "text": verse_word,
+                "start": round(tl["start"], 2),
+                "end": round(tl.get("end", tl["start"]), 2),
+                "score": round(tl["score"], 3) if "score" in tl else None,
+            }
             ti = ti + best_offset + 1
 
     return result
@@ -844,13 +864,15 @@ def fuse_words_per_word(
             "timestamp": round(verse_time, 2),
         })
 
-        word_times = []
+        word_dicts = []
         verse_quality = []
         for w in verse_words:
-            if w["start"] is not None:
-                word_times.append(round(w["start"], 2))
-            else:
-                word_times.append(None)
+            word_dicts.append({
+                "text": w["text"],
+                "start": round(w["start"], 2) if w.get("start") is not None else None,
+                "end": round(w["end"], 2) if w.get("end") is not None else None,
+                "score": round(w["score"], 3),
+            })
             q_entry = {"score": round(w["score"], 3)}
             if w["source"] == "whisper":
                 q_entry["source"] = "whisper"
@@ -858,18 +880,21 @@ def fuse_words_per_word(
             elif w["whisper_score"] is not None:
                 q_entry["whisper_score"] = round(w["whisper_score"], 3)
             verse_quality.append(q_entry)
-        word_timing["verses"][str(verse_num)] = word_times
+        word_timing["verses"][str(verse_num)] = word_dicts
         quality_verses[str(verse_num)] = verse_quality
 
         word_idx += verse_word_count
 
-    # Enforce monotonicity within each verse
+    # Enforce monotonicity within each verse — if fusion picked timestamps
+    # from different sources that are slightly out of order, fix them.
     mono_fixes = 0
-    for vnum, times in word_timing["verses"].items():
-        for i in range(1, len(times)):
-            if times[i] is not None and times[i - 1] is not None:
-                if times[i] < times[i - 1]:
-                    times[i] = times[i - 1]
+    for vnum, words in word_timing["verses"].items():
+        for i in range(1, len(words)):
+            cur = words[i]
+            prev = words[i - 1]
+            if cur.get("start") is not None and prev.get("start") is not None:
+                if cur["start"] < prev["start"]:
+                    cur["start"] = prev["start"]
                     mono_fixes += 1
 
     fusion_stats = {
@@ -883,8 +908,8 @@ def fuse_words_per_word(
     low_quality_threshold = fallback_threshold
     low_quality_count = sum(1 for s in all_scores if s < low_quality_threshold)
     null_count = sum(
-        1 for times in word_timing["verses"].values()
-        for t in times if t is None
+        1 for words in word_timing["verses"].values()
+        for w in words if w.get("start") is None
     )
     low_quality_verses = []
     for vnum, qwords in quality_verses.items():
@@ -951,7 +976,9 @@ def discover_work_items(
         if not has_mms and not has_whisper:
             continue  # nothing to fuse
 
-        if timing_path.exists() and not force:
+        # Canonical output is _words.json. Skip if it exists (use --force
+        # to overwrite committed timings with a fresh fusion).
+        if words_path.exists() and not force:
             if redo_no_quality:
                 if quality_path.exists():
                     continue
@@ -961,7 +988,6 @@ def discover_work_items(
         # Resolve audio (optional, only needed for gap-fill / drift correction)
         audio_path = None
         if audio_dir is not None:
-            from mms_align_words import find_audio
             audio_path = find_audio(audio_dir, book, chapter, audio_glob)
 
         items.append({

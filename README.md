@@ -1,32 +1,200 @@
 # bsb-align
 
-High-quality word-level forced alignment for the **Berean Standard Bible (BSB)**
-English text against per-chapter audio recordings.
+Word-level forced alignment for the **Berean Standard Bible (BSB)** English
+text against per-chapter audio recordings (Bob Hays narration from
+[openbible.com/audio/hays](https://openbible.com/audio/hays/)).
 
-The pipeline runs three steps:
+This repo gives you two ways in:
+
+| Path | Script(s) | When to use |
+|---|---|---|
+| **Full pipeline** *(recommended)* | `whisper_transcribe.py` → `mms_align_words.py` → `align_words.py` | Maximum-quality timing. Whisper + MMS fusion with header detection, gap-fill, and drift correction. |
+| Single-script | `align_book.py` | One-shot MMS-only alignment. GPU-aware, faster, less robust on chapters with intros, music, or narrator repeats. |
+
+Both write the same `output/{BOOK}/{BOOK}_{NNN}_words.json` schema, so you
+can mix freely (e.g. fast `align_book.py` pass over the whole Bible, then
+`make upgrade` for chapters where playback drifts).
+
+The repo ships pre-aligned timings for **66 books** in `output/`, produced
+with `align_book.py`. You only need to re-run the pipeline to upgrade
+specific chapters or align books that aren't already there.
+
+---
+
+## Output schema
+
+`output/{BOOK}/{BOOK}_{NNN}_words.json`:
+
+```json
+{
+  "book": "JON",
+  "chapter": "001",
+  "verses": {
+    "1": [
+      {"text": "Now",  "start": 3.90, "end": 4.00, "score": 0.976},
+      {"text": "the",  "start": 4.04, "end": 4.12, "score": 0.998},
+      {"text": "word", "start": 4.18, "end": 4.38, "score": 0.999}
+    ],
+    "2": [...]
+  }
+}
+```
+
+The full pipeline additionally writes (only when fusion runs):
+
+| File | Purpose |
+|---|---|
+| `{BOOK}_{NNN}_words_quality.json` | Per-word `source` (mms vs whisper fallback) + `whisper_score` / `mms_score` diagnostics |
+| `{BOOK}_{NNN}_timing.json` | Verse-level start timestamps |
+| `{BOOK}_{NNN}.srt` | SRT subtitles |
+| `{BOOK}_{NNN}_whisper_words.json`, `_mms_words.json` | Intermediate timelines used by the fusion step |
+
+---
+
+## Setup
+
+Python 3.9+.
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+
+# Required (MMS forced alignment + verse export — CUDA, MPS, or CPU)
+pip install -r requirements.txt
+
+# Optional but recommended (Whisper transcription — Apple Silicon only)
+pip install -r requirements-whisper.txt
+```
+
+Model downloads on first run:
+- MMS_FA: ~1 GB from torchaudio (cached)
+- Whisper large-v3 MLX: ~3 GB from Hugging Face (cached)
+
+`align_book.py` and the full pipeline both auto-detect **CUDA → MPS → CPU**
+for MMS_FA. Whisper uses MLX (Apple Silicon GPU only); on other platforms
+skip Step 1a and live with MMS-only quality.
+
+---
+
+## Get the audio
+
+Download Bob Hays per-chapter MP3s from
+[openbible.com/audio/hays](https://openbible.com/audio/hays/) into a folder
+(e.g. `audio/`). The scripts match files by the book code + chapter number
+in the filename. Common patterns work out of the box; pass `--audio-glob`
+or extend `audio_lookup.BOOK_ALIAS` if your filenames need help.
+
+---
+
+## Recommended usage — the full pipeline
+
+```bash
+# 1. Sanity-check on one chapter
+make book BOOK=JON CHAPTER=1 AUDIO_DIR=audio/hays
+
+# 2. Inspect output/JON/JON_001_words_quality.json
+#    (avg_score should be > 0.5; low_quality_verses should be short)
+
+# 3. Run the rest of the book
+make book BOOK=JON AUDIO_DIR=audio/hays
+
+# 4. Upgrade an existing book to fused timing (overwrites _words.json)
+make upgrade BOOK=ROM AUDIO_DIR=audio/hays
+```
+
+Direct invocation:
+
+```bash
+python whisper_transcribe.py --book JON --audio-dir audio/hays
+python mms_align_words.py    --book JON --audio-dir audio/hays
+python align_words.py        --book JON --audio-dir audio/hays
+```
+
+By default each step **skips chapters that already have `_words.json`** —
+this protects the committed timings. To overwrite, pass `--force` (or
+`make upgrade` / `FORCE=1`).
+
+---
+
+## Upgrading existing timings to the full pipeline
+
+The repo's committed `output/` was produced with `align_book.py` (MMS-only).
+To upgrade a chapter or whole book to the higher-quality fused timing:
+
+```bash
+make upgrade BOOK=JON AUDIO_DIR=audio/hays              # whole book
+make upgrade BOOK=JON CHAPTER=11 AUDIO_DIR=audio/hays   # one chapter
+```
+
+`upgrade` is `make book FORCE=1` — it re-runs Whisper transcription, MMS
+forced alignment, and the fusion step in order, overwriting the existing
+`_words.json` and writing the additional `_words_quality.json` companion.
+
+The output schema is identical, so any consumer of `_words.json` keeps
+working unchanged. The fusion adds:
+
+- **Header detection** — the first verse no longer starts at 0.0 s when
+  the audio has a spoken book/chapter intro.
+- **Per-word fusion** — Whisper falls back in for words MMS scored below
+  threshold.
+- **Gap-fill / drift correction** — local re-alignment when MMS lands on
+  silence or a narrator repeat.
+- **Collapse recovery** — restart from a Whisper anchor when MMS loses
+  track partway through.
+
+---
+
+## Quick path: `align_book.py`
+
+If you don't have Whisper installed (e.g. Linux/CUDA box) or just want
+fast MMS-only timings:
+
+```bash
+python align_book.py --book JON --audio-dir audio/hays
+python align_book.py --book JON --audio-dir audio/hays --chapter 1
+python align_book.py --book GEN --audio-dir audio/hays --force
+```
+
+Output schema is identical (`{text, start, end, score}` per word per verse),
+so swapping later via `make upgrade` is seamless.
+
+---
+
+## All flags
 
 ```
-   audio/        text/                              output/{BOOK}/
-   ┌──────┐    ┌──────┐                            ┌─────────────────────────────┐
-   │ .mp3 │    │ .txt │                            │ {BOOK}_{NNN}_whisper_words  │
-   └───┬──┘    └───┬──┘                            │ {BOOK}_{NNN}_mms_words      │
-       │           │                               │ {BOOK}_{NNN}_words          │  ← word timings
-       │           │     1a: whisper_transcribe.py │ {BOOK}_{NNN}_words_quality  │  ← per-word scores
-       │           │     1b: mms_align_words.py    │ {BOOK}_{NNN}_timing         │  ← verse timings
-       │           │     2:  align_words.py        │ {BOOK}_{NNN}.srt            │  ← subtitles
-       └───────────┴──────────────────────────────►└─────────────────────────────┘
+Common to all four scripts:
+  --book BOOK              3-letter BSB book code (e.g. JON, GEN, JHN)   [required]
+  --audio-dir DIR          Per-chapter mp3 directory                     [required]
+  --text-dir DIR           BSB text directory          [default: text/]
+  --output-dir DIR         Output directory            [default: output/]
+  --chapter N              Process a single chapter
+  --audio-glob PATTERN     Custom glob (placeholders: {book}/{book_lc}/{book_title}/{ch}/{ch2}/{ch3})
+  --force                  Overwrite existing _words.json
+  --dry-run                Show what would be processed and exit
+
+whisper_transcribe.py:
+  --model NAME             MLX Whisper model [default: mlx-community/whisper-large-v3-mlx]
+
+mms_align_words.py:
+  --redo-collapsed         Re-align only chapters whose intermediate has collapsed regions
+
+align_words.py:
+  --redo-no-quality        Re-fuse only chapters that have _words.json but no _words_quality.json
 ```
 
-When both Whisper and MMS outputs are available, **align_words.py** fuses them:
-MMS-FA (which aligns directly against the known reference text) is the timing
-backbone, with Whisper used as fallback on low-confidence words. Header
-detection skips spoken book/chapter intros, and gap-fill / drift correction
-re-runs MMS on local segments where it lost track. The result is consistently
-better timing than either source alone.
+---
 
-If you only run **mms_align_words.py** + **align_words.py** (skipping Whisper),
-you still get word-level timings — just without header skipping, fallback,
-gap-fill, or drift correction.
+## Verse-level audio export
+
+After alignment, `export_verses.py` chops the source MP3 into per-verse
+clips and writes a `metadata.csv` (with `file_name` and `transcription`
+columns, compatible with the `audio_text_tests` pipeline):
+
+```bash
+python export_verses.py --json-dir output/JON --audio-dir audio/hays \
+    --text-dir text --output-dir dataset/JON
+```
 
 ---
 
@@ -35,215 +203,18 @@ gap-fill, or drift correction.
 ```
 text/                       BSB text — one file per chapter, one verse per line
                             Filename: {BOOK}_{NNN}_BSB.txt   (e.g. JON_001_BSB.txt)
+output/                     Pre-aligned timings (66 books); regenerated/extended by the scripts
+audio_lookup.py             Shared find_audio + BOOK_ALIAS map
 text_processing.py          Shared text cleaning / normalization
-whisper_transcribe.py       Step 1a — Whisper transcription (optional, recommended)
-mms_align_words.py          Step 1b — MMS forced alignment (always)
+align_book.py               Quick path — MMS-only, GPU-aware, single script
+whisper_transcribe.py       Step 1a — Whisper transcription
+mms_align_words.py          Step 1b — MMS forced alignment
 align_words.py              Step 2  — fusion of MMS + Whisper into final timing
-Makefile                    Convenience targets (`make book BOOK=JON`)
-requirements.txt            torch, torchaudio, uroman                 (Step 1b + 2)
-requirements-whisper.txt    mlx-whisper                                (Step 1a — Apple Silicon)
-output/                     (created on first run) per-book timing JSON, SRT, intermediates
+export_verses.py            Chop aligned audio into per-verse clips + metadata.csv
+Makefile                    Convenience targets (`make book BOOK=JON`, `make upgrade BOOK=JON`)
+requirements.txt            torch, torchaudio, numpy, uroman, torchcodec
+requirements-whisper.txt    mlx-whisper                                (Apple Silicon only)
 ```
-
-The `text/` folder contains the full BSB. You bring the audio.
-
----
-
-## Setup
-
-Python 3.9+ recommended.
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-
-# Required (MMS forced alignment — runs on CPU on any platform)
-pip install -r requirements.txt
-
-# Optional but recommended (Whisper transcription — Apple Silicon only)
-pip install -r requirements-whisper.txt
-```
-
-First run downloads model weights:
-- MMS_FA: ~1 GB from torchaudio (cached)
-- Whisper large-v3 MLX: ~3 GB from Hugging Face (cached)
-
-Both run on CPU/MLX. Expect somewhere around real-time per chapter on a recent laptop.
-
----
-
-## Get the audio
-
-The BSB is narrated by **Bob Hays** at openbible.com:
-
-  https://openbible.com/audio/hays/
-
-Download the per-chapter MP3s for the book(s) you want into a directory
-(e.g. `audio/`). The pipeline doesn't fetch them — that's on you.
-
-The scripts match audio to chapters by globbing for the chapter number in
-the filename. Common patterns work out of the box:
-
-- `JON_001_*.mp3`
-- `Jon_01.mp3`
-- `BSB_32_Jonah_01_Hays.mp3`
-
-If your filenames don't match, pass `--audio-glob` (see [Custom filename pattern](#custom-filename-pattern)).
-
----
-
-## Usage
-
-### Quickest path: `make`
-
-```bash
-# Whole book — all three steps
-make book BOOK=JON AUDIO_DIR=audio/hays
-
-# One chapter
-make book BOOK=JON CHAPTER=1 AUDIO_DIR=audio/hays
-
-# Just one step
-make whisper BOOK=JON AUDIO_DIR=audio/hays
-make mms     BOOK=JON AUDIO_DIR=audio/hays
-make align   BOOK=JON AUDIO_DIR=audio/hays
-```
-
-`AUDIO_DIR` defaults to `audio/` so you can drop it if your folder is named
-that way.
-
-### Direct script invocation
-
-```bash
-# Step 1a — Whisper transcription (optional, but improves timing)
-python whisper_transcribe.py --book JON --audio-dir audio/hays
-
-# Step 1b — MMS forced alignment (required)
-python mms_align_words.py --book JON --audio-dir audio/hays
-
-# Step 2 — fusion (writes the final word + verse timing files)
-python align_words.py --book JON --audio-dir audio/hays
-```
-
-Each script accepts `--chapter N` to process a single chapter, `--force` to
-overwrite existing output, and `--dry-run` to preview matched audio/text pairs.
-
-### Recommended workflow
-
-1. **Pick one chapter and validate first:**
-   ```bash
-   make book BOOK=JON CHAPTER=1 AUDIO_DIR=audio/hays
-   ```
-   Inspect `output/JON/JON_001_words_quality.json` — `summary.avg_score`
-   should be > 0.5 and `low_quality_verses` should be short. Spot-check a
-   few timestamps in `output/JON/JON_001_words.json` against the audio.
-
-2. **Run the whole book:**
-   ```bash
-   make book BOOK=JON AUDIO_DIR=audio/hays
-   ```
-
-3. **Re-process problem chapters** (e.g. those flagged in `_words_quality.json`):
-   ```bash
-   make book BOOK=JON CHAPTER=11 AUDIO_DIR=audio/hays
-   ```
-   (`make book` re-runs all three steps; the `--force` flag is implicit only
-   for chapters that don't yet have output. To rebuild a chapter that's
-   already done, add `--force` to the script invocations.)
-
-### Custom filename pattern
-
-Pass an explicit glob with placeholders if auto-matching misses your files:
-
-```bash
-python mms_align_words.py --book JON --audio-dir audio/hays \
-    --audio-glob "BSB_*_Jonah_{ch2}_*.mp3"
-```
-
-Placeholders: `{book}` (uppercase), `{book_lc}` (lowercase),
-`{ch}` (chapter as int), `{ch2}` (zero-padded to 2), `{ch3}` (zero-padded to 3).
-
----
-
-## Outputs
-
-Per chapter, the pipeline writes to `output/{BOOK}/`:
-
-| File                                  | From   | Purpose                                          |
-|---------------------------------------|--------|--------------------------------------------------|
-| `{BOOK}_{NNN}_whisper_words.json`     | Step 1a| Raw Whisper word timeline (intermediate)         |
-| `{BOOK}_{NNN}.srt`                    | Step 1a| SRT subtitles                                    |
-| `{BOOK}_{NNN}_mms_words.json`         | Step 1b| MMS forced-alignment word timeline (intermediate)|
-| `{BOOK}_{NNN}_words.json`             | Step 2 | **Final** compact per-verse word timings         |
-| `{BOOK}_{NNN}_timing.json`            | Step 2 | **Final** verse-level timestamps                 |
-| `{BOOK}_{NNN}_words_quality.json`     | Step 2 | Per-word scores + which source was used          |
-
-`{BOOK}_{NNN}_words.json` is the main artifact:
-
-```json
-{
-  "book": "JON",
-  "chapter": "001",
-  "verses": {
-    "1":  [0.12, 0.34, 0.51, ...],
-    "2":  [4.20, 4.36, 4.50, ...],
-    ...
-  }
-}
-```
-
-Each array position corresponds to a word in the cleaned reference text;
-the value is the start time in seconds. `null` means the word couldn't be
-confidently aligned.
-
----
-
-## All flags
-
-```
-Common to all three scripts:
-  --book BOOK              3-letter BSB book code (e.g. JON, GEN, JHN)   [required]
-  --audio-dir DIR          Per-chapter mp3 directory  [required for whisper / mms]
-  --text-dir DIR           BSB text directory          [default: text/]
-  --output-dir DIR         Output directory            [default: output/]
-  --chapter N              Process a single chapter
-  --audio-glob PATTERN     Custom glob (placeholders: {book}/{book_lc}/{ch}/{ch2}/{ch3})
-  --force                  Overwrite existing output
-  --dry-run                Show what would be processed and exit
-
-whisper_transcribe.py:
-  --model NAME             MLX Whisper model [default: mlx-community/whisper-large-v3-mlx]
-
-mms_align_words.py:
-  --redo-collapsed         Re-align only chapters whose output has collapsed regions
-
-align_words.py:
-  --audio-dir DIR          (Optional) audio dir — enables gap-fill / drift re-alignment
-  --redo-no-quality        Re-fuse only chapters with timing but no quality file
-```
-
----
-
-## Quality features
-
-These all run automatically when both Whisper and MMS outputs are present:
-
-- **Header detection** — skips spoken book/chapter title or music intro before
-  verse 1, so the first word's timestamp is correct.
-- **Per-word fusion** — MMS-FA timestamps are primary; Whisper is fallback for
-  words below the MMS confidence threshold.
-- **Gap-fill** — gaps > 3 s between consecutive words trigger a local MMS
-  re-alignment to recover the missed timing.
-- **Drift correction** — when MMS lands on a narrator's repeated phrase
-  instead of the actual verse, the segment is re-aligned from the last good
-  anchor.
-- **Collapse recovery** — if MMS loses track partway through (run of
-  near-zero scores), it restarts from a Whisper-anchored timestamp.
-- **Monotonicity enforcement** — within each verse, word timestamps are
-  forced non-decreasing.
-
-To enable gap-fill / drift correction during fusion, pass `--audio-dir` to
-`align_words.py` — the MMS model is loaded only if needed.
 
 ---
 
@@ -261,30 +232,34 @@ Standard 3-letter codes used by the BSB filenames. A few common ones:
 | MAL  | Malachi   |  | ROM  | Romans        |
 |      |           |  | REV  | Revelation    |
 
-Run `ls text/ | cut -d_ -f1 | sort -u` for the full list.
+Run `ls text/ | cut -d_ -f1 | sort -u` for the full list. If Hays uses a
+non-standard filename for a book (e.g. `Tts` for Titus), add an entry to
+`BOOK_ALIAS` in `audio_lookup.py`.
 
 ---
 
 ## Troubleshooting
 
-**`WARN no audio for JON 001`** — the glob didn't match. Run with `--dry-run`
-and try `--audio-glob` with explicit placeholders.
+**`WARN no audio for JON 001`** — glob didn't match. Run with `--dry-run`,
+inspect filenames, then either pass `--audio-glob` or add an entry to
+`audio_lookup.BOOK_ALIAS`.
 
-**Low `avg_score` (< 0.5)** — the audio likely has a long spoken intro that
-MMS absorbed into the first word. If you have Whisper output, header
-detection handles it automatically. If not, run Whisper first
-(`make whisper BOOK=JON`), or trim the leading intro from the audio.
+**Low `avg_score` (< 0.5) on a chapter** — usually means the audio has a
+spoken intro that MMS absorbed into the first word. Run the full pipeline
+with Whisper available — header detection handles it automatically. Or
+trim the leading intro from the audio.
 
-**`mlx-whisper not installed`** — only an issue on non-Apple-Silicon machines.
-Skip Step 1a; Steps 1b + 2 still produce useful word timings, just without
-the quality features that need a Whisper reference.
+**`mlx-whisper not installed`** — only available on Apple Silicon. Skip
+Step 1a; Steps 1b + 2 still produce useful timings (just without header
+skip / fallback / drift correction).
 
-**Alignment is slow** — MMS_FA runs on CPU, Whisper runs on MLX (Apple
-Silicon GPU). A long chapter (Psalm 119, Isaiah 1, etc.) can take many
-minutes per step. This is normal.
+**Alignment is slow** — MMS_FA uses CUDA → MPS → CPU; Whisper uses MLX
+(Apple Silicon only). On CPU a long chapter (Psalm 119, Isaiah 1, etc.)
+can take many minutes per step. This is expected.
 
-**Output looks wrong but score is high** — try `--force` to rebuild from
-scratch in case an intermediate file is stale.
+**Schema mismatch on an existing chapter** — early-build `_words.json`
+files used a different schema. `make upgrade BOOK=...` regenerates them
+in the canonical format.
 
 ---
 

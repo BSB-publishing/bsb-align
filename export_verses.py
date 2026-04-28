@@ -26,47 +26,7 @@ from typing import List, Optional, Tuple
 import torch
 import torchaudio
 
-
-# ─── Audio file lookup (mirrors align_book.py) ─────────────────────────────
-
-book_alias = {
-    "tit": "Tts",
-}
-
-
-def find_audio(audio_dir: Path, book: str, chapter: int,
-               glob_template: Optional[str]) -> Optional[Path]:
-    """Find an audio file for a book/chapter inside audio_dir."""
-    candidates: List[Path] = []
-    book_lc = book.lower()
-    book_title = book.title()
-    ch2 = f"{chapter:02d}"
-    ch3 = f"{chapter:03d}"
-
-    patterns = []
-    if glob_template:
-        patterns.append(glob_template.format(
-            book=book, book_lc=book_lc, ch2=ch2, ch3=ch3, ch=chapter
-        ))
-    patterns += [
-        f"*{book}*{ch3}*.mp3",
-        f"*{book}*{ch2}*.mp3",
-        f"*{book_lc}*{ch3}*.mp3",
-        f"*{book_lc}*{ch2}*.mp3",
-        f"*{book_title}*{ch3}*.mp3",
-        f"*{book_title}*{ch2}*.mp3",
-    ]
-    if book_lc in book_alias:
-        patterns += [
-            f"*{book_alias[book_lc]}*{ch3}*.mp3",
-            f"*{book_alias[book_lc]}*{ch2}*.mp3",
-        ]
-
-    for pat in patterns:
-        candidates = sorted(audio_dir.rglob(pat))
-        if candidates:
-            return candidates[0]
-    return None
+from audio_lookup import find_audio
 
 
 def find_text(text_dir: Path, book: str, chapter: int) -> Optional[Path]:
@@ -198,7 +158,7 @@ def export_json(
         return [], 0, 0
 
     ch_int = int(chapter)
-    audio_path = find_audio(audio_dir, book, ch_int, audio_glob)
+    audio_path = find_audio(audio_dir, book, ch_int, audio_glob, recursive=True)
     if audio_path is None:
         print(f"  WARN: No audio found for {book} {chapter}", file=sys.stderr)
         return [], 0, 0

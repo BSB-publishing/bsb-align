@@ -42,6 +42,7 @@ import torch
 import torchaudio
 from uroman import Uroman
 
+from audio_lookup import find_audio
 from text_processing import load_language_config, strip_markers, clean_for_alignment
 from align_words import detect_audio_header
 
@@ -61,12 +62,21 @@ def log(message: str, level: str = "INFO"):
 
 # ─── MMS Forced Alignment ──────────────────────────────────────────────────
 
+def _select_device() -> torch.device:
+    if torch.cuda.is_available():
+        return torch.device("cuda")
+    if hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
+        return torch.device("mps")
+    return torch.device("cpu")
+
+
 def load_mms_model():
-    """Load MMS_FA model, tokenizer, aligner on CPU and init Uroman."""
+    """Load MMS_FA model on the best available device (CUDA > MPS > CPU)."""
     bundle = torchaudio.pipelines.MMS_FA
-    log("Loading MMS_FA model on CPU ...")
+    device = _select_device()
+    log(f"Loading MMS_FA model on {device.type.upper()} ...")
     t0 = time.time()
-    model = bundle.get_model()
+    model = bundle.get_model().to(device)
     model.eval()
     tokenizer = bundle.get_tokenizer()
     aligner = bundle.get_aligner()
@@ -159,6 +169,8 @@ def _align_waveform(
     For long audio (>5 min), the model forward pass is chunked to avoid
     OOM errors while the aligner still operates on the full emission sequence.
     """
+    waveform = waveform.to(next(model.parameters()).device)
+
     orig_words, clean_rom_words = _prepare_words(text, uroman, tokenizer)
 
     tokens = tokenizer(clean_rom_words)
@@ -393,36 +405,6 @@ def _load_whisper_words(whisper_path: Path) -> Optional[list]:
         return None
 
 
-# ─── Audio file lookup ────────────────────────────────────────────────────
-
-def find_audio(audio_dir: Path, book: str, chapter: int,
-               glob_template: Optional[str]) -> Optional[Path]:
-    """Find an audio file for a book/chapter inside audio_dir.
-
-    Tries glob_template first if given (with {book}, {ch2}, {ch3} placeholders),
-    then falls back to a few common patterns.
-    """
-    book_lc = book.lower()
-    ch2 = f"{chapter:02d}"
-    ch3 = f"{chapter:03d}"
-
-    patterns = []
-    if glob_template:
-        patterns.append(glob_template.format(book=book, book_lc=book_lc,
-                                             ch2=ch2, ch3=ch3, ch=chapter))
-    patterns += [
-        f"*{book}*{ch3}*.mp3",
-        f"*{book}*{ch2}*.mp3",
-        f"*{book_lc}*{ch3}*.mp3",
-        f"*{book_lc}*{ch2}*.mp3",
-    ]
-    for pat in patterns:
-        candidates = sorted(audio_dir.glob(pat))
-        if candidates:
-            return candidates[0]
-    return None
-
-
 # ─── Work Item Discovery ───────────────────────────────────────────────────
 
 def discover_work_items(
@@ -454,12 +436,18 @@ def discover_work_items(
         chapter_str = f"{chapter:03d}"
         out_book_dir = output_dir / book
         mms_path = out_book_dir / f"{book}_{chapter_str}_mms_words.json"
+        words_path = out_book_dir / f"{book}_{chapter_str}_words.json"
 
-        if mms_path.exists() and not force:
-            if redo_collapsed and has_null_collapse(mms_path):
-                pass  # include — needs redo
-            else:
+        if not force:
+            # Skip if canonical output already exists (use --force to upgrade
+            # via the 3-step pipeline; this protects committed timings).
+            if words_path.exists():
                 continue
+            if mms_path.exists():
+                if redo_collapsed and has_null_collapse(mms_path):
+                    pass  # include — needs redo
+                else:
+                    continue
 
         audio_path = find_audio(audio_dir, book, chapter, audio_glob)
         if audio_path is None:

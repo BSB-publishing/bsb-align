@@ -29,6 +29,8 @@ from datetime import datetime
 from pathlib import Path
 from typing import List, Optional
 
+from audio_lookup import find_audio
+
 # ─── Constants ──────────────────────────────────────────────────────────────
 
 SCRIPT_DIR = Path(__file__).parent
@@ -158,31 +160,6 @@ def write_srt(segments: List[dict], output_path: Path):
         f.write(srt_content)
 
 
-# ─── Audio file lookup ────────────────────────────────────────────────────
-
-def find_audio(audio_dir: Path, book: str, chapter: int,
-               glob_template: Optional[str]) -> Optional[Path]:
-    book_lc = book.lower()
-    ch2 = f"{chapter:02d}"
-    ch3 = f"{chapter:03d}"
-
-    patterns = []
-    if glob_template:
-        patterns.append(glob_template.format(book=book, book_lc=book_lc,
-                                             ch2=ch2, ch3=ch3, ch=chapter))
-    patterns += [
-        f"*{book}*{ch3}*.mp3",
-        f"*{book}*{ch2}*.mp3",
-        f"*{book_lc}*{ch3}*.mp3",
-        f"*{book_lc}*{ch2}*.mp3",
-    ]
-    for pat in patterns:
-        candidates = sorted(audio_dir.glob(pat))
-        if candidates:
-            return candidates[0]
-    return None
-
-
 # ─── Work Item Discovery ───────────────────────────────────────────────────
 
 def discover_work_items(
@@ -214,9 +191,15 @@ def discover_work_items(
         chapter_str = f"{chapter:03d}"
         whisper_words_path = out_book_dir / f"{book}_{chapter_str}_whisper_words.json"
         srt_path = out_book_dir / f"{book}_{chapter_str}.srt"
+        words_path = out_book_dir / f"{book}_{chapter_str}_words.json"
 
-        if whisper_words_path.exists() and not force:
-            continue
+        if not force:
+            # Skip if canonical output already exists (use --force to upgrade
+            # via the 3-step pipeline; this protects committed timings).
+            if words_path.exists():
+                continue
+            if whisper_words_path.exists():
+                continue
 
         audio_path = find_audio(audio_dir, book, chapter, audio_glob)
         if audio_path is None:
