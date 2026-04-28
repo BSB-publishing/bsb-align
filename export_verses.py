@@ -125,14 +125,17 @@ def parse_alignment_json(json_path: Path) -> Tuple[str, str, dict]:
     return book, chapter, verses
 
 
-def get_verse_timing(verse_words: List[dict]) -> Tuple[float, float]:
-    """Return (start_sec, end_sec) for a verse from its word list."""
+def get_verse_raw_timing(verse_words: List[dict]) -> Tuple[Optional[float], Optional[float]]:
+    """Return (first_start, last_end) for a verse from its word list.
+
+    Returns (None, None) if the verse has no valid timestamps.
+    """
     if not verse_words:
-        return 0.0, 0.0
-    starts = [w["start"] for w in verse_words if w.get("start", 0) > 0]
-    ends = [w["end"] for w in verse_words if w.get("end", 0) > 0]
+        return None, None
+    starts = [w["start"] for w in verse_words if w.get("start") is not None and w["start"] > 0]
+    ends = [w["end"] for w in verse_words if w.get("end") is not None and w["end"] > 0]
     if not starts or not ends:
-        return 0.0, 0.0
+        return None, None
     return min(starts), max(ends)
 
 
@@ -151,6 +154,12 @@ def export_json(
     Returns (csv_rows, exported_count, skipped_count).
     A row is only added to csv_rows when the audio segment is successfully saved
     or was already present from a previous run.
+
+    Verse boundaries are computed as midpoints between adjacent verses:
+      - start = average(last_end of previous verse, first_start of current verse)
+      - end   = average(last_end of current verse, first_start of next verse)
+    For the first verse, start = 0.0.
+    For the last verse, end = total audio duration.
     """
     book, chapter, verses = parse_alignment_json(json_path)
     if not book or not chapter:
@@ -170,14 +179,24 @@ def export_json(
 
     verse_texts = read_verse_texts(text_path)
 
+    # Load the waveform once to get total duration; segment_verse_audio will reload it per verse
+    # but this avoids calling torchaudio.info() which was removed in torchaudio >= 2.9.
+    _waveform, _sr = torchaudio.load(str(audio_path))
+    total_duration_sec = _waveform.shape[1] / _sr
+    del _waveform  # free memory before per-verse loads
+
     audio_out_dir = output_dir / "audio"
     audio_out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Sort verse numbers so we can look up neighbours.
+    sorted_verse_nums = sorted(verses.keys(), key=lambda v: int(v))
 
     csv_rows: List[dict] = []
     exported = 0
     skipped = 0
 
-    for verse_num, verse_words in verses.items():
+    for i, verse_num in enumerate(sorted_verse_nums):
+        verse_words = verses[verse_num]
         v_idx = int(verse_num) - 1
         if v_idx < 0 or v_idx >= len(verse_texts):
             print(f"  WARN: Verse {verse_num} out of range for {book} {chapter}", file=sys.stderr)
@@ -189,7 +208,38 @@ def export_json(
             skipped += 1
             continue
 
-        start_sec, end_sec = get_verse_timing(verse_words)
+        cur_first, cur_last = get_verse_raw_timing(verse_words)
+        if cur_first is None or cur_last is None:
+            print(f"  WARN: Invalid timing for {book} {chapter}:{verse_num} — skipping", file=sys.stderr)
+            skipped += 1
+            continue
+
+        # ── Compute start boundary ──────────────────────────────────────────
+        if i == 0:
+            # First verse: start at the beginning of the recording.
+            start_sec = 0.0
+        else:
+            prev_words = verses[sorted_verse_nums[i - 1]]
+            _, prev_last = get_verse_raw_timing(prev_words)
+            if prev_last is not None:
+                start_sec = (prev_last + cur_first) / 2.0
+            else:
+                # Previous verse had no valid timestamps; fall back to current verse start.
+                start_sec = cur_first
+
+        # ── Compute end boundary ────────────────────────────────────────────
+        if i == len(sorted_verse_nums) - 1:
+            # Last verse: end at the end of the recording.
+            end_sec = total_duration_sec
+        else:
+            next_words = verses[sorted_verse_nums[i + 1]]
+            next_first, _ = get_verse_raw_timing(next_words)
+            if next_first is not None:
+                end_sec = (cur_last + next_first) / 2.0
+            else:
+                # Next verse had no valid timestamps; fall back to current verse end.
+                end_sec = cur_last
+
         if end_sec <= start_sec:
             print(f"  WARN: Invalid timing for {book} {chapter}:{verse_num} — skipping", file=sys.stderr)
             skipped += 1
