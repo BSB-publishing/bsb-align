@@ -1,0 +1,264 @@
+{
+  "book": "PSA",
+  "chapter": "023",
+  "verses": {
+    "1": [
+      {
+        "text": "A",
+        "start": 0.0,
+        "end": 8.88,
+        "score": 1.0
+      },
+      {
+        "text": "Psalm",
+        "start": 8.88,
+        "end": 9.22,
+        "score": 0.75
+      },
+      {
+        "text": "of",
+        "start": 9.24,
+        "end": 9.36,
+        "score": 0.5
+      },
+      {
+        "text": "David",
+        "start": 9.58,
+        "end": 10.76,
+        "score": 0.248
+      }
+    ],
+    "2": [
+      {
+        "text": "He",
+        "start": 10.8,
+        "end": 10.82,
+        "score": 1.0
+      },
+      {
+        "text": "makes",
+        "start": 10.92,
+        "end": 11.18,
+        "score": 1.0
+      },
+      {
+        "text": "me",
+        "start": 11.22,
+        "end": 11.28,
+        "score": 0.999
+      },
+      {
+        "text": "lie",
+        "start": 11.4,
+        "end": 11.62,
+        "score": 0.615
+      },
+      {
+        "text": "down",
+        "start": 11.66,
+        "end": 11.92,
+        "score": 0.968
+      },
+      {
+        "text": "in",
+        "start": 12.08,
+        "end": 12.16,
+        "score": 0.999
+      },
+      {
+        "text": "green",
+        "start": 12.28,
+        "end": 12.56,
+        "score": 1.0
+      },
+      {
+        "text": "pastures",
+        "start": 12.64,
+        "end": 13.3,
+        "score": 0.962
+      }
+    ],
+    "3": [
+      {
+        "text": "He",
+        "start": 13.94,
+        "end": 13.96,
+        "score": 0.999
+      },
+      {
+        "text": "restores",
+        "start": 14.1,
+        "end": 14.96,
+        "score": 0.5
+      },
+      {
+        "text": "my",
+        "start": 15.12,
+        "end": 15.2,
+        "score": 0.0
+      },
+      {
+        "text": "soul",
+        "start": 15.22,
+        "end": 15.56,
+        "score": 0.239
+      }
+    ],
+    "4": [
+      {
+        "text": "Even",
+        "start": 15.58,
+        "end": 15.68,
+        "score": 0.331
+      },
+      {
+        "text": "though",
+        "start": 15.68,
+        "end": 15.84,
+        "score": 0.166
+      },
+      {
+        "text": "I",
+        "start": 15.84,
+        "end": 51.79,
+        "score": 1.0
+      },
+      {
+        "text": "walk",
+        "start": 51.79,
+        "end": 51.97,
+        "score": 0.488
+      },
+      {
+        "text": "through",
+        "start": 51.97,
+        "end": 52.13,
+        "score": 0.0
+      },
+      {
+        "text": "the",
+        "start": 52.15,
+        "end": 52.25,
+        "score": 0.021
+      },
+      {
+        "text": "valley",
+        "start": 52.25,
+        "end": 52.47,
+        "score": 0.331
+      },
+      {
+        "text": "of",
+        "start": 52.49,
+        "end": 52.55,
+        "score": 0.0
+      },
+      {
+        "text": "the",
+        "start": 52.59,
+        "end": 52.69,
+        "score": 0.989
+      },
+      {
+        "text": "shadow",
+        "start": 52.69,
+        "end": 52.91,
+        "score": 0.333
+      },
+      {
+        "text": "of",
+        "start": 52.91,
+        "end": 52.97,
+        "score": 0.0
+      },
+      {
+        "text": "death",
+        "start": 53.01,
+        "end": 53.25,
+        "score": 0.599
+      }
+    ],
+    "5": [
+      {
+        "text": "You",
+        "start": 53.25,
+        "end": 53.29,
+        "score": 0.0
+      },
+      {
+        "text": "prepare",
+        "start": 53.29,
+        "end": 53.63,
+        "score": 0.143
+      },
+      {
+        "text": "a",
+        "start": 53.63,
+        "end": 53.65,
+        "score": 0.0
+      },
+      {
+        "text": "table",
+        "start": 53.65,
+        "end": 53.75,
+        "score": 0.0
+      },
+      {
+        "text": "before",
+        "start": 53.75,
+        "end": 54.05,
+        "score": 0.665
+      },
+      {
+        "text": "me",
+        "start": 54.13,
+        "end": 54.21,
+        "score": 0.5
+      }
+    ],
+    "6": [
+      {
+        "text": "Surely",
+        "start": 54.21,
+        "end": 54.73,
+        "score": 0.2
+      },
+      {
+        "text": "goodness",
+        "start": 54.73,
+        "end": 54.97,
+        "score": 0.0
+      },
+      {
+        "text": "and",
+        "start": 54.97,
+        "end": 55.05,
+        "score": 0.0
+      },
+      {
+        "text": "mercy",
+        "start": 55.09,
+        "end": 55.23,
+        "score": 0.0
+      },
+      {
+        "text": "will",
+        "start": 55.23,
+        "end": 55.43,
+        "score": 0.0
+      },
+      {
+        "text": "follow",
+        "start": 55.43,
+        "end": 55.61,
+        "score": 0.0
+      },
+      {
+        "text": "me",
+        "start": 55.61,
+        "end": 55.65,
+        "score": 0.0
+      }
+    ]
+  }
+}

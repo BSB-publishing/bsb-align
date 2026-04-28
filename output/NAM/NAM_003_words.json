@@ -1,0 +1,620 @@
+{
+  "book": "NAM",
+  "chapter": "003",
+  "verses": {
+    "1": [
+      {
+        "text": "Woe",
+        "start": 3.64,
+        "end": 3.8,
+        "score": 0.498
+      },
+      {
+        "text": "to",
+        "start": 3.9,
+        "end": 4.0,
+        "score": 0.996
+      },
+      {
+        "text": "the",
+        "start": 4.1,
+        "end": 4.18,
+        "score": 0.997
+      },
+      {
+        "text": "city",
+        "start": 4.32,
+        "end": 4.56,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 4.68,
+        "end": 4.76,
+        "score": 0.999
+      },
+      {
+        "text": "blood",
+        "start": 4.84,
+        "end": 5.2,
+        "score": 0.994
+      }
+    ],
+    "2": [
+      {
+        "text": "The",
+        "start": 6.52,
+        "end": 6.64,
+        "score": 0.393
+      },
+      {
+        "text": "crack",
+        "start": 6.68,
+        "end": 7.2,
+        "score": 0.0
+      },
+      {
+        "text": "of",
+        "start": 7.24,
+        "end": 7.3,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 7.42,
+        "end": 7.78,
+        "score": 0.331
+      },
+      {
+        "text": "whip",
+        "start": 7.82,
+        "end": 8.52,
+        "score": 0.0
+      }
+    ],
+    "3": [
+      {
+        "text": "Charging",
+        "start": 8.54,
+        "end": 8.98,
+        "score": 0.286
+      },
+      {
+        "text": "horseman",
+        "start": 8.98,
+        "end": 9.64,
+        "score": 0.375
+      }
+    ],
+    "4": [
+      {
+        "text": "because",
+        "start": 10.66,
+        "end": 11.2,
+        "score": 0.427
+      },
+      {
+        "text": "of",
+        "start": 11.22,
+        "end": 11.3,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 11.36,
+        "end": 11.44,
+        "score": 0.998
+      },
+      {
+        "text": "many",
+        "start": 11.56,
+        "end": 12.16,
+        "score": 0.0
+      },
+      {
+        "text": "harlotries",
+        "start": 12.16,
+        "end": 12.66,
+        "score": 0.277
+      },
+      {
+        "text": "of",
+        "start": 12.68,
+        "end": 12.74,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 12.78,
+        "end": 12.86,
+        "score": 0.941
+      },
+      {
+        "text": "harlot",
+        "start": 12.96,
+        "end": 13.34,
+        "score": 0.363
+      }
+    ],
+    "5": [
+      {
+        "text": "Behold",
+        "start": 13.34,
+        "end": 14.02,
+        "score": 0.203
+      },
+      {
+        "text": "I",
+        "start": 14.02,
+        "end": 43.22,
+        "score": 1.0
+      },
+      {
+        "text": "am",
+        "start": 43.22,
+        "end": 43.32,
+        "score": 0.999
+      },
+      {
+        "text": "against",
+        "start": 43.38,
+        "end": 43.78,
+        "score": 0.998
+      },
+      {
+        "text": "you",
+        "start": 43.82,
+        "end": 43.92,
+        "score": 0.999
+      }
+    ],
+    "6": [
+      {
+        "text": "I",
+        "start": 43.92,
+        "end": 128.47,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 128.47,
+        "end": 128.87,
+        "score": 0.5
+      },
+      {
+        "text": "pelt",
+        "start": 128.97,
+        "end": 129.23,
+        "score": 0.75
+      },
+      {
+        "text": "you",
+        "start": 129.39,
+        "end": 129.49,
+        "score": 0.926
+      },
+      {
+        "text": "with",
+        "start": 129.51,
+        "end": 129.67,
+        "score": 0.0
+      },
+      {
+        "text": "filth",
+        "start": 129.73,
+        "end": 129.89,
+        "score": 0.0
+      }
+    ],
+    "7": [
+      {
+        "text": "Then",
+        "start": 129.91,
+        "end": 130.15,
+        "score": 0.333
+      },
+      {
+        "text": "all",
+        "start": 130.65,
+        "end": 130.91,
+        "score": 0.0
+      },
+      {
+        "text": "who",
+        "start": 130.93,
+        "end": 131.01,
+        "score": 0.0
+      },
+      {
+        "text": "see",
+        "start": 131.01,
+        "end": 131.09,
+        "score": 0.33
+      },
+      {
+        "text": "you",
+        "start": 131.17,
+        "end": 131.29,
+        "score": 0.333
+      }
+    ],
+    "8": [
+      {
+        "text": "Are",
+        "start": 131.29,
+        "end": 131.35,
+        "score": 0.0
+      },
+      {
+        "text": "you",
+        "start": 131.43,
+        "end": 131.57,
+        "score": 0.03
+      },
+      {
+        "text": "better",
+        "start": 131.67,
+        "end": 131.83,
+        "score": 0.119
+      },
+      {
+        "text": "than",
+        "start": 131.83,
+        "end": 131.95,
+        "score": 0.497
+      },
+      {
+        "text": "Thebes",
+        "start": 131.97,
+        "end": 132.23,
+        "score": 0.2
+      }
+    ],
+    "9": [
+      {
+        "text": "Cush",
+        "start": 132.31,
+        "end": 132.51,
+        "score": 0.003
+      }
+    ],
+    "10": [
+      {
+        "text": "Yet",
+        "start": 132.51,
+        "end": 132.55,
+        "score": 0.014
+      },
+      {
+        "text": "she",
+        "start": 132.61,
+        "end": 132.67,
+        "score": 0.333
+      },
+      {
+        "text": "became",
+        "start": 132.67,
+        "end": 133.85,
+        "score": 0.0
+      },
+      {
+        "text": "an",
+        "start": 133.87,
+        "end": 133.97,
+        "score": 0.495
+      },
+      {
+        "text": "exile",
+        "start": 134.01,
+        "end": 134.17,
+        "score": 0.001
+      }
+    ],
+    "11": [
+      {
+        "text": "You",
+        "start": 134.17,
+        "end": 134.23,
+        "score": 0.72
+      },
+      {
+        "text": "too",
+        "start": 134.25,
+        "end": 134.33,
+        "score": 0.0
+      },
+      {
+        "text": "will",
+        "start": 134.37,
+        "end": 134.53,
+        "score": 0.25
+      },
+      {
+        "text": "become",
+        "start": 134.55,
+        "end": 135.31,
+        "score": 0.499
+      },
+      {
+        "text": "drunk",
+        "start": 135.57,
+        "end": 136.31,
+        "score": 0.376
+      }
+    ],
+    "12": [
+      {
+        "text": "All",
+        "start": 136.33,
+        "end": 136.49,
+        "score": 0.0
+      },
+      {
+        "text": "your",
+        "start": 136.57,
+        "end": 136.73,
+        "score": 0.985
+      },
+      {
+        "text": "fortresses",
+        "start": 136.81,
+        "end": 137.51,
+        "score": 0.805
+      },
+      {
+        "text": "are",
+        "start": 138.09,
+        "end": 138.25,
+        "score": 0.333
+      },
+      {
+        "text": "fig",
+        "start": 138.27,
+        "end": 138.33,
+        "score": 0.0
+      },
+      {
+        "text": "trees",
+        "start": 138.33,
+        "end": 138.45,
+        "score": 0.239
+      }
+    ],
+    "13": [
+      {
+        "text": "Look",
+        "start": 138.45,
+        "end": 138.61,
+        "score": 0.0
+      },
+      {
+        "text": "at",
+        "start": 138.67,
+        "end": 138.81,
+        "score": 0.498
+      },
+      {
+        "text": "your",
+        "start": 138.81,
+        "end": 139.17,
+        "score": 0.029
+      },
+      {
+        "text": "troops",
+        "start": 139.25,
+        "end": 139.61,
+        "score": 0.333
+      }
+    ],
+    "14": [
+      {
+        "text": "Draw",
+        "start": 139.61,
+        "end": 139.75,
+        "score": 0.0
+      },
+      {
+        "text": "your",
+        "start": 139.79,
+        "end": 139.89,
+        "score": 0.426
+      },
+      {
+        "text": "water",
+        "start": 139.89,
+        "end": 140.51,
+        "score": 0.569
+      },
+      {
+        "text": "for",
+        "start": 140.65,
+        "end": 140.95,
+        "score": 0.333
+      },
+      {
+        "text": "the",
+        "start": 141.07,
+        "end": 141.15,
+        "score": 0.998
+      },
+      {
+        "text": "siege",
+        "start": 141.23,
+        "end": 142.01,
+        "score": 0.211
+      }
+    ],
+    "15": [
+      {
+        "text": "There",
+        "start": 142.83,
+        "end": 143.11,
+        "score": 0.941
+      },
+      {
+        "text": "the",
+        "start": 143.25,
+        "end": 143.35,
+        "score": 0.996
+      },
+      {
+        "text": "fire",
+        "start": 143.51,
+        "end": 143.87,
+        "score": 0.973
+      },
+      {
+        "text": "will",
+        "start": 143.95,
+        "end": 144.11,
+        "score": 0.967
+      },
+      {
+        "text": "devour",
+        "start": 144.15,
+        "end": 144.61,
+        "score": 0.967
+      },
+      {
+        "text": "you",
+        "start": 144.69,
+        "end": 144.83,
+        "score": 0.999
+      }
+    ],
+    "16": [
+      {
+        "text": "You",
+        "start": 144.87,
+        "end": 145.37,
+        "score": 0.0
+      },
+      {
+        "text": "have",
+        "start": 145.37,
+        "end": 145.61,
+        "score": 0.25
+      },
+      {
+        "text": "multiplied",
+        "start": 145.67,
+        "end": 146.37,
+        "score": 0.2
+      },
+      {
+        "text": "your",
+        "start": 146.47,
+        "end": 146.57,
+        "score": 0.746
+      },
+      {
+        "text": "merchants",
+        "start": 146.57,
+        "end": 146.75,
+        "score": 0.0
+      }
+    ],
+    "17": [
+      {
+        "text": "Your",
+        "start": 146.79,
+        "end": 147.03,
+        "score": 0.334
+      },
+      {
+        "text": "guards",
+        "start": 147.03,
+        "end": 147.39,
+        "score": 0.306
+      }
+    ],
+    "18": [
+      {
+        "text": "O",
+        "start": 147.39,
+        "end": 200.97,
+        "score": 1.0
+      },
+      {
+        "text": "king",
+        "start": 200.97,
+        "end": 201.15,
+        "score": 0.25
+      },
+      {
+        "text": "of",
+        "start": 201.17,
+        "end": 201.23,
+        "score": 0.5
+      },
+      {
+        "text": "Assyria",
+        "start": 201.31,
+        "end": 201.57,
+        "score": 0.0
+      },
+      {
+        "text": "your",
+        "start": 202.13,
+        "end": 202.29,
+        "score": 0.5
+      },
+      {
+        "text": "shepherds",
+        "start": 202.39,
+        "end": 202.75,
+        "score": 0.32
+      },
+      {
+        "text": "slumber",
+        "start": 202.81,
+        "end": 203.15,
+        "score": 0.143
+      }
+    ],
+    "19": [
+      {
+        "text": "There",
+        "start": 203.33,
+        "end": 203.61,
+        "score": 0.5
+      },
+      {
+        "text": "is",
+        "start": 203.61,
+        "end": 203.71,
+        "score": 0.363
+      },
+      {
+        "text": "no",
+        "start": 203.75,
+        "end": 203.83,
+        "score": 0.5
+      },
+      {
+        "text": "healing",
+        "start": 203.83,
+        "end": 203.97,
+        "score": 0.143
+      },
+      {
+        "text": "for",
+        "start": 203.97,
+        "end": 204.13,
+        "score": 0.666
+      },
+      {
+        "text": "your",
+        "start": 204.31,
+        "end": 204.73,
+        "score": 0.25
+      },
+      {
+        "text": "injury",
+        "start": 204.77,
+        "end": 205.53,
+        "score": 0.499
+      }
+    ]
+  }
+}

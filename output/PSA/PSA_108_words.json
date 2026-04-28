@@ -1,0 +1,560 @@
+{
+  "book": "PSA",
+  "chapter": "108",
+  "verses": {
+    "1": [
+      {
+        "text": "A",
+        "start": 0.0,
+        "end": 3.3,
+        "score": 1.0
+      },
+      {
+        "text": "song",
+        "start": 3.3,
+        "end": 3.7,
+        "score": 0.375
+      },
+      {
+        "text": "A",
+        "start": 3.7,
+        "end": 4.44,
+        "score": 1.0
+      },
+      {
+        "text": "Psalm",
+        "start": 4.44,
+        "end": 4.8,
+        "score": 0.187
+      },
+      {
+        "text": "of",
+        "start": 4.86,
+        "end": 4.96,
+        "score": 0.108
+      },
+      {
+        "text": "David",
+        "start": 5.1,
+        "end": 5.42,
+        "score": 0.354
+      }
+    ],
+    "2": [
+      {
+        "text": "Awake",
+        "start": 5.46,
+        "end": 5.74,
+        "score": 0.0
+      },
+      {
+        "text": "O",
+        "start": 5.74,
+        "end": 15.58,
+        "score": 1.0
+      },
+      {
+        "text": "harp",
+        "start": 15.58,
+        "end": 15.9,
+        "score": 0.872
+      },
+      {
+        "text": "and",
+        "start": 15.98,
+        "end": 16.1,
+        "score": 0.998
+      },
+      {
+        "text": "lyre",
+        "start": 16.18,
+        "end": 16.58,
+        "score": 0.56
+      }
+    ],
+    "3": [
+      {
+        "text": "I",
+        "start": 16.58,
+        "end": 19.76,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 19.76,
+        "end": 19.94,
+        "score": 0.993
+      },
+      {
+        "text": "praise",
+        "start": 20.06,
+        "end": 20.46,
+        "score": 0.954
+      },
+      {
+        "text": "You",
+        "start": 20.56,
+        "end": 20.6,
+        "score": 0.999
+      },
+      {
+        "text": "O",
+        "start": 20.6,
+        "end": 23.32,
+        "score": 1.0
+      },
+      {
+        "text": "LORD",
+        "start": 23.34,
+        "end": 24.96,
+        "score": 1.0
+      },
+      {
+        "text": "among",
+        "start": 24.96,
+        "end": 25.28,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 25.34,
+        "end": 25.44,
+        "score": 0.97
+      },
+      {
+        "text": "nations",
+        "start": 25.44,
+        "end": 26.09,
+        "score": 0.285
+      }
+    ],
+    "4": [
+      {
+        "text": "For",
+        "start": 26.93,
+        "end": 27.03,
+        "score": 1.0
+      },
+      {
+        "text": "Your",
+        "start": 27.19,
+        "end": 27.31,
+        "score": 0.991
+      },
+      {
+        "text": "loving",
+        "start": 27.41,
+        "end": 27.75,
+        "score": 0.988
+      },
+      {
+        "text": "devotion",
+        "start": 27.79,
+        "end": 28.31,
+        "score": 0.996
+      },
+      {
+        "text": "extends",
+        "start": 28.61,
+        "end": 29.13,
+        "score": 0.998
+      },
+      {
+        "text": "beyond",
+        "start": 29.19,
+        "end": 29.63,
+        "score": 0.973
+      },
+      {
+        "text": "the",
+        "start": 29.69,
+        "end": 29.79,
+        "score": 0.999
+      },
+      {
+        "text": "heavens",
+        "start": 29.87,
+        "end": 30.41,
+        "score": 0.991
+      }
+    ],
+    "5": [
+      {
+        "text": "Be",
+        "start": 30.41,
+        "end": 30.43,
+        "score": 0.0
+      },
+      {
+        "text": "exalted",
+        "start": 30.45,
+        "end": 30.97,
+        "score": 0.286
+      },
+      {
+        "text": "O",
+        "start": 30.97,
+        "end": 67.25,
+        "score": 1.0
+      },
+      {
+        "text": "God",
+        "start": 67.25,
+        "end": 67.49,
+        "score": 0.495
+      },
+      {
+        "text": "above",
+        "start": 67.49,
+        "end": 68.55,
+        "score": 0.399
+      },
+      {
+        "text": "the",
+        "start": 68.67,
+        "end": 68.73,
+        "score": 0.334
+      },
+      {
+        "text": "heavens",
+        "start": 68.77,
+        "end": 69.19,
+        "score": 0.23
+      }
+    ],
+    "6": [
+      {
+        "text": "Respond",
+        "start": 69.19,
+        "end": 70.35,
+        "score": 0.5
+      },
+      {
+        "text": "and",
+        "start": 70.39,
+        "end": 70.47,
+        "score": 0.626
+      },
+      {
+        "text": "save",
+        "start": 70.49,
+        "end": 70.63,
+        "score": 0.051
+      },
+      {
+        "text": "us",
+        "start": 70.63,
+        "end": 70.67,
+        "score": 0.0
+      },
+      {
+        "text": "with",
+        "start": 70.67,
+        "end": 71.41,
+        "score": 0.5
+      },
+      {
+        "text": "Your",
+        "start": 71.45,
+        "end": 71.57,
+        "score": 0.318
+      },
+      {
+        "text": "right",
+        "start": 71.63,
+        "end": 72.07,
+        "score": 0.0
+      },
+      {
+        "text": "hand",
+        "start": 72.09,
+        "end": 72.35,
+        "score": 0.749
+      }
+    ],
+    "7": [
+      {
+        "text": "God",
+        "start": 72.39,
+        "end": 72.47,
+        "score": 0.019
+      },
+      {
+        "text": "has",
+        "start": 72.47,
+        "end": 72.55,
+        "score": 0.0
+      },
+      {
+        "text": "spoken",
+        "start": 72.57,
+        "end": 73.43,
+        "score": 0.333
+      },
+      {
+        "text": "from",
+        "start": 73.49,
+        "end": 73.65,
+        "score": 0.275
+      },
+      {
+        "text": "His",
+        "start": 73.71,
+        "end": 73.77,
+        "score": 0.317
+      },
+      {
+        "text": "sanctuary",
+        "start": 73.81,
+        "end": 73.99,
+        "score": 0.1
+      }
+    ],
+    "8": [
+      {
+        "text": "Gilead",
+        "start": 73.99,
+        "end": 74.11,
+        "score": 0.199
+      },
+      {
+        "text": "is",
+        "start": 74.65,
+        "end": 74.79,
+        "score": 0.863
+      },
+      {
+        "text": "Mine",
+        "start": 74.79,
+        "end": 74.85,
+        "score": 0.0
+      },
+      {
+        "text": "and",
+        "start": 74.91,
+        "end": 75.11,
+        "score": 0.005
+      },
+      {
+        "text": "Manasseh",
+        "start": 75.27,
+        "end": 75.53,
+        "score": 0.143
+      },
+      {
+        "text": "is",
+        "start": 75.67,
+        "end": 75.75,
+        "score": 0.403
+      },
+      {
+        "text": "Mine",
+        "start": 75.75,
+        "end": 75.99,
+        "score": 0.002
+      }
+    ],
+    "9": [
+      {
+        "text": "Moab",
+        "start": 76.01,
+        "end": 76.11,
+        "score": 0.0
+      },
+      {
+        "text": "is",
+        "start": 76.11,
+        "end": 76.15,
+        "score": 0.0
+      },
+      {
+        "text": "My",
+        "start": 76.15,
+        "end": 76.17,
+        "score": 0.0
+      },
+      {
+        "text": "washbasin",
+        "start": 76.17,
+        "end": 77.23,
+        "score": 0.0
+      }
+    ],
+    "10": [
+      {
+        "text": "Who",
+        "start": 77.23,
+        "end": 77.31,
+        "score": 0.997
+      },
+      {
+        "text": "will",
+        "start": 77.41,
+        "end": 77.6,
+        "score": 0.992
+      },
+      {
+        "text": "bring",
+        "start": 77.7,
+        "end": 77.94,
+        "score": 1.0
+      },
+      {
+        "text": "me",
+        "start": 78.0,
+        "end": 78.06,
+        "score": 0.999
+      },
+      {
+        "text": "to",
+        "start": 78.2,
+        "end": 78.3,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 78.36,
+        "end": 78.44,
+        "score": 0.998
+      },
+      {
+        "text": "fortified",
+        "start": 78.52,
+        "end": 79.14,
+        "score": 0.998
+      },
+      {
+        "text": "city",
+        "start": 79.22,
+        "end": 79.48,
+        "score": 1.0
+      }
+    ],
+    "11": [
+      {
+        "text": "Have",
+        "start": 82.48,
+        "end": 82.64,
+        "score": 0.997
+      },
+      {
+        "text": "You",
+        "start": 82.72,
+        "end": 82.76,
+        "score": 0.999
+      },
+      {
+        "text": "not",
+        "start": 82.84,
+        "end": 83.06,
+        "score": 0.996
+      },
+      {
+        "text": "rejected",
+        "start": 83.16,
+        "end": 83.78,
+        "score": 0.985
+      },
+      {
+        "text": "us",
+        "start": 83.84,
+        "end": 84.0,
+        "score": 1.0
+      },
+      {
+        "text": "O",
+        "start": 84.0,
+        "end": 93.5,
+        "score": 1.0
+      },
+      {
+        "text": "God",
+        "start": 93.5,
+        "end": 93.54,
+        "score": 0.5
+      }
+    ],
+    "12": [
+      {
+        "text": "Give",
+        "start": 93.56,
+        "end": 93.64,
+        "score": 0.0
+      },
+      {
+        "text": "us",
+        "start": 93.68,
+        "end": 93.74,
+        "score": 0.0
+      },
+      {
+        "text": "aid",
+        "start": 93.8,
+        "end": 94.06,
+        "score": 0.333
+      },
+      {
+        "text": "against",
+        "start": 94.06,
+        "end": 94.56,
+        "score": 0.285
+      },
+      {
+        "text": "the",
+        "start": 94.74,
+        "end": 94.86,
+        "score": 0.635
+      },
+      {
+        "text": "enemy",
+        "start": 94.9,
+        "end": 95.9,
+        "score": 0.2
+      }
+    ],
+    "13": [
+      {
+        "text": "With",
+        "start": 95.94,
+        "end": 96.06,
+        "score": 0.999
+      },
+      {
+        "text": "God",
+        "start": 96.22,
+        "end": 96.46,
+        "score": 1.0
+      },
+      {
+        "text": "we",
+        "start": 96.86,
+        "end": 96.96,
+        "score": 0.998
+      },
+      {
+        "text": "will",
+        "start": 97.06,
+        "end": 97.24,
+        "score": 0.991
+      },
+      {
+        "text": "perform",
+        "start": 97.3,
+        "end": 97.86,
+        "score": 0.999
+      },
+      {
+        "text": "with",
+        "start": 98.0,
+        "end": 98.18,
+        "score": 0.992
+      },
+      {
+        "text": "valor",
+        "start": 98.24,
+        "end": 100.88,
+        "score": 0.803
+      }
+    ]
+  }
+}

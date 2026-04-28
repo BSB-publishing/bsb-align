@@ -1,0 +1,316 @@
+{
+  "book": "PSA",
+  "chapter": "003",
+  "verses": {
+    "1": [
+      {
+        "text": "A",
+        "start": 0.0,
+        "end": 3.04,
+        "score": 1.0
+      },
+      {
+        "text": "Psalm",
+        "start": 3.04,
+        "end": 3.32,
+        "score": 0.99
+      },
+      {
+        "text": "of",
+        "start": 3.36,
+        "end": 3.44,
+        "score": 0.997
+      },
+      {
+        "text": "David",
+        "start": 3.6,
+        "end": 3.86,
+        "score": 0.999
+      },
+      {
+        "text": "when",
+        "start": 4.26,
+        "end": 4.4,
+        "score": 0.956
+      },
+      {
+        "text": "he",
+        "start": 4.44,
+        "end": 4.5,
+        "score": 0.966
+      },
+      {
+        "text": "fled",
+        "start": 4.62,
+        "end": 4.92,
+        "score": 0.999
+      },
+      {
+        "text": "from",
+        "start": 4.98,
+        "end": 5.14,
+        "score": 0.948
+      },
+      {
+        "text": "his",
+        "start": 5.2,
+        "end": 5.34,
+        "score": 0.998
+      },
+      {
+        "text": "son",
+        "start": 5.4,
+        "end": 5.62,
+        "score": 0.95
+      },
+      {
+        "text": "Absalom",
+        "start": 5.62,
+        "end": 5.9,
+        "score": 0.165
+      }
+    ],
+    "2": [
+      {
+        "text": "Many",
+        "start": 5.9,
+        "end": 5.96,
+        "score": 0.0
+      },
+      {
+        "text": "say",
+        "start": 5.98,
+        "end": 6.14,
+        "score": 0.528
+      },
+      {
+        "text": "of",
+        "start": 6.18,
+        "end": 6.22,
+        "score": 0.014
+      },
+      {
+        "text": "me",
+        "start": 6.26,
+        "end": 6.32,
+        "score": 0.498
+      }
+    ],
+    "3": [
+      {
+        "text": "But",
+        "start": 6.32,
+        "end": 6.36,
+        "score": 0.0
+      },
+      {
+        "text": "You",
+        "start": 8.52,
+        "end": 8.74,
+        "score": 0.498
+      },
+      {
+        "text": "O",
+        "start": 8.74,
+        "end": 8.78,
+        "score": 1.0
+      },
+      {
+        "text": "LORD",
+        "start": 8.8,
+        "end": 20.39,
+        "score": 1.0
+      },
+      {
+        "text": "are",
+        "start": 20.39,
+        "end": 20.53,
+        "score": 0.997
+      },
+      {
+        "text": "a",
+        "start": 20.57,
+        "end": 20.59,
+        "score": 0.998
+      },
+      {
+        "text": "shield",
+        "start": 20.73,
+        "end": 21.17,
+        "score": 0.933
+      },
+      {
+        "text": "around",
+        "start": 21.23,
+        "end": 21.61,
+        "score": 0.962
+      },
+      {
+        "text": "me",
+        "start": 21.69,
+        "end": 21.75,
+        "score": 0.999
+      }
+    ],
+    "4": [
+      {
+        "text": "To",
+        "start": 21.81,
+        "end": 21.83,
+        "score": 0.0
+      },
+      {
+        "text": "the",
+        "start": 22.29,
+        "end": 22.59,
+        "score": 0.0
+      },
+      {
+        "text": "LORD",
+        "start": 22.59,
+        "end": 22.67,
+        "score": 1.0
+      },
+      {
+        "text": "I",
+        "start": 22.69,
+        "end": 27.35,
+        "score": 1.0
+      },
+      {
+        "text": "cry",
+        "start": 27.35,
+        "end": 27.63,
+        "score": 1.0
+      },
+      {
+        "text": "aloud",
+        "start": 27.69,
+        "end": 28.21,
+        "score": 0.999
+      }
+    ],
+    "5": [
+      {
+        "text": "I",
+        "start": 28.21,
+        "end": 32.59,
+        "score": 1.0
+      },
+      {
+        "text": "lie",
+        "start": 32.59,
+        "end": 32.83,
+        "score": 0.526
+      },
+      {
+        "text": "down",
+        "start": 32.89,
+        "end": 33.19,
+        "score": 1.0
+      },
+      {
+        "text": "and",
+        "start": 33.37,
+        "end": 33.49,
+        "score": 0.999
+      },
+      {
+        "text": "sleep",
+        "start": 33.59,
+        "end": 33.97,
+        "score": 0.999
+      }
+    ],
+    "6": [
+      {
+        "text": "I",
+        "start": 33.97,
+        "end": 38.63,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 38.63,
+        "end": 38.83,
+        "score": 0.998
+      },
+      {
+        "text": "not",
+        "start": 38.91,
+        "end": 39.09,
+        "score": 1.0
+      },
+      {
+        "text": "fear",
+        "start": 39.21,
+        "end": 39.45,
+        "score": 0.942
+      },
+      {
+        "text": "the",
+        "start": 39.51,
+        "end": 39.59,
+        "score": 0.999
+      },
+      {
+        "text": "myriads",
+        "start": 39.69,
+        "end": 40.23,
+        "score": 0.828
+      }
+    ],
+    "7": [
+      {
+        "text": "Arise",
+        "start": 40.29,
+        "end": 40.45,
+        "score": 0.5
+      },
+      {
+        "text": "O",
+        "start": 40.45,
+        "end": 41.91,
+        "score": 1.0
+      },
+      {
+        "text": "LORD",
+        "start": 41.93,
+        "end": 53.1,
+        "score": 1.0
+      }
+    ],
+    "8": [
+      {
+        "text": "Salvation",
+        "start": 53.1,
+        "end": 53.72,
+        "score": 0.999
+      },
+      {
+        "text": "belongs",
+        "start": 53.96,
+        "end": 54.48,
+        "score": 0.966
+      },
+      {
+        "text": "to",
+        "start": 54.54,
+        "end": 54.62,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 54.7,
+        "end": 54.78,
+        "score": 0.999
+      },
+      {
+        "text": "LORD",
+        "start": 54.78,
+        "end": 60.08,
+        "score": 1.0
+      }
+    ]
+  }
+}

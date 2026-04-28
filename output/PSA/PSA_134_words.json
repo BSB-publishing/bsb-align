@@ -1,0 +1,132 @@
+{
+  "book": "PSA",
+  "chapter": "134",
+  "verses": {
+    "1": [
+      {
+        "text": "A",
+        "start": 0.0,
+        "end": 13.45,
+        "score": 1.0
+      },
+      {
+        "text": "song",
+        "start": 13.45,
+        "end": 13.59,
+        "score": 0.25
+      },
+      {
+        "text": "of",
+        "start": 13.65,
+        "end": 13.73,
+        "score": 0.999
+      },
+      {
+        "text": "ascents",
+        "start": 13.73,
+        "end": 15.19,
+        "score": 0.143
+      }
+    ],
+    "2": [
+      {
+        "text": "Lift",
+        "start": 15.23,
+        "end": 15.41,
+        "score": 0.994
+      },
+      {
+        "text": "up",
+        "start": 15.45,
+        "end": 15.55,
+        "score": 1.0
+      },
+      {
+        "text": "your",
+        "start": 15.63,
+        "end": 15.79,
+        "score": 0.996
+      },
+      {
+        "text": "hands",
+        "start": 15.89,
+        "end": 16.29,
+        "score": 0.958
+      },
+      {
+        "text": "to",
+        "start": 16.35,
+        "end": 16.43,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 16.49,
+        "end": 16.57,
+        "score": 0.993
+      },
+      {
+        "text": "sanctuary",
+        "start": 16.69,
+        "end": 17.35,
+        "score": 0.989
+      }
+    ],
+    "3": [
+      {
+        "text": "May",
+        "start": 17.77,
+        "end": 17.87,
+        "score": 0.5
+      },
+      {
+        "text": "the",
+        "start": 17.89,
+        "end": 18.17,
+        "score": 0.333
+      },
+      {
+        "text": "LORD",
+        "start": 18.17,
+        "end": 20.83,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 20.83,
+        "end": 20.93,
+        "score": 0.993
+      },
+      {
+        "text": "Maker",
+        "start": 21.11,
+        "end": 21.39,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 21.51,
+        "end": 21.63,
+        "score": 0.999
+      },
+      {
+        "text": "heaven",
+        "start": 21.73,
+        "end": 22.01,
+        "score": 0.985
+      },
+      {
+        "text": "and",
+        "start": 22.13,
+        "end": 22.23,
+        "score": 0.999
+      },
+      {
+        "text": "earth",
+        "start": 22.33,
+        "end": 22.59,
+        "score": 0.959
+      }
+    ]
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "book": "PSA",
+  "chapter": "029",
+  "verses": {
+    "1": [
+      {
+        "text": "A",
+        "start": 0.0,
+        "end": 1.16,
+        "score": 1.0
+      },
+      {
+        "text": "Psalm",
+        "start": 1.16,
+        "end": 3.52,
+        "score": 0.058
+      },
+      {
+        "text": "of",
+        "start": 3.66,
+        "end": 3.76,
+        "score": 0.027
+      },
+      {
+        "text": "David",
+        "start": 3.9,
+        "end": 4.22,
+        "score": 0.085
+      }
+    ],
+    "2": [
+      {
+        "text": "Ascribe",
+        "start": 6.5,
+        "end": 6.92,
+        "score": 0.97
+      },
+      {
+        "text": "to",
+        "start": 6.98,
+        "end": 7.06,
+        "score": 0.995
+      },
+      {
+        "text": "the",
+        "start": 7.14,
+        "end": 7.22,
+        "score": 0.916
+      },
+      {
+        "text": "LORD",
+        "start": 7.22,
+        "end": 14.24,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 14.24,
+        "end": 14.32,
+        "score": 0.998
+      },
+      {
+        "text": "glory",
+        "start": 14.4,
+        "end": 14.76,
+        "score": 1.0
+      },
+      {
+        "text": "due",
+        "start": 14.96,
+        "end": 15.3,
+        "score": 0.333
+      },
+      {
+        "text": "His",
+        "start": 15.34,
+        "end": 15.46,
+        "score": 1.0
+      },
+      {
+        "text": "name",
+        "start": 15.56,
+        "end": 15.94,
+        "score": 0.993
+      }
+    ],
+    "3": [
+      {
+        "text": "The",
+        "start": 15.94,
+        "end": 15.98,
+        "score": 0.078
+      },
+      {
+        "text": "voice",
+        "start": 16.64,
+        "end": 16.9,
+        "score": 0.2
+      },
+      {
+        "text": "of",
+        "start": 16.94,
+        "end": 17.04,
+        "score": 0.0
+      },
+      {
+        "text": "the",
+        "start": 17.12,
+        "end": 17.2,
+        "score": 0.998
+      },
+      {
+        "text": "LORD",
+        "start": 17.2,
+        "end": 27.73,
+        "score": 1.0
+      },
+      {
+        "text": "is",
+        "start": 27.73,
+        "end": 27.81,
+        "score": 0.0
+      },
+      {
+        "text": "over",
+        "start": 27.89,
+        "end": 28.13,
+        "score": 0.978
+      },
+      {
+        "text": "the",
+        "start": 28.23,
+        "end": 28.47,
+        "score": 0.0
+      },
+      {
+        "text": "waters",
+        "start": 28.61,
+        "end": 29.15,
+        "score": 1.0
+      }
+    ],
+    "4": [
+      {
+        "text": "The",
+        "start": 29.81,
+        "end": 29.89,
+        "score": 0.875
+      },
+      {
+        "text": "voice",
+        "start": 29.99,
+        "end": 30.35,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 30.39,
+        "end": 30.45,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 30.49,
+        "end": 30.57,
+        "score": 0.998
+      },
+      {
+        "text": "LORD",
+        "start": 30.57,
+        "end": 31.09,
+        "score": 1.0
+      },
+      {
+        "text": "is",
+        "start": 31.09,
+        "end": 31.21,
+        "score": 0.999
+      },
+      {
+        "text": "powerful",
+        "start": 31.31,
+        "end": 31.95,
+        "score": 0.999
+      }
+    ],
+    "5": [
+      {
+        "text": "The",
+        "start": 32.65,
+        "end": 32.73,
+        "score": 0.979
+      },
+      {
+        "text": "voice",
+        "start": 32.79,
+        "end": 33.13,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 33.17,
+        "end": 33.23,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 33.27,
+        "end": 33.35,
+        "score": 0.998
+      },
+      {
+        "text": "LORD",
+        "start": 33.35,
+        "end": 40.47,
+        "score": 1.0
+      },
+      {
+        "text": "breaks",
+        "start": 40.47,
+        "end": 40.67,
+        "score": 0.331
+      },
+      {
+        "text": "the",
+        "start": 40.81,
+        "end": 40.97,
+        "score": 0.311
+      },
+      {
+        "text": "cedars",
+        "start": 41.03,
+        "end": 42.29,
+        "score": 0.02
+      }
+    ],
+    "6": [
+      {
+        "text": "He",
+        "start": 42.35,
+        "end": 42.37,
+        "score": 1.0
+      },
+      {
+        "text": "makes",
+        "start": 42.47,
+        "end": 42.75,
+        "score": 0.999
+      },
+      {
+        "text": "Lebanon",
+        "start": 42.89,
+        "end": 43.31,
+        "score": 0.974
+      },
+      {
+        "text": "skip",
+        "start": 43.59,
+        "end": 43.91,
+        "score": 0.998
+      },
+      {
+        "text": "like",
+        "start": 44.07,
+        "end": 44.29,
+        "score": 0.999
+      },
+      {
+        "text": "a",
+        "start": 44.31,
+        "end": 44.33,
+        "score": 0.997
+      },
+      {
+        "text": "calf",
+        "start": 44.41,
+        "end": 44.81,
+        "score": 0.736
+      }
+    ],
+    "7": [
+      {
+        "text": "The",
+        "start": 44.81,
+        "end": 44.85,
+        "score": 0.011
+      },
+      {
+        "text": "voice",
+        "start": 44.91,
+        "end": 45.77,
+        "score": 0.011
+      },
+      {
+        "text": "of",
+        "start": 45.77,
+        "end": 45.81,
+        "score": 0.0
+      },
+      {
+        "text": "the",
+        "start": 45.85,
+        "end": 45.95,
+        "score": 0.015
+      },
+      {
+        "text": "LORD",
+        "start": 45.95,
+        "end": 49.15,
+        "score": 1.0
+      }
+    ],
+    "8": [
+      {
+        "text": "The",
+        "start": 49.15,
+        "end": 49.21,
+        "score": 0.999
+      },
+      {
+        "text": "voice",
+        "start": 49.29,
+        "end": 49.67,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 49.71,
+        "end": 49.79,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 49.83,
+        "end": 49.91,
+        "score": 0.998
+      },
+      {
+        "text": "LORD",
+        "start": 49.91,
+        "end": 56.47,
+        "score": 1.0
+      },
+      {
+        "text": "shakes",
+        "start": 56.47,
+        "end": 56.85,
+        "score": 0.978
+      },
+      {
+        "text": "the",
+        "start": 57.05,
+        "end": 57.13,
+        "score": 0.999
+      },
+      {
+        "text": "wilderness",
+        "start": 57.19,
+        "end": 57.67,
+        "score": 0.996
+      }
+    ],
+    "9": [
+      {
+        "text": "The",
+        "start": 59.15,
+        "end": 59.23,
+        "score": 0.997
+      },
+      {
+        "text": "voice",
+        "start": 59.31,
+        "end": 59.65,
+        "score": 0.995
+      },
+      {
+        "text": "of",
+        "start": 59.67,
+        "end": 59.75,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 59.79,
+        "end": 59.85,
+        "score": 0.997
+      },
+      {
+        "text": "LORD",
+        "start": 59.85,
+        "end": 60.29,
+        "score": 1.0
+      },
+      {
+        "text": "twists",
+        "start": 60.29,
+        "end": 60.77,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 60.83,
+        "end": 60.93,
+        "score": 0.938
+      },
+      {
+        "text": "oaks",
+        "start": 61.11,
+        "end": 61.43,
+        "score": 0.859
+      }
+    ],
+    "10": [
+      {
+        "text": "The",
+        "start": 61.43,
+        "end": 61.47,
+        "score": 0.0
+      },
+      {
+        "text": "LORD",
+        "start": 61.47,
+        "end": 68.72,
+        "score": 1.0
+      },
+      {
+        "text": "sits",
+        "start": 68.72,
+        "end": 69.0,
+        "score": 1.0
+      },
+      {
+        "text": "enthroned",
+        "start": 69.1,
+        "end": 69.7,
+        "score": 0.926
+      },
+      {
+        "text": "over",
+        "start": 69.84,
+        "end": 70.06,
+        "score": 0.957
+      },
+      {
+        "text": "the",
+        "start": 70.1,
+        "end": 70.18,
+        "score": 0.998
+      },
+      {
+        "text": "flood",
+        "start": 70.26,
+        "end": 70.64,
+        "score": 0.933
+      }
+    ],
+    "11": [
+      {
+        "text": "The",
+        "start": 71.26,
+        "end": 71.32,
+        "score": 0.996
+      },
+      {
+        "text": "LORD",
+        "start": 71.32,
+        "end": 78.3,
+        "score": 1.0
+      },
+      {
+        "text": "gives",
+        "start": 78.3,
+        "end": 78.5,
+        "score": 0.2
+      },
+      {
+        "text": "His",
+        "start": 78.7,
+        "end": 78.86,
+        "score": 0.999
+      },
+      {
+        "text": "people",
+        "start": 78.96,
+        "end": 79.34,
+        "score": 0.999
+      },
+      {
+        "text": "strength",
+        "start": 79.82,
+        "end": 80.62,
+        "score": 0.25
+      }
+    ]
+  }
+}

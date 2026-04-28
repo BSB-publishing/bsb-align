@@ -1,0 +1,720 @@
+{
+  "book": "PSA",
+  "chapter": "083",
+  "verses": {
+    "1": [
+      {
+        "text": "A",
+        "start": 0.0,
+        "end": 3.3,
+        "score": 1.0
+      },
+      {
+        "text": "song",
+        "start": 3.3,
+        "end": 3.7,
+        "score": 0.499
+      },
+      {
+        "text": "A",
+        "start": 3.7,
+        "end": 58.14,
+        "score": 1.0
+      },
+      {
+        "text": "Psalm",
+        "start": 58.14,
+        "end": 58.22,
+        "score": 0.249
+      },
+      {
+        "text": "of",
+        "start": 58.22,
+        "end": 58.3,
+        "score": 0.998
+      },
+      {
+        "text": "Asaph",
+        "start": 58.38,
+        "end": 59.92,
+        "score": 0.003
+      }
+    ],
+    "2": [
+      {
+        "text": "See",
+        "start": 59.96,
+        "end": 60.06,
+        "score": 0.401
+      },
+      {
+        "text": "how",
+        "start": 60.1,
+        "end": 60.16,
+        "score": 0.0
+      },
+      {
+        "text": "Your",
+        "start": 60.18,
+        "end": 60.24,
+        "score": 0.333
+      },
+      {
+        "text": "enemies",
+        "start": 60.24,
+        "end": 60.92,
+        "score": 0.428
+      },
+      {
+        "text": "rage",
+        "start": 60.96,
+        "end": 61.18,
+        "score": 0.0
+      }
+    ],
+    "3": [
+      {
+        "text": "With",
+        "start": 61.24,
+        "end": 61.46,
+        "score": 0.666
+      },
+      {
+        "text": "cunning",
+        "start": 61.46,
+        "end": 61.72,
+        "score": 0.121
+      },
+      {
+        "text": "they",
+        "start": 61.74,
+        "end": 61.84,
+        "score": 0.031
+      },
+      {
+        "text": "scheme",
+        "start": 61.84,
+        "end": 62.06,
+        "score": 0.137
+      },
+      {
+        "text": "against",
+        "start": 62.06,
+        "end": 62.76,
+        "score": 0.428
+      },
+      {
+        "text": "Your",
+        "start": 62.8,
+        "end": 62.88,
+        "score": 0.333
+      },
+      {
+        "text": "people",
+        "start": 63.0,
+        "end": 63.28,
+        "score": 0.008
+      }
+    ],
+    "4": [
+      {
+        "text": "saying",
+        "start": 63.34,
+        "end": 64.02,
+        "score": 0.328
+      },
+      {
+        "text": "Come",
+        "start": 64.1,
+        "end": 64.28,
+        "score": 0.001
+      },
+      {
+        "text": "let",
+        "start": 64.28,
+        "end": 64.34,
+        "score": 0.09
+      },
+      {
+        "text": "us",
+        "start": 64.34,
+        "end": 64.42,
+        "score": 0.0
+      },
+      {
+        "text": "erase",
+        "start": 64.42,
+        "end": 64.96,
+        "score": 0.203
+      },
+      {
+        "text": "them",
+        "start": 64.96,
+        "end": 65.04,
+        "score": 0.5
+      },
+      {
+        "text": "as",
+        "start": 65.04,
+        "end": 65.08,
+        "score": 0.0
+      },
+      {
+        "text": "a",
+        "start": 65.08,
+        "end": 65.1,
+        "score": 0.0
+      },
+      {
+        "text": "nation",
+        "start": 65.1,
+        "end": 65.24,
+        "score": 0.167
+      }
+    ],
+    "5": [
+      {
+        "text": "For",
+        "start": 65.26,
+        "end": 65.32,
+        "score": 0.5
+      },
+      {
+        "text": "with",
+        "start": 65.36,
+        "end": 65.46,
+        "score": 0.014
+      },
+      {
+        "text": "one",
+        "start": 65.52,
+        "end": 65.58,
+        "score": 0.0
+      },
+      {
+        "text": "mind",
+        "start": 65.58,
+        "end": 65.66,
+        "score": 0.188
+      },
+      {
+        "text": "they",
+        "start": 65.7,
+        "end": 65.78,
+        "score": 0.192
+      },
+      {
+        "text": "plot",
+        "start": 65.78,
+        "end": 65.9,
+        "score": 0.165
+      },
+      {
+        "text": "together",
+        "start": 65.92,
+        "end": 66.96,
+        "score": 0.349
+      }
+    ],
+    "6": [
+      {
+        "text": "the",
+        "start": 67.12,
+        "end": 67.2,
+        "score": 0.604
+      },
+      {
+        "text": "tents",
+        "start": 67.22,
+        "end": 67.48,
+        "score": 0.2
+      },
+      {
+        "text": "of",
+        "start": 67.54,
+        "end": 67.62,
+        "score": 0.001
+      },
+      {
+        "text": "Edom",
+        "start": 67.68,
+        "end": 67.92,
+        "score": 0.663
+      },
+      {
+        "text": "and",
+        "start": 68.26,
+        "end": 68.36,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 68.36,
+        "end": 68.48,
+        "score": 0.333
+      },
+      {
+        "text": "Ishmaelites",
+        "start": 68.56,
+        "end": 69.3,
+        "score": 0.495
+      }
+    ],
+    "7": [
+      {
+        "text": "of",
+        "start": 69.38,
+        "end": 69.56,
+        "score": 0.064
+      },
+      {
+        "text": "Gebal",
+        "start": 69.58,
+        "end": 69.92,
+        "score": 0.0
+      },
+      {
+        "text": "Ammon",
+        "start": 69.96,
+        "end": 70.44,
+        "score": 0.25
+      },
+      {
+        "text": "and",
+        "start": 70.44,
+        "end": 70.6,
+        "score": 0.666
+      },
+      {
+        "text": "Amalek",
+        "start": 71.48,
+        "end": 71.72,
+        "score": 0.599
+      }
+    ],
+    "8": [
+      {
+        "text": "Even",
+        "start": 71.74,
+        "end": 71.88,
+        "score": 0.333
+      },
+      {
+        "text": "Assyria",
+        "start": 71.9,
+        "end": 72.28,
+        "score": 0.0
+      },
+      {
+        "text": "has",
+        "start": 72.34,
+        "end": 72.48,
+        "score": 0.333
+      },
+      {
+        "text": "joined",
+        "start": 72.52,
+        "end": 72.84,
+        "score": 0.333
+      },
+      {
+        "text": "them",
+        "start": 72.84,
+        "end": 72.96,
+        "score": 0.001
+      }
+    ],
+    "9": [
+      {
+        "text": "Do",
+        "start": 72.96,
+        "end": 72.98,
+        "score": 0.987
+      },
+      {
+        "text": "to",
+        "start": 73.1,
+        "end": 73.14,
+        "score": 0.0
+      },
+      {
+        "text": "them",
+        "start": 73.14,
+        "end": 73.34,
+        "score": 0.061
+      },
+      {
+        "text": "as",
+        "start": 73.38,
+        "end": 73.42,
+        "score": 0.003
+      },
+      {
+        "text": "You",
+        "start": 73.42,
+        "end": 73.52,
+        "score": 0.0
+      },
+      {
+        "text": "did",
+        "start": 73.56,
+        "end": 73.62,
+        "score": 0.293
+      },
+      {
+        "text": "to",
+        "start": 73.64,
+        "end": 73.69,
+        "score": 0.0
+      },
+      {
+        "text": "Midian",
+        "start": 73.69,
+        "end": 73.87,
+        "score": 0.102
+      }
+    ],
+    "10": [
+      {
+        "text": "who",
+        "start": 73.89,
+        "end": 73.99,
+        "score": 0.0
+      },
+      {
+        "text": "perished",
+        "start": 74.05,
+        "end": 74.25,
+        "score": 0.0
+      },
+      {
+        "text": "at",
+        "start": 74.75,
+        "end": 74.79,
+        "score": 0.5
+      },
+      {
+        "text": "Endor",
+        "start": 74.81,
+        "end": 75.01,
+        "score": 0.499
+      }
+    ],
+    "11": [
+      {
+        "text": "Make",
+        "start": 75.05,
+        "end": 75.25,
+        "score": 0.333
+      },
+      {
+        "text": "their",
+        "start": 75.29,
+        "end": 75.45,
+        "score": 0.972
+      },
+      {
+        "text": "nobles",
+        "start": 75.51,
+        "end": 75.97,
+        "score": 0.333
+      },
+      {
+        "text": "like",
+        "start": 76.29,
+        "end": 76.55,
+        "score": 0.978
+      },
+      {
+        "text": "Oreb",
+        "start": 76.63,
+        "end": 76.85,
+        "score": 0.564
+      },
+      {
+        "text": "and",
+        "start": 76.91,
+        "end": 77.31,
+        "score": 0.995
+      },
+      {
+        "text": "Zeeb",
+        "start": 77.47,
+        "end": 77.83,
+        "score": 0.008
+      }
+    ],
+    "12": [
+      {
+        "text": "who",
+        "start": 78.57,
+        "end": 78.65,
+        "score": 0.987
+      },
+      {
+        "text": "said",
+        "start": 78.79,
+        "end": 79.05,
+        "score": 0.999
+      },
+      {
+        "text": "Let",
+        "start": 79.53,
+        "end": 79.63,
+        "score": 0.999
+      },
+      {
+        "text": "us",
+        "start": 79.71,
+        "end": 79.85,
+        "score": 1.0
+      },
+      {
+        "text": "possess",
+        "start": 79.93,
+        "end": 80.33,
+        "score": 0.942
+      },
+      {
+        "text": "for",
+        "start": 80.39,
+        "end": 80.53,
+        "score": 0.999
+      },
+      {
+        "text": "ourselves",
+        "start": 80.65,
+        "end": 82.09,
+        "score": 0.999
+      }
+    ],
+    "13": [
+      {
+        "text": "Make",
+        "start": 84.19,
+        "end": 84.35,
+        "score": 0.985
+      },
+      {
+        "text": "them",
+        "start": 84.37,
+        "end": 84.53,
+        "score": 0.962
+      },
+      {
+        "text": "like",
+        "start": 84.61,
+        "end": 84.87,
+        "score": 0.999
+      },
+      {
+        "text": "tumbleweed",
+        "start": 84.95,
+        "end": 85.71,
+        "score": 0.947
+      },
+      {
+        "text": "O",
+        "start": 85.71,
+        "end": 112.17,
+        "score": 1.0
+      },
+      {
+        "text": "my",
+        "start": 112.17,
+        "end": 112.21,
+        "score": 0.0
+      },
+      {
+        "text": "God",
+        "start": 112.23,
+        "end": 112.27,
+        "score": 0.5
+      }
+    ],
+    "14": [
+      {
+        "text": "As",
+        "start": 112.39,
+        "end": 112.41,
+        "score": 0.999
+      },
+      {
+        "text": "fire",
+        "start": 112.49,
+        "end": 112.65,
+        "score": 0.25
+      },
+      {
+        "text": "consumes",
+        "start": 112.91,
+        "end": 114.27,
+        "score": 0.375
+      },
+      {
+        "text": "a",
+        "start": 114.33,
+        "end": 114.35,
+        "score": 0.0
+      },
+      {
+        "text": "forest",
+        "start": 114.39,
+        "end": 114.95,
+        "score": 0.333
+      }
+    ],
+    "15": [
+      {
+        "text": "so",
+        "start": 115.11,
+        "end": 115.21,
+        "score": 0.5
+      },
+      {
+        "text": "pursue",
+        "start": 115.21,
+        "end": 115.67,
+        "score": 0.166
+      },
+      {
+        "text": "them",
+        "start": 115.73,
+        "end": 116.05,
+        "score": 0.238
+      },
+      {
+        "text": "with",
+        "start": 116.07,
+        "end": 116.41,
+        "score": 0.243
+      },
+      {
+        "text": "Your",
+        "start": 116.41,
+        "end": 116.55,
+        "score": 0.333
+      },
+      {
+        "text": "tempest",
+        "start": 116.65,
+        "end": 116.99,
+        "score": 0.285
+      }
+    ],
+    "16": [
+      {
+        "text": "Cover",
+        "start": 117.03,
+        "end": 117.21,
+        "score": 0.0
+      },
+      {
+        "text": "their",
+        "start": 117.27,
+        "end": 117.67,
+        "score": 0.722
+      },
+      {
+        "text": "faces",
+        "start": 117.73,
+        "end": 118.41,
+        "score": 0.399
+      },
+      {
+        "text": "with",
+        "start": 118.45,
+        "end": 118.85,
+        "score": 0.25
+      },
+      {
+        "text": "shame",
+        "start": 118.85,
+        "end": 118.99,
+        "score": 0.183
+      }
+    ],
+    "17": [
+      {
+        "text": "May",
+        "start": 118.99,
+        "end": 119.21,
+        "score": 0.001
+      },
+      {
+        "text": "they",
+        "start": 119.23,
+        "end": 119.35,
+        "score": 0.277
+      },
+      {
+        "text": "be",
+        "start": 119.35,
+        "end": 119.39,
+        "score": 0.0
+      },
+      {
+        "text": "ever",
+        "start": 119.49,
+        "end": 119.71,
+        "score": 0.75
+      },
+      {
+        "text": "ashamed",
+        "start": 119.71,
+        "end": 120.07,
+        "score": 0.143
+      },
+      {
+        "text": "and",
+        "start": 120.09,
+        "end": 120.15,
+        "score": 0.0
+      },
+      {
+        "text": "terrified",
+        "start": 120.15,
+        "end": 120.45,
+        "score": 0.332
+      }
+    ],
+    "18": [
+      {
+        "text": "May",
+        "start": 120.47,
+        "end": 120.57,
+        "score": 0.481
+      },
+      {
+        "text": "they",
+        "start": 120.67,
+        "end": 120.81,
+        "score": 0.498
+      },
+      {
+        "text": "know",
+        "start": 121.49,
+        "end": 121.61,
+        "score": 0.0
+      },
+      {
+        "text": "that",
+        "start": 121.65,
+        "end": 121.89,
+        "score": 0.0
+      },
+      {
+        "text": "You",
+        "start": 121.91,
+        "end": 121.95,
+        "score": 0.0
+      },
+      {
+        "text": "alone",
+        "start": 121.95,
+        "end": 122.11,
+        "score": 0.0
+      }
+    ]
+  }
+}

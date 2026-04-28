@@ -1,0 +1,4414 @@
+{
+  "book": "1KI",
+  "chapter": "006",
+  "verses": {
+    "1": [
+      {
+        "text": "In",
+        "start": 4.98,
+        "end": 5.0,
+        "score": 0.993
+      },
+      {
+        "text": "the",
+        "start": 5.02,
+        "end": 5.1,
+        "score": 0.921
+      },
+      {
+        "text": "four",
+        "start": 5.16,
+        "end": 5.34,
+        "score": 0.171
+      },
+      {
+        "text": "hundred",
+        "start": 5.4,
+        "end": 5.7,
+        "score": 0.023
+      },
+      {
+        "text": "and",
+        "start": 5.76,
+        "end": 5.86,
+        "score": 0.342
+      },
+      {
+        "text": "eightieth",
+        "start": 6.0,
+        "end": 6.38,
+        "score": 0.25
+      }
+    ],
+    "2": [
+      {
+        "text": "The",
+        "start": 6.46,
+        "end": 6.58,
+        "score": 0.499
+      },
+      {
+        "text": "house",
+        "start": 6.68,
+        "end": 7.16,
+        "score": 0.162
+      },
+      {
+        "text": "that",
+        "start": 7.24,
+        "end": 7.82,
+        "score": 0.661
+      },
+      {
+        "text": "King",
+        "start": 7.96,
+        "end": 8.1,
+        "score": 0.333
+      },
+      {
+        "text": "Solomon",
+        "start": 8.18,
+        "end": 8.8,
+        "score": 0.5
+      },
+      {
+        "text": "built",
+        "start": 8.8,
+        "end": 8.9,
+        "score": 0.4
+      },
+      {
+        "text": "for",
+        "start": 8.92,
+        "end": 9.02,
+        "score": 0.332
+      },
+      {
+        "text": "the",
+        "start": 9.06,
+        "end": 9.14,
+        "score": 0.995
+      },
+      {
+        "text": "LORD",
+        "start": 9.14,
+        "end": 23.48,
+        "score": 1.0
+      },
+      {
+        "text": "was",
+        "start": 23.48,
+        "end": 23.68,
+        "score": 0.997
+      },
+      {
+        "text": "sixty",
+        "start": 23.78,
+        "end": 24.12,
+        "score": 0.744
+      },
+      {
+        "text": "cubits",
+        "start": 24.2,
+        "end": 24.6,
+        "score": 0.835
+      },
+      {
+        "text": "long",
+        "start": 24.68,
+        "end": 25.0,
+        "score": 0.95
+      },
+      {
+        "text": "twenty",
+        "start": 25.36,
+        "end": 25.66,
+        "score": 0.968
+      },
+      {
+        "text": "cubits",
+        "start": 25.76,
+        "end": 26.14,
+        "score": 0.82
+      },
+      {
+        "text": "wide",
+        "start": 26.2,
+        "end": 26.62,
+        "score": 0.965
+      },
+      {
+        "text": "and",
+        "start": 27.0,
+        "end": 27.16,
+        "score": 0.997
+      },
+      {
+        "text": "thirty",
+        "start": 27.3,
+        "end": 27.56,
+        "score": 0.902
+      },
+      {
+        "text": "cubits",
+        "start": 27.66,
+        "end": 28.08,
+        "score": 0.834
+      },
+      {
+        "text": "high",
+        "start": 28.16,
+        "end": 28.58,
+        "score": 0.923
+      }
+    ],
+    "3": [
+      {
+        "text": "The",
+        "start": 29.38,
+        "end": 29.46,
+        "score": 0.994
+      },
+      {
+        "text": "portico",
+        "start": 29.52,
+        "end": 29.96,
+        "score": 0.968
+      },
+      {
+        "text": "at",
+        "start": 30.14,
+        "end": 30.22,
+        "score": 0.996
+      },
+      {
+        "text": "the",
+        "start": 30.24,
+        "end": 30.32,
+        "score": 0.987
+      },
+      {
+        "text": "front",
+        "start": 30.38,
+        "end": 30.62,
+        "score": 0.989
+      },
+      {
+        "text": "of",
+        "start": 30.66,
+        "end": 30.72,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 30.74,
+        "end": 30.84,
+        "score": 0.94
+      },
+      {
+        "text": "main",
+        "start": 30.86,
+        "end": 31.08,
+        "score": 0.892
+      },
+      {
+        "text": "hall",
+        "start": 31.16,
+        "end": 31.4,
+        "score": 0.925
+      },
+      {
+        "text": "of",
+        "start": 31.44,
+        "end": 31.52,
+        "score": 0.986
+      },
+      {
+        "text": "the",
+        "start": 31.54,
+        "end": 31.64,
+        "score": 0.996
+      },
+      {
+        "text": "temple",
+        "start": 31.68,
+        "end": 32.02,
+        "score": 1.0
+      },
+      {
+        "text": "was",
+        "start": 32.48,
+        "end": 35.46,
+        "score": 0.998
+      },
+      {
+        "text": "twenty",
+        "start": 35.6,
+        "end": 38.34,
+        "score": 0.829
+      },
+      {
+        "text": "cubits",
+        "start": 38.64,
+        "end": 39.1,
+        "score": 0.839
+      }
+    ],
+    "4": [
+      {
+        "text": "He",
+        "start": 39.98,
+        "end": 40.0,
+        "score": 0.999
+      },
+      {
+        "text": "also",
+        "start": 41.34,
+        "end": 41.62,
+        "score": 0.999
+      },
+      {
+        "text": "had",
+        "start": 41.78,
+        "end": 42.0,
+        "score": 0.999
+      },
+      {
+        "text": "narrow",
+        "start": 42.12,
+        "end": 42.42,
+        "score": 0.78
+      },
+      {
+        "text": "windows",
+        "start": 42.54,
+        "end": 43.04,
+        "score": 0.95
+      },
+      {
+        "text": "framed",
+        "start": 43.14,
+        "end": 43.5,
+        "score": 0.999
+      },
+      {
+        "text": "high",
+        "start": 43.58,
+        "end": 43.98,
+        "score": 0.892
+      },
+      {
+        "text": "in",
+        "start": 44.16,
+        "end": 44.22,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 44.26,
+        "end": 44.34,
+        "score": 0.914
+      },
+      {
+        "text": "temple",
+        "start": 44.4,
+        "end": 44.78,
+        "score": 0.998
+      }
+    ],
+    "5": [
+      {
+        "text": "Against",
+        "start": 46.18,
+        "end": 46.44,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 46.48,
+        "end": 46.58,
+        "score": 0.991
+      },
+      {
+        "text": "walls",
+        "start": 46.64,
+        "end": 47.0,
+        "score": 0.948
+      },
+      {
+        "text": "of",
+        "start": 47.06,
+        "end": 47.12,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 47.16,
+        "end": 47.24,
+        "score": 0.994
+      },
+      {
+        "text": "temple",
+        "start": 47.3,
+        "end": 47.66,
+        "score": 0.993
+      },
+      {
+        "text": "and",
+        "start": 47.76,
+        "end": 47.86,
+        "score": 0.981
+      },
+      {
+        "text": "the",
+        "start": 47.9,
+        "end": 47.98,
+        "score": 0.993
+      },
+      {
+        "text": "inner",
+        "start": 48.1,
+        "end": 48.26,
+        "score": 0.984
+      },
+      {
+        "text": "sanctuary",
+        "start": 48.34,
+        "end": 48.94,
+        "score": 0.998
+      },
+      {
+        "text": "Solomon",
+        "start": 49.62,
+        "end": 49.94,
+        "score": 0.994
+      },
+      {
+        "text": "built",
+        "start": 50.0,
+        "end": 50.26,
+        "score": 0.975
+      },
+      {
+        "text": "a",
+        "start": 50.42,
+        "end": 50.44,
+        "score": 0.998
+      },
+      {
+        "text": "chambered",
+        "start": 50.56,
+        "end": 50.98,
+        "score": 0.902
+      },
+      {
+        "text": "structure",
+        "start": 51.06,
+        "end": 51.6,
+        "score": 0.993
+      },
+      {
+        "text": "around",
+        "start": 51.72,
+        "end": 52.12,
+        "score": 0.983
+      },
+      {
+        "text": "the",
+        "start": 52.2,
+        "end": 52.28,
+        "score": 0.997
+      },
+      {
+        "text": "temple",
+        "start": 52.34,
+        "end": 52.72,
+        "score": 0.989
+      },
+      {
+        "text": "in",
+        "start": 53.32,
+        "end": 53.4,
+        "score": 0.893
+      },
+      {
+        "text": "which",
+        "start": 53.46,
+        "end": 53.66,
+        "score": 0.997
+      },
+      {
+        "text": "he",
+        "start": 53.68,
+        "end": 53.74,
+        "score": 0.997
+      },
+      {
+        "text": "constructed",
+        "start": 53.8,
+        "end": 54.4,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 54.5,
+        "end": 54.6,
+        "score": 0.978
+      },
+      {
+        "text": "side",
+        "start": 54.7,
+        "end": 55.02,
+        "score": 0.989
+      },
+      {
+        "text": "rooms",
+        "start": 55.08,
+        "end": 55.52,
+        "score": 0.985
+      }
+    ],
+    "6": [
+      {
+        "text": "The",
+        "start": 56.32,
+        "end": 56.4,
+        "score": 0.832
+      },
+      {
+        "text": "bottom",
+        "start": 56.44,
+        "end": 56.76,
+        "score": 0.986
+      },
+      {
+        "text": "floor",
+        "start": 56.86,
+        "end": 57.12,
+        "score": 0.958
+      },
+      {
+        "text": "was",
+        "start": 57.26,
+        "end": 57.48,
+        "score": 0.997
+      },
+      {
+        "text": "five",
+        "start": 57.56,
+        "end": 57.88,
+        "score": 0.94
+      },
+      {
+        "text": "cubits",
+        "start": 57.92,
+        "end": 58.3,
+        "score": 0.831
+      },
+      {
+        "text": "wide",
+        "start": 58.38,
+        "end": 68.1,
+        "score": 0.999
+      }
+    ],
+    "7": [
+      {
+        "text": "The",
+        "start": 69.38,
+        "end": 70.22,
+        "score": 0.968
+      },
+      {
+        "text": "temple",
+        "start": 70.32,
+        "end": 73.48,
+        "score": 0.999
+      },
+      {
+        "text": "was",
+        "start": 73.54,
+        "end": 73.68,
+        "score": 0.997
+      },
+      {
+        "text": "constructed",
+        "start": 73.72,
+        "end": 74.38,
+        "score": 0.979
+      },
+      {
+        "text": "using",
+        "start": 74.5,
+        "end": 74.8,
+        "score": 0.979
+      },
+      {
+        "text": "finished",
+        "start": 74.88,
+        "end": 75.3,
+        "score": 0.996
+      },
+      {
+        "text": "stones",
+        "start": 75.38,
+        "end": 75.82,
+        "score": 0.988
+      },
+      {
+        "text": "cut",
+        "start": 75.9,
+        "end": 76.12,
+        "score": 0.99
+      },
+      {
+        "text": "at",
+        "start": 76.24,
+        "end": 76.32,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 76.34,
+        "end": 76.42,
+        "score": 0.967
+      },
+      {
+        "text": "quarry",
+        "start": 76.46,
+        "end": 76.84,
+        "score": 0.712
+      },
+      {
+        "text": "so",
+        "start": 77.42,
+        "end": 77.5,
+        "score": 1.0
+      },
+      {
+        "text": "that",
+        "start": 77.56,
+        "end": 77.7,
+        "score": 0.954
+      },
+      {
+        "text": "no",
+        "start": 77.78,
+        "end": 77.88,
+        "score": 0.999
+      },
+      {
+        "text": "hammer",
+        "start": 78.08,
+        "end": 78.44,
+        "score": 0.901
+      },
+      {
+        "text": "or",
+        "start": 78.6,
+        "end": 78.68,
+        "score": 0.999
+      },
+      {
+        "text": "chisel",
+        "start": 78.76,
+        "end": 79.12,
+        "score": 0.798
+      },
+      {
+        "text": "or",
+        "start": 79.48,
+        "end": 79.58,
+        "score": 0.999
+      },
+      {
+        "text": "any",
+        "start": 79.7,
+        "end": 79.84,
+        "score": 1.0
+      },
+      {
+        "text": "other",
+        "start": 80.02,
+        "end": 80.24,
+        "score": 0.999
+      },
+      {
+        "text": "iron",
+        "start": 80.52,
+        "end": 80.7,
+        "score": 0.672
+      },
+      {
+        "text": "tool",
+        "start": 80.8,
+        "end": 81.1,
+        "score": 0.952
+      },
+      {
+        "text": "was",
+        "start": 81.5,
+        "end": 81.66,
+        "score": 0.999
+      },
+      {
+        "text": "heard",
+        "start": 81.74,
+        "end": 82.06,
+        "score": 0.96
+      },
+      {
+        "text": "in",
+        "start": 82.18,
+        "end": 82.26,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 82.28,
+        "end": 82.36,
+        "score": 0.989
+      },
+      {
+        "text": "temple",
+        "start": 82.42,
+        "end": 82.82,
+        "score": 0.999
+      },
+      {
+        "text": "while",
+        "start": 82.92,
+        "end": 83.22,
+        "score": 0.965
+      },
+      {
+        "text": "it",
+        "start": 83.26,
+        "end": 83.34,
+        "score": 0.998
+      },
+      {
+        "text": "was",
+        "start": 83.36,
+        "end": 83.48,
+        "score": 0.998
+      },
+      {
+        "text": "being",
+        "start": 83.54,
+        "end": 83.8,
+        "score": 0.953
+      },
+      {
+        "text": "built",
+        "start": 83.86,
+        "end": 84.2,
+        "score": 0.963
+      }
+    ],
+    "8": [
+      {
+        "text": "The",
+        "start": 85.74,
+        "end": 85.82,
+        "score": 0.993
+      },
+      {
+        "text": "entrance",
+        "start": 85.9,
+        "end": 86.28,
+        "score": 0.995
+      },
+      {
+        "text": "to",
+        "start": 86.3,
+        "end": 86.38,
+        "score": 0.995
+      },
+      {
+        "text": "the",
+        "start": 86.44,
+        "end": 86.52,
+        "score": 0.994
+      },
+      {
+        "text": "bottom",
+        "start": 86.58,
+        "end": 91.6,
+        "score": 0.973
+      }
+    ],
+    "9": [
+      {
+        "text": "So",
+        "start": 92.82,
+        "end": 92.84,
+        "score": 1.0
+      },
+      {
+        "text": "Solomon",
+        "start": 95.94,
+        "end": 96.26,
+        "score": 0.996
+      },
+      {
+        "text": "built",
+        "start": 96.32,
+        "end": 96.54,
+        "score": 0.945
+      },
+      {
+        "text": "the",
+        "start": 96.6,
+        "end": 96.68,
+        "score": 0.996
+      },
+      {
+        "text": "temple",
+        "start": 96.74,
+        "end": 97.1,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 97.24,
+        "end": 97.34,
+        "score": 0.998
+      },
+      {
+        "text": "finished",
+        "start": 97.42,
+        "end": 97.82,
+        "score": 0.999
+      },
+      {
+        "text": "it",
+        "start": 97.86,
+        "end": 97.98,
+        "score": 0.998
+      },
+      {
+        "text": "roofing",
+        "start": 98.48,
+        "end": 98.84,
+        "score": 0.823
+      },
+      {
+        "text": "it",
+        "start": 98.88,
+        "end": 98.98,
+        "score": 0.998
+      },
+      {
+        "text": "with",
+        "start": 99.12,
+        "end": 99.3,
+        "score": 0.998
+      },
+      {
+        "text": "beams",
+        "start": 99.42,
+        "end": 99.8,
+        "score": 0.965
+      },
+      {
+        "text": "and",
+        "start": 99.9,
+        "end": 100.02,
+        "score": 0.99
+      },
+      {
+        "text": "planks",
+        "start": 100.06,
+        "end": 100.44,
+        "score": 0.997
+      },
+      {
+        "text": "of",
+        "start": 100.5,
+        "end": 100.56,
+        "score": 0.997
+      },
+      {
+        "text": "cedar",
+        "start": 100.66,
+        "end": 101.0,
+        "score": 0.651
+      }
+    ],
+    "10": [
+      {
+        "text": "He",
+        "start": 101.9,
+        "end": 101.92,
+        "score": 0.999
+      },
+      {
+        "text": "built",
+        "start": 102.02,
+        "end": 102.26,
+        "score": 0.965
+      },
+      {
+        "text": "chambers",
+        "start": 102.42,
+        "end": 102.94,
+        "score": 0.996
+      },
+      {
+        "text": "all",
+        "start": 103.14,
+        "end": 103.28,
+        "score": 0.99
+      },
+      {
+        "text": "along",
+        "start": 103.34,
+        "end": 103.68,
+        "score": 0.962
+      },
+      {
+        "text": "the",
+        "start": 103.74,
+        "end": 103.82,
+        "score": 0.995
+      },
+      {
+        "text": "temple",
+        "start": 103.9,
+        "end": 104.3,
+        "score": 0.997
+      },
+      {
+        "text": "each",
+        "start": 104.88,
+        "end": 105.12,
+        "score": 0.981
+      },
+      {
+        "text": "five",
+        "start": 105.32,
+        "end": 105.66,
+        "score": 0.978
+      },
+      {
+        "text": "cubits",
+        "start": 105.72,
+        "end": 106.12,
+        "score": 0.835
+      },
+      {
+        "text": "high",
+        "start": 106.18,
+        "end": 106.56,
+        "score": 0.959
+      },
+      {
+        "text": "and",
+        "start": 106.92,
+        "end": 107.02,
+        "score": 0.998
+      },
+      {
+        "text": "attached",
+        "start": 107.06,
+        "end": 107.58,
+        "score": 0.987
+      },
+      {
+        "text": "to",
+        "start": 107.68,
+        "end": 107.76,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 107.84,
+        "end": 107.92,
+        "score": 0.992
+      },
+      {
+        "text": "temple",
+        "start": 107.98,
+        "end": 108.34,
+        "score": 0.996
+      },
+      {
+        "text": "with",
+        "start": 108.62,
+        "end": 108.8,
+        "score": 0.997
+      },
+      {
+        "text": "beams",
+        "start": 108.9,
+        "end": 109.24,
+        "score": 0.969
+      },
+      {
+        "text": "of",
+        "start": 109.28,
+        "end": 109.36,
+        "score": 0.998
+      },
+      {
+        "text": "cedar",
+        "start": 109.48,
+        "end": 109.82,
+        "score": 0.636
+      }
+    ],
+    "11": [
+      {
+        "text": "Then",
+        "start": 111.02,
+        "end": 111.16,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 111.24,
+        "end": 111.34,
+        "score": 0.991
+      },
+      {
+        "text": "word",
+        "start": 111.42,
+        "end": 111.64,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 111.68,
+        "end": 111.74,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 111.76,
+        "end": 111.84,
+        "score": 0.997
+      },
+      {
+        "text": "LORD",
+        "start": 111.84,
+        "end": 112.32,
+        "score": 1.0
+      },
+      {
+        "text": "came",
+        "start": 112.32,
+        "end": 112.62,
+        "score": 0.996
+      },
+      {
+        "text": "to",
+        "start": 112.68,
+        "end": 112.74,
+        "score": 0.998
+      },
+      {
+        "text": "Solomon",
+        "start": 112.96,
+        "end": 113.34,
+        "score": 0.997
+      },
+      {
+        "text": "saying",
+        "start": 113.86,
+        "end": 114.2,
+        "score": 0.974
+      }
+    ],
+    "12": [
+      {
+        "text": "As",
+        "start": 114.86,
+        "end": 114.88,
+        "score": 0.998
+      },
+      {
+        "text": "for",
+        "start": 114.96,
+        "end": 115.1,
+        "score": 0.999
+      },
+      {
+        "text": "this",
+        "start": 115.16,
+        "end": 115.32,
+        "score": 0.998
+      },
+      {
+        "text": "temple",
+        "start": 115.4,
+        "end": 115.76,
+        "score": 0.999
+      },
+      {
+        "text": "you",
+        "start": 115.8,
+        "end": 115.92,
+        "score": 0.961
+      },
+      {
+        "text": "are",
+        "start": 115.98,
+        "end": 116.1,
+        "score": 0.916
+      },
+      {
+        "text": "building",
+        "start": 116.12,
+        "end": 116.54,
+        "score": 0.968
+      },
+      {
+        "text": "if",
+        "start": 117.02,
+        "end": 117.12,
+        "score": 1.0
+      },
+      {
+        "text": "you",
+        "start": 117.22,
+        "end": 117.34,
+        "score": 0.999
+      },
+      {
+        "text": "walk",
+        "start": 117.44,
+        "end": 117.74,
+        "score": 0.999
+      },
+      {
+        "text": "in",
+        "start": 117.82,
+        "end": 117.9,
+        "score": 0.998
+      },
+      {
+        "text": "My",
+        "start": 118.1,
+        "end": 118.12,
+        "score": 1.0
+      },
+      {
+        "text": "statutes",
+        "start": 118.2,
+        "end": 118.8,
+        "score": 0.941
+      },
+      {
+        "text": "carry",
+        "start": 119.16,
+        "end": 119.44,
+        "score": 0.962
+      },
+      {
+        "text": "out",
+        "start": 119.56,
+        "end": 119.7,
+        "score": 0.999
+      },
+      {
+        "text": "My",
+        "start": 119.92,
+        "end": 119.94,
+        "score": 1.0
+      },
+      {
+        "text": "ordinances",
+        "start": 120.1,
+        "end": 120.7,
+        "score": 0.992
+      },
+      {
+        "text": "and",
+        "start": 121.04,
+        "end": 121.16,
+        "score": 0.939
+      },
+      {
+        "text": "keep",
+        "start": 121.2,
+        "end": 121.42,
+        "score": 0.967
+      },
+      {
+        "text": "all",
+        "start": 121.6,
+        "end": 121.74,
+        "score": 0.98
+      },
+      {
+        "text": "My",
+        "start": 121.96,
+        "end": 121.98,
+        "score": 1.0
+      },
+      {
+        "text": "commandments",
+        "start": 122.04,
+        "end": 122.68,
+        "score": 0.983
+      },
+      {
+        "text": "by",
+        "start": 122.74,
+        "end": 122.9,
+        "score": 1.0
+      },
+      {
+        "text": "walking",
+        "start": 123.04,
+        "end": 123.46,
+        "score": 0.967
+      },
+      {
+        "text": "in",
+        "start": 123.58,
+        "end": 123.66,
+        "score": 0.999
+      },
+      {
+        "text": "them",
+        "start": 123.7,
+        "end": 123.92,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 123.92,
+        "end": 124.7,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 124.7,
+        "end": 124.88,
+        "score": 0.99
+      },
+      {
+        "text": "fulfill",
+        "start": 124.94,
+        "end": 125.4,
+        "score": 0.998
+      },
+      {
+        "text": "through",
+        "start": 125.5,
+        "end": 125.8,
+        "score": 0.943
+      },
+      {
+        "text": "you",
+        "start": 125.86,
+        "end": 126.04,
+        "score": 0.992
+      },
+      {
+        "text": "the",
+        "start": 126.44,
+        "end": 126.52,
+        "score": 0.976
+      },
+      {
+        "text": "promise",
+        "start": 126.6,
+        "end": 127.04,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 127.04,
+        "end": 127.44,
+        "score": 1.0
+      },
+      {
+        "text": "made",
+        "start": 127.44,
+        "end": 127.7,
+        "score": 0.968
+      },
+      {
+        "text": "to",
+        "start": 127.74,
+        "end": 127.8,
+        "score": 0.998
+      },
+      {
+        "text": "your",
+        "start": 127.88,
+        "end": 128.04,
+        "score": 0.985
+      },
+      {
+        "text": "father",
+        "start": 128.1,
+        "end": 128.42,
+        "score": 0.986
+      },
+      {
+        "text": "David",
+        "start": 128.56,
+        "end": 128.84,
+        "score": 0.997
+      }
+    ],
+    "13": [
+      {
+        "text": "And",
+        "start": 129.68,
+        "end": 129.74,
+        "score": 0.999
+      },
+      {
+        "text": "I",
+        "start": 129.74,
+        "end": 130.06,
+        "score": 1.0
+      },
+      {
+        "text": "will",
+        "start": 130.06,
+        "end": 130.24,
+        "score": 0.995
+      },
+      {
+        "text": "dwell",
+        "start": 130.32,
+        "end": 130.68,
+        "score": 0.991
+      },
+      {
+        "text": "among",
+        "start": 130.84,
+        "end": 131.08,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 131.12,
+        "end": 131.22,
+        "score": 0.992
+      },
+      {
+        "text": "Israelites",
+        "start": 131.42,
+        "end": 132.04,
+        "score": 0.991
+      },
+      {
+        "text": "and",
+        "start": 132.34,
+        "end": 132.44,
+        "score": 0.994
+      },
+      {
+        "text": "will",
+        "start": 132.5,
+        "end": 132.66,
+        "score": 0.958
+      },
+      {
+        "text": "not",
+        "start": 132.74,
+        "end": 132.94,
+        "score": 0.961
+      },
+      {
+        "text": "abandon",
+        "start": 133.06,
+        "end": 133.54,
+        "score": 1.0
+      },
+      {
+        "text": "My",
+        "start": 133.86,
+        "end": 133.88,
+        "score": 1.0
+      },
+      {
+        "text": "people",
+        "start": 133.98,
+        "end": 134.36,
+        "score": 0.997
+      },
+      {
+        "text": "Israel",
+        "start": 134.62,
+        "end": 134.96,
+        "score": 0.998
+      }
+    ],
+    "14": [
+      {
+        "text": "So",
+        "start": 136.44,
+        "end": 136.46,
+        "score": 0.999
+      },
+      {
+        "text": "Solomon",
+        "start": 136.72,
+        "end": 137.06,
+        "score": 0.997
+      },
+      {
+        "text": "built",
+        "start": 137.18,
+        "end": 137.42,
+        "score": 0.982
+      },
+      {
+        "text": "the",
+        "start": 137.54,
+        "end": 137.62,
+        "score": 0.979
+      },
+      {
+        "text": "temple",
+        "start": 137.68,
+        "end": 138.06,
+        "score": 0.971
+      },
+      {
+        "text": "and",
+        "start": 138.2,
+        "end": 138.32,
+        "score": 0.939
+      },
+      {
+        "text": "finished",
+        "start": 138.38,
+        "end": 138.78,
+        "score": 0.978
+      },
+      {
+        "text": "it",
+        "start": 138.82,
+        "end": 138.92,
+        "score": 0.998
+      }
+    ],
+    "15": [
+      {
+        "text": "He",
+        "start": 139.76,
+        "end": 139.78,
+        "score": 0.999
+      },
+      {
+        "text": "lined",
+        "start": 139.9,
+        "end": 140.24,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 140.28,
+        "end": 140.38,
+        "score": 0.94
+      },
+      {
+        "text": "interior",
+        "start": 140.44,
+        "end": 141.0,
+        "score": 0.997
+      },
+      {
+        "text": "walls",
+        "start": 141.08,
+        "end": 141.48,
+        "score": 0.922
+      },
+      {
+        "text": "with",
+        "start": 141.56,
+        "end": 141.72,
+        "score": 0.983
+      },
+      {
+        "text": "cedar",
+        "start": 141.8,
+        "end": 142.1,
+        "score": 0.695
+      },
+      {
+        "text": "paneling",
+        "start": 142.16,
+        "end": 142.68,
+        "score": 0.896
+      },
+      {
+        "text": "from",
+        "start": 143.02,
+        "end": 143.18,
+        "score": 0.95
+      },
+      {
+        "text": "the",
+        "start": 143.22,
+        "end": 143.3,
+        "score": 0.938
+      },
+      {
+        "text": "floor",
+        "start": 143.38,
+        "end": 143.66,
+        "score": 0.897
+      },
+      {
+        "text": "of",
+        "start": 143.72,
+        "end": 143.78,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 143.82,
+        "end": 143.92,
+        "score": 0.993
+      },
+      {
+        "text": "temple",
+        "start": 143.98,
+        "end": 144.34,
+        "score": 0.99
+      },
+      {
+        "text": "to",
+        "start": 144.46,
+        "end": 144.56,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 144.62,
+        "end": 144.7,
+        "score": 0.994
+      },
+      {
+        "text": "ceiling",
+        "start": 144.8,
+        "end": 145.2,
+        "score": 0.711
+      },
+      {
+        "text": "and",
+        "start": 145.92,
+        "end": 146.04,
+        "score": 0.959
+      },
+      {
+        "text": "he",
+        "start": 146.06,
+        "end": 146.12,
+        "score": 0.935
+      },
+      {
+        "text": "covered",
+        "start": 146.2,
+        "end": 146.5,
+        "score": 0.987
+      },
+      {
+        "text": "the",
+        "start": 146.54,
+        "end": 146.62,
+        "score": 0.991
+      },
+      {
+        "text": "floor",
+        "start": 146.68,
+        "end": 147.02,
+        "score": 0.84
+      },
+      {
+        "text": "with",
+        "start": 147.24,
+        "end": 147.42,
+        "score": 0.993
+      },
+      {
+        "text": "cypress",
+        "start": 147.5,
+        "end": 148.58,
+        "score": 0.83
+      }
+    ],
+    "16": [
+      {
+        "text": "He",
+        "start": 149.6,
+        "end": 149.62,
+        "score": 0.998
+      },
+      {
+        "text": "partitioned",
+        "start": 149.68,
+        "end": 150.22,
+        "score": 0.939
+      },
+      {
+        "text": "off",
+        "start": 150.36,
+        "end": 150.58,
+        "score": 0.932
+      },
+      {
+        "text": "the",
+        "start": 150.68,
+        "end": 150.76,
+        "score": 0.941
+      },
+      {
+        "text": "twenty",
+        "start": 150.84,
+        "end": 151.16,
+        "score": 0.978
+      },
+      {
+        "text": "cubits",
+        "start": 151.28,
+        "end": 151.72,
+        "score": 0.834
+      },
+      {
+        "text": "at",
+        "start": 151.8,
+        "end": 151.88,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 151.92,
+        "end": 152.0,
+        "score": 0.956
+      },
+      {
+        "text": "rear",
+        "start": 152.08,
+        "end": 152.3,
+        "score": 0.927
+      },
+      {
+        "text": "of",
+        "start": 152.34,
+        "end": 152.42,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 152.44,
+        "end": 152.54,
+        "score": 0.942
+      },
+      {
+        "text": "temple",
+        "start": 152.58,
+        "end": 152.94,
+        "score": 1.0
+      },
+      {
+        "text": "with",
+        "start": 153.26,
+        "end": 153.42,
+        "score": 0.988
+      },
+      {
+        "text": "cedar",
+        "start": 153.52,
+        "end": 153.82,
+        "score": 0.639
+      },
+      {
+        "text": "boards",
+        "start": 153.92,
+        "end": 154.36,
+        "score": 0.902
+      },
+      {
+        "text": "from",
+        "start": 154.46,
+        "end": 154.64,
+        "score": 0.997
+      },
+      {
+        "text": "floor",
+        "start": 154.74,
+        "end": 155.02,
+        "score": 0.802
+      },
+      {
+        "text": "to",
+        "start": 155.1,
+        "end": 155.2,
+        "score": 0.995
+      },
+      {
+        "text": "ceiling",
+        "start": 155.32,
+        "end": 155.74,
+        "score": 0.717
+      },
+      {
+        "text": "to",
+        "start": 156.18,
+        "end": 156.26,
+        "score": 0.999
+      },
+      {
+        "text": "form",
+        "start": 156.38,
+        "end": 156.7,
+        "score": 0.951
+      },
+      {
+        "text": "within",
+        "start": 156.8,
+        "end": 157.14,
+        "score": 0.996
+      },
+      {
+        "text": "the",
+        "start": 157.16,
+        "end": 157.26,
+        "score": 0.98
+      },
+      {
+        "text": "temple",
+        "start": 157.3,
+        "end": 157.66,
+        "score": 0.991
+      },
+      {
+        "text": "an",
+        "start": 157.96,
+        "end": 158.04,
+        "score": 0.997
+      },
+      {
+        "text": "inner",
+        "start": 158.2,
+        "end": 158.4,
+        "score": 0.984
+      },
+      {
+        "text": "sanctuary",
+        "start": 158.54,
+        "end": 159.2,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 159.58,
+        "end": 159.68,
+        "score": 0.944
+      },
+      {
+        "text": "Most",
+        "start": 159.8,
+        "end": 160.06,
+        "score": 0.975
+      },
+      {
+        "text": "Holy",
+        "start": 160.2,
+        "end": 160.4,
+        "score": 1.0
+      },
+      {
+        "text": "Place",
+        "start": 160.56,
+        "end": 160.96,
+        "score": 0.995
+      }
+    ],
+    "17": [
+      {
+        "text": "And",
+        "start": 161.9,
+        "end": 161.96,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 161.98,
+        "end": 162.06,
+        "score": 0.998
+      },
+      {
+        "text": "main",
+        "start": 162.12,
+        "end": 162.36,
+        "score": 1.0
+      },
+      {
+        "text": "hall",
+        "start": 162.46,
+        "end": 162.78,
+        "score": 0.865
+      },
+      {
+        "text": "in",
+        "start": 162.96,
+        "end": 163.04,
+        "score": 1.0
+      },
+      {
+        "text": "front",
+        "start": 163.12,
+        "end": 163.32,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 163.36,
+        "end": 163.42,
+        "score": 1.0
+      },
+      {
+        "text": "this",
+        "start": 163.46,
+        "end": 163.64,
+        "score": 0.982
+      },
+      {
+        "text": "room",
+        "start": 163.74,
+        "end": 163.98,
+        "score": 0.937
+      },
+      {
+        "text": "was",
+        "start": 164.16,
+        "end": 164.36,
+        "score": 0.998
+      },
+      {
+        "text": "forty",
+        "start": 164.46,
+        "end": 164.72,
+        "score": 0.812
+      },
+      {
+        "text": "cubits",
+        "start": 164.82,
+        "end": 165.28,
+        "score": 0.834
+      },
+      {
+        "text": "long",
+        "start": 165.36,
+        "end": 165.72,
+        "score": 0.966
+      }
+    ],
+    "18": [
+      {
+        "text": "The",
+        "start": 166.9,
+        "end": 166.96,
+        "score": 0.998
+      },
+      {
+        "text": "cedar",
+        "start": 167.06,
+        "end": 167.36,
+        "score": 0.667
+      },
+      {
+        "text": "paneling",
+        "start": 167.44,
+        "end": 167.98,
+        "score": 0.943
+      },
+      {
+        "text": "inside",
+        "start": 168.12,
+        "end": 168.6,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 168.62,
+        "end": 168.7,
+        "score": 0.997
+      },
+      {
+        "text": "temple",
+        "start": 168.76,
+        "end": 169.1,
+        "score": 0.984
+      },
+      {
+        "text": "was",
+        "start": 169.44,
+        "end": 169.58,
+        "score": 0.999
+      },
+      {
+        "text": "carved",
+        "start": 169.66,
+        "end": 170.06,
+        "score": 0.974
+      },
+      {
+        "text": "with",
+        "start": 170.12,
+        "end": 170.28,
+        "score": 0.95
+      },
+      {
+        "text": "gourds",
+        "start": 170.38,
+        "end": 170.86,
+        "score": 0.831
+      },
+      {
+        "text": "and",
+        "start": 170.98,
+        "end": 171.1,
+        "score": 0.98
+      },
+      {
+        "text": "open",
+        "start": 171.18,
+        "end": 171.4,
+        "score": 0.999
+      },
+      {
+        "text": "flowers",
+        "start": 171.46,
+        "end": 172.06,
+        "score": 0.957
+      },
+      {
+        "text": "Everything",
+        "start": 172.8,
+        "end": 173.2,
+        "score": 0.935
+      },
+      {
+        "text": "was",
+        "start": 173.3,
+        "end": 173.46,
+        "score": 0.998
+      },
+      {
+        "text": "cedar",
+        "start": 173.54,
+        "end": 173.88,
+        "score": 0.633
+      },
+      {
+        "text": "not",
+        "start": 174.42,
+        "end": 174.6,
+        "score": 0.984
+      },
+      {
+        "text": "a",
+        "start": 174.64,
+        "end": 174.66,
+        "score": 0.997
+      },
+      {
+        "text": "stone",
+        "start": 174.8,
+        "end": 175.25,
+        "score": 0.999
+      },
+      {
+        "text": "could",
+        "start": 175.35,
+        "end": 175.51,
+        "score": 0.962
+      },
+      {
+        "text": "be",
+        "start": 175.55,
+        "end": 175.61,
+        "score": 0.999
+      },
+      {
+        "text": "seen",
+        "start": 175.75,
+        "end": 176.07,
+        "score": 0.99
+      }
+    ],
+    "19": [
+      {
+        "text": "Solomon",
+        "start": 177.35,
+        "end": 177.69,
+        "score": 0.997
+      },
+      {
+        "text": "also",
+        "start": 177.87,
+        "end": 178.15,
+        "score": 1.0
+      },
+      {
+        "text": "prepared",
+        "start": 178.27,
+        "end": 178.75,
+        "score": 0.977
+      },
+      {
+        "text": "the",
+        "start": 178.81,
+        "end": 178.91,
+        "score": 0.992
+      },
+      {
+        "text": "inner",
+        "start": 179.05,
+        "end": 179.25,
+        "score": 0.976
+      },
+      {
+        "text": "sanctuary",
+        "start": 179.33,
+        "end": 179.95,
+        "score": 0.976
+      },
+      {
+        "text": "within",
+        "start": 180.03,
+        "end": 180.31,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 180.35,
+        "end": 180.45,
+        "score": 0.989
+      },
+      {
+        "text": "temple",
+        "start": 180.49,
+        "end": 180.85,
+        "score": 1.0
+      },
+      {
+        "text": "to",
+        "start": 181.21,
+        "end": 181.29,
+        "score": 0.999
+      },
+      {
+        "text": "set",
+        "start": 181.41,
+        "end": 181.59,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 181.65,
+        "end": 181.73,
+        "score": 0.998
+      },
+      {
+        "text": "ark",
+        "start": 181.91,
+        "end": 182.11,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 182.15,
+        "end": 182.21,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 182.25,
+        "end": 182.33,
+        "score": 0.943
+      },
+      {
+        "text": "covenant",
+        "start": 182.39,
+        "end": 182.83,
+        "score": 0.874
+      },
+      {
+        "text": "of",
+        "start": 182.89,
+        "end": 182.95,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 182.99,
+        "end": 183.05,
+        "score": 0.829
+      },
+      {
+        "text": "LORD",
+        "start": 183.05,
+        "end": 183.47,
+        "score": 1.0
+      },
+      {
+        "text": "there",
+        "start": 183.47,
+        "end": 183.81,
+        "score": 0.933
+      }
+    ],
+    "20": [
+      {
+        "text": "The",
+        "start": 185.03,
+        "end": 185.11,
+        "score": 0.991
+      },
+      {
+        "text": "inner",
+        "start": 185.25,
+        "end": 185.45,
+        "score": 0.978
+      },
+      {
+        "text": "sanctuary",
+        "start": 185.55,
+        "end": 186.19,
+        "score": 0.998
+      },
+      {
+        "text": "was",
+        "start": 186.31,
+        "end": 186.49,
+        "score": 0.998
+      },
+      {
+        "text": "twenty",
+        "start": 186.57,
+        "end": 186.87,
+        "score": 0.937
+      },
+      {
+        "text": "cubits",
+        "start": 186.97,
+        "end": 187.35,
+        "score": 0.833
+      },
+      {
+        "text": "long",
+        "start": 187.43,
+        "end": 187.75,
+        "score": 0.51
+      },
+      {
+        "text": "twenty",
+        "start": 188.15,
+        "end": 188.43,
+        "score": 0.912
+      },
+      {
+        "text": "cubits",
+        "start": 188.53,
+        "end": 188.89,
+        "score": 0.833
+      },
+      {
+        "text": "wide",
+        "start": 188.95,
+        "end": 189.37,
+        "score": 0.977
+      },
+      {
+        "text": "and",
+        "start": 189.75,
+        "end": 189.87,
+        "score": 0.997
+      },
+      {
+        "text": "twenty",
+        "start": 189.97,
+        "end": 190.27,
+        "score": 0.98
+      },
+      {
+        "text": "cubits",
+        "start": 190.37,
+        "end": 190.77,
+        "score": 0.837
+      },
+      {
+        "text": "high",
+        "start": 190.83,
+        "end": 192.09,
+        "score": 0.943
+      },
+      {
+        "text": "He",
+        "start": 192.09,
+        "end": 192.11,
+        "score": 0.998
+      },
+      {
+        "text": "overlaid",
+        "start": 192.29,
+        "end": 192.81,
+        "score": 0.979
+      },
+      {
+        "text": "the",
+        "start": 192.85,
+        "end": 192.95,
+        "score": 0.994
+      },
+      {
+        "text": "inside",
+        "start": 193.11,
+        "end": 193.69,
+        "score": 0.999
+      },
+      {
+        "text": "with",
+        "start": 193.79,
+        "end": 193.95,
+        "score": 0.999
+      },
+      {
+        "text": "pure",
+        "start": 194.01,
+        "end": 194.31,
+        "score": 0.965
+      },
+      {
+        "text": "gold",
+        "start": 194.37,
+        "end": 194.81,
+        "score": 0.939
+      },
+      {
+        "text": "and",
+        "start": 195.25,
+        "end": 195.35,
+        "score": 0.999
+      },
+      {
+        "text": "he",
+        "start": 195.39,
+        "end": 195.43,
+        "score": 0.999
+      },
+      {
+        "text": "also",
+        "start": 195.61,
+        "end": 195.89,
+        "score": 1.0
+      },
+      {
+        "text": "overlaid",
+        "start": 196.11,
+        "end": 196.57,
+        "score": 0.971
+      },
+      {
+        "text": "the",
+        "start": 196.61,
+        "end": 196.69,
+        "score": 0.997
+      },
+      {
+        "text": "altar",
+        "start": 196.87,
+        "end": 197.19,
+        "score": 0.801
+      },
+      {
+        "text": "of",
+        "start": 197.33,
+        "end": 197.41,
+        "score": 0.999
+      },
+      {
+        "text": "cedar",
+        "start": 197.49,
+        "end": 197.83,
+        "score": 0.587
+      }
+    ],
+    "21": [
+      {
+        "text": "So",
+        "start": 199.07,
+        "end": 199.11,
+        "score": 0.947
+      },
+      {
+        "text": "Solomon",
+        "start": 199.35,
+        "end": 199.69,
+        "score": 0.996
+      },
+      {
+        "text": "overlaid",
+        "start": 199.83,
+        "end": 200.29,
+        "score": 0.981
+      },
+      {
+        "text": "the",
+        "start": 200.31,
+        "end": 200.41,
+        "score": 0.945
+      },
+      {
+        "text": "inside",
+        "start": 200.55,
+        "end": 201.03,
+        "score": 0.987
+      },
+      {
+        "text": "of",
+        "start": 201.03,
+        "end": 201.09,
+        "score": 0.982
+      },
+      {
+        "text": "the",
+        "start": 201.13,
+        "end": 201.21,
+        "score": 0.916
+      },
+      {
+        "text": "temple",
+        "start": 201.27,
+        "end": 201.63,
+        "score": 0.998
+      },
+      {
+        "text": "with",
+        "start": 201.69,
+        "end": 201.85,
+        "score": 0.997
+      },
+      {
+        "text": "pure",
+        "start": 201.89,
+        "end": 202.19,
+        "score": 0.962
+      },
+      {
+        "text": "gold",
+        "start": 202.25,
+        "end": 202.67,
+        "score": 0.998
+      },
+      {
+        "text": "and",
+        "start": 203.15,
+        "end": 203.25,
+        "score": 0.974
+      },
+      {
+        "text": "he",
+        "start": 203.29,
+        "end": 203.35,
+        "score": 0.999
+      },
+      {
+        "text": "extended",
+        "start": 203.43,
+        "end": 203.93,
+        "score": 0.999
+      },
+      {
+        "text": "gold",
+        "start": 204.01,
+        "end": 204.33,
+        "score": 0.969
+      },
+      {
+        "text": "chains",
+        "start": 204.43,
+        "end": 205.25,
+        "score": 0.938
+      }
+    ],
+    "22": [
+      {
+        "text": "So",
+        "start": 205.69,
+        "end": 205.71,
+        "score": 1.0
+      },
+      {
+        "text": "he",
+        "start": 207.73,
+        "end": 208.43,
+        "score": 0.998
+      },
+      {
+        "text": "overlaid",
+        "start": 210.61,
+        "end": 211.51,
+        "score": 0.992
+      },
+      {
+        "text": "with",
+        "start": 211.57,
+        "end": 211.73,
+        "score": 0.998
+      },
+      {
+        "text": "gold",
+        "start": 211.79,
+        "end": 212.11,
+        "score": 0.955
+      },
+      {
+        "text": "the",
+        "start": 212.41,
+        "end": 212.51,
+        "score": 0.989
+      },
+      {
+        "text": "whole",
+        "start": 212.61,
+        "end": 212.91,
+        "score": 0.995
+      },
+      {
+        "text": "interior",
+        "start": 213.07,
+        "end": 213.69,
+        "score": 0.992
+      },
+      {
+        "text": "of",
+        "start": 213.83,
+        "end": 213.91,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 213.95,
+        "end": 214.03,
+        "score": 0.994
+      },
+      {
+        "text": "temple",
+        "start": 214.09,
+        "end": 214.49,
+        "score": 0.963
+      },
+      {
+        "text": "until",
+        "start": 215.05,
+        "end": 215.37,
+        "score": 0.999
+      },
+      {
+        "text": "everything",
+        "start": 215.55,
+        "end": 216.07,
+        "score": 0.997
+      },
+      {
+        "text": "was",
+        "start": 216.41,
+        "end": 216.55,
+        "score": 0.998
+      },
+      {
+        "text": "completely",
+        "start": 216.61,
+        "end": 217.17,
+        "score": 0.984
+      },
+      {
+        "text": "finished",
+        "start": 217.27,
+        "end": 217.79,
+        "score": 0.998
+      },
+      {
+        "text": "He",
+        "start": 218.59,
+        "end": 218.61,
+        "score": 0.999
+      },
+      {
+        "text": "also",
+        "start": 218.81,
+        "end": 219.09,
+        "score": 0.999
+      },
+      {
+        "text": "overlaid",
+        "start": 219.31,
+        "end": 219.77,
+        "score": 0.993
+      },
+      {
+        "text": "with",
+        "start": 219.81,
+        "end": 219.99,
+        "score": 0.987
+      },
+      {
+        "text": "gold",
+        "start": 220.03,
+        "end": 220.39,
+        "score": 0.992
+      },
+      {
+        "text": "the",
+        "start": 220.53,
+        "end": 220.63,
+        "score": 0.993
+      },
+      {
+        "text": "entire",
+        "start": 220.69,
+        "end": 221.21,
+        "score": 0.941
+      },
+      {
+        "text": "altar",
+        "start": 221.35,
+        "end": 221.67,
+        "score": 0.801
+      },
+      {
+        "text": "that",
+        "start": 221.81,
+        "end": 221.95,
+        "score": 0.971
+      },
+      {
+        "text": "belonged",
+        "start": 221.99,
+        "end": 222.47,
+        "score": 0.981
+      },
+      {
+        "text": "to",
+        "start": 222.55,
+        "end": 222.63,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 222.69,
+        "end": 222.77,
+        "score": 0.974
+      },
+      {
+        "text": "inner",
+        "start": 222.87,
+        "end": 223.05,
+        "score": 0.98
+      },
+      {
+        "text": "sanctuary",
+        "start": 223.15,
+        "end": 223.79,
+        "score": 0.955
+      }
+    ],
+    "23": [
+      {
+        "text": "In",
+        "start": 225.17,
+        "end": 225.19,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 225.23,
+        "end": 225.33,
+        "score": 0.989
+      },
+      {
+        "text": "inner",
+        "start": 225.53,
+        "end": 225.71,
+        "score": 0.991
+      },
+      {
+        "text": "sanctuary",
+        "start": 225.81,
+        "end": 226.45,
+        "score": 0.973
+      },
+      {
+        "text": "he",
+        "start": 226.83,
+        "end": 226.91,
+        "score": 0.957
+      },
+      {
+        "text": "made",
+        "start": 227.01,
+        "end": 227.23,
+        "score": 0.998
+      },
+      {
+        "text": "two",
+        "start": 227.29,
+        "end": 227.45,
+        "score": 0.995
+      },
+      {
+        "text": "cherubim",
+        "start": 227.51,
+        "end": 228.01,
+        "score": 0.745
+      },
+      {
+        "text": "each",
+        "start": 228.65,
+        "end": 228.89,
+        "score": 0.989
+      },
+      {
+        "text": "ten",
+        "start": 229.09,
+        "end": 229.29,
+        "score": 0.964
+      },
+      {
+        "text": "cubits",
+        "start": 229.39,
+        "end": 229.77,
+        "score": 0.833
+      },
+      {
+        "text": "high",
+        "start": 229.83,
+        "end": 230.23,
+        "score": 0.945
+      },
+      {
+        "text": "out",
+        "start": 230.55,
+        "end": 230.67,
+        "score": 0.995
+      },
+      {
+        "text": "of",
+        "start": 230.71,
+        "end": 230.81,
+        "score": 0.987
+      },
+      {
+        "text": "olive",
+        "start": 230.93,
+        "end": 231.23,
+        "score": 0.97
+      },
+      {
+        "text": "wood",
+        "start": 231.27,
+        "end": 231.53,
+        "score": 0.999
+      }
+    ],
+    "24": [
+      {
+        "text": "One",
+        "start": 232.49,
+        "end": 232.55,
+        "score": 0.998
+      },
+      {
+        "text": "wing",
+        "start": 232.63,
+        "end": 232.89,
+        "score": 0.987
+      },
+      {
+        "text": "of",
+        "start": 233.05,
+        "end": 233.13,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 233.17,
+        "end": 233.25,
+        "score": 0.99
+      },
+      {
+        "text": "first",
+        "start": 233.31,
+        "end": 233.57,
+        "score": 0.932
+      },
+      {
+        "text": "cherub",
+        "start": 233.59,
+        "end": 233.93,
+        "score": 0.656
+      },
+      {
+        "text": "was",
+        "start": 234.27,
+        "end": 234.45,
+        "score": 0.998
+      },
+      {
+        "text": "five",
+        "start": 234.53,
+        "end": 234.85,
+        "score": 0.983
+      },
+      {
+        "text": "cubits",
+        "start": 234.91,
+        "end": 235.25,
+        "score": 0.826
+      },
+      {
+        "text": "long",
+        "start": 235.35,
+        "end": 235.67,
+        "score": 0.98
+      },
+      {
+        "text": "and",
+        "start": 236.19,
+        "end": 236.29,
+        "score": 0.967
+      },
+      {
+        "text": "the",
+        "start": 236.31,
+        "end": 236.39,
+        "score": 0.995
+      },
+      {
+        "text": "other",
+        "start": 236.51,
+        "end": 236.69,
+        "score": 0.997
+      },
+      {
+        "text": "wing",
+        "start": 236.77,
+        "end": 237.03,
+        "score": 0.958
+      },
+      {
+        "text": "was",
+        "start": 237.21,
+        "end": 237.39,
+        "score": 0.998
+      },
+      {
+        "text": "five",
+        "start": 237.47,
+        "end": 237.77,
+        "score": 0.977
+      },
+      {
+        "text": "cubits",
+        "start": 237.81,
+        "end": 238.17,
+        "score": 0.834
+      },
+      {
+        "text": "long",
+        "start": 238.25,
+        "end": 238.51,
+        "score": 0.983
+      },
+      {
+        "text": "as",
+        "start": 238.67,
+        "end": 238.79,
+        "score": 0.998
+      },
+      {
+        "text": "well",
+        "start": 238.85,
+        "end": 239.17,
+        "score": 0.998
+      },
+      {
+        "text": "So",
+        "start": 239.99,
+        "end": 240.01,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 240.09,
+        "end": 240.17,
+        "score": 0.996
+      },
+      {
+        "text": "full",
+        "start": 240.23,
+        "end": 240.45,
+        "score": 0.976
+      },
+      {
+        "text": "wingspan",
+        "start": 240.53,
+        "end": 241.17,
+        "score": 0.969
+      },
+      {
+        "text": "was",
+        "start": 241.33,
+        "end": 241.49,
+        "score": 0.997
+      },
+      {
+        "text": "ten",
+        "start": 241.57,
+        "end": 241.79,
+        "score": 0.903
+      },
+      {
+        "text": "cubits",
+        "start": 241.89,
+        "end": 242.41,
+        "score": 0.838
+      }
+    ],
+    "25": [
+      {
+        "text": "The",
+        "start": 243.25,
+        "end": 243.33,
+        "score": 0.969
+      },
+      {
+        "text": "second",
+        "start": 243.41,
+        "end": 243.73,
+        "score": 0.986
+      },
+      {
+        "text": "cherub",
+        "start": 243.85,
+        "end": 244.19,
+        "score": 0.647
+      },
+      {
+        "text": "also",
+        "start": 244.41,
+        "end": 244.69,
+        "score": 0.999
+      },
+      {
+        "text": "measured",
+        "start": 244.81,
+        "end": 245.19,
+        "score": 0.972
+      },
+      {
+        "text": "ten",
+        "start": 245.25,
+        "end": 245.45,
+        "score": 0.965
+      },
+      {
+        "text": "cubits",
+        "start": 245.55,
+        "end": 246.05,
+        "score": 0.837
+      },
+      {
+        "text": "both",
+        "start": 246.69,
+        "end": 246.93,
+        "score": 0.998
+      },
+      {
+        "text": "cherubim",
+        "start": 246.99,
+        "end": 247.47,
+        "score": 0.741
+      },
+      {
+        "text": "had",
+        "start": 247.81,
+        "end": 247.99,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 248.03,
+        "end": 248.13,
+        "score": 0.986
+      },
+      {
+        "text": "same",
+        "start": 248.23,
+        "end": 248.53,
+        "score": 0.894
+      },
+      {
+        "text": "size",
+        "start": 248.61,
+        "end": 249.03,
+        "score": 0.838
+      },
+      {
+        "text": "and",
+        "start": 249.13,
+        "end": 249.25,
+        "score": 0.992
+      },
+      {
+        "text": "shape",
+        "start": 249.33,
+        "end": 249.71,
+        "score": 0.959
+      }
+    ],
+    "26": [
+      {
+        "text": "and",
+        "start": 250.29,
+        "end": 250.39,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 250.43,
+        "end": 250.49,
+        "score": 0.992
+      },
+      {
+        "text": "height",
+        "start": 250.57,
+        "end": 250.87,
+        "score": 0.741
+      },
+      {
+        "text": "of",
+        "start": 250.95,
+        "end": 251.03,
+        "score": 0.997
+      },
+      {
+        "text": "each",
+        "start": 251.19,
+        "end": 251.37,
+        "score": 0.965
+      },
+      {
+        "text": "cherub",
+        "start": 251.45,
+        "end": 251.83,
+        "score": 0.669
+      },
+      {
+        "text": "was",
+        "start": 252.05,
+        "end": 252.21,
+        "score": 0.997
+      },
+      {
+        "text": "ten",
+        "start": 252.31,
+        "end": 252.55,
+        "score": 0.911
+      },
+      {
+        "text": "cubits",
+        "start": 252.67,
+        "end": 253.19,
+        "score": 0.839
+      }
+    ],
+    "27": [
+      {
+        "text": "And",
+        "start": 254.31,
+        "end": 254.37,
+        "score": 0.999
+      },
+      {
+        "text": "he",
+        "start": 254.41,
+        "end": 254.47,
+        "score": 0.908
+      },
+      {
+        "text": "placed",
+        "start": 254.55,
+        "end": 254.89,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 254.91,
+        "end": 254.99,
+        "score": 0.975
+      },
+      {
+        "text": "cherubim",
+        "start": 255.03,
+        "end": 255.51,
+        "score": 0.737
+      },
+      {
+        "text": "inside",
+        "start": 255.73,
+        "end": 256.21,
+        "score": 0.987
+      },
+      {
+        "text": "the",
+        "start": 256.21,
+        "end": 256.31,
+        "score": 0.989
+      },
+      {
+        "text": "innermost",
+        "start": 256.43,
+        "end": 256.95,
+        "score": 0.965
+      },
+      {
+        "text": "room",
+        "start": 257.05,
+        "end": 257.29,
+        "score": 0.998
+      },
+      {
+        "text": "of",
+        "start": 257.37,
+        "end": 257.43,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 257.47,
+        "end": 257.57,
+        "score": 0.973
+      },
+      {
+        "text": "temple",
+        "start": 257.61,
+        "end": 258.01,
+        "score": 0.999
+      },
+      {
+        "text": "Since",
+        "start": 258.91,
+        "end": 259.07,
+        "score": 1.0
+      },
+      {
+        "text": "their",
+        "start": 259.09,
+        "end": 259.25,
+        "score": 0.943
+      },
+      {
+        "text": "wings",
+        "start": 259.35,
+        "end": 259.63,
+        "score": 0.959
+      },
+      {
+        "text": "were",
+        "start": 259.67,
+        "end": 259.83,
+        "score": 0.975
+      },
+      {
+        "text": "spread",
+        "start": 259.85,
+        "end": 260.15,
+        "score": 0.853
+      },
+      {
+        "text": "out",
+        "start": 260.23,
+        "end": 260.43,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 260.81,
+        "end": 260.89,
+        "score": 0.937
+      },
+      {
+        "text": "wing",
+        "start": 260.95,
+        "end": 261.19,
+        "score": 0.948
+      },
+      {
+        "text": "of",
+        "start": 261.35,
+        "end": 261.45,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 261.51,
+        "end": 261.59,
+        "score": 0.998
+      },
+      {
+        "text": "first",
+        "start": 261.65,
+        "end": 261.93,
+        "score": 0.944
+      },
+      {
+        "text": "cherub",
+        "start": 261.97,
+        "end": 262.31,
+        "score": 0.665
+      },
+      {
+        "text": "touched",
+        "start": 262.43,
+        "end": 262.77,
+        "score": 0.996
+      },
+      {
+        "text": "one",
+        "start": 262.89,
+        "end": 263.05,
+        "score": 0.997
+      },
+      {
+        "text": "wall",
+        "start": 263.11,
+        "end": 263.47,
+        "score": 0.972
+      },
+      {
+        "text": "while",
+        "start": 263.91,
+        "end": 264.19,
+        "score": 0.974
+      },
+      {
+        "text": "the",
+        "start": 264.21,
+        "end": 264.29,
+        "score": 0.998
+      },
+      {
+        "text": "wing",
+        "start": 264.35,
+        "end": 264.55,
+        "score": 1.0
+      },
+      {
+        "text": "of",
+        "start": 264.61,
+        "end": 264.67,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 264.71,
+        "end": 264.79,
+        "score": 0.959
+      },
+      {
+        "text": "second",
+        "start": 264.89,
+        "end": 265.23,
+        "score": 0.99
+      },
+      {
+        "text": "cherub",
+        "start": 265.29,
+        "end": 265.63,
+        "score": 0.653
+      },
+      {
+        "text": "touched",
+        "start": 265.75,
+        "end": 266.05,
+        "score": 0.979
+      },
+      {
+        "text": "the",
+        "start": 266.07,
+        "end": 266.15,
+        "score": 0.915
+      },
+      {
+        "text": "other",
+        "start": 266.25,
+        "end": 266.45,
+        "score": 0.994
+      },
+      {
+        "text": "wall",
+        "start": 266.51,
+        "end": 266.79,
+        "score": 0.961
+      },
+      {
+        "text": "and",
+        "start": 267.43,
+        "end": 267.55,
+        "score": 0.936
+      },
+      {
+        "text": "in",
+        "start": 267.65,
+        "end": 267.73,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 267.77,
+        "end": 267.85,
+        "score": 0.94
+      },
+      {
+        "text": "middle",
+        "start": 267.89,
+        "end": 268.15,
+        "score": 0.991
+      },
+      {
+        "text": "of",
+        "start": 268.19,
+        "end": 268.25,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 268.27,
+        "end": 268.35,
+        "score": 0.966
+      },
+      {
+        "text": "room",
+        "start": 268.43,
+        "end": 268.67,
+        "score": 0.997
+      },
+      {
+        "text": "their",
+        "start": 269.03,
+        "end": 269.17,
+        "score": 0.936
+      },
+      {
+        "text": "wingtips",
+        "start": 269.27,
+        "end": 269.89,
+        "score": 0.977
+      },
+      {
+        "text": "touched",
+        "start": 269.97,
+        "end": 270.45,
+        "score": 0.969
+      }
+    ],
+    "28": [
+      {
+        "text": "He",
+        "start": 271.33,
+        "end": 271.35,
+        "score": 0.992
+      },
+      {
+        "text": "also",
+        "start": 271.53,
+        "end": 271.81,
+        "score": 0.999
+      },
+      {
+        "text": "overlaid",
+        "start": 272.01,
+        "end": 272.49,
+        "score": 0.967
+      },
+      {
+        "text": "the",
+        "start": 272.51,
+        "end": 272.61,
+        "score": 0.957
+      },
+      {
+        "text": "cherubim",
+        "start": 272.65,
+        "end": 273.15,
+        "score": 0.738
+      },
+      {
+        "text": "with",
+        "start": 273.33,
+        "end": 273.51,
+        "score": 0.947
+      },
+      {
+        "text": "gold",
+        "start": 273.55,
+        "end": 274.03,
+        "score": 0.937
+      }
+    ],
+    "29": [
+      {
+        "text": "Then",
+        "start": 275.17,
+        "end": 275.35,
+        "score": 0.996
+      },
+      {
+        "text": "he",
+        "start": 275.45,
+        "end": 275.53,
+        "score": 0.924
+      },
+      {
+        "text": "carved",
+        "start": 275.63,
+        "end": 275.97,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 275.99,
+        "end": 276.07,
+        "score": 0.996
+      },
+      {
+        "text": "walls",
+        "start": 276.13,
+        "end": 276.55,
+        "score": 0.952
+      },
+      {
+        "text": "all",
+        "start": 276.75,
+        "end": 276.85,
+        "score": 0.942
+      },
+      {
+        "text": "around",
+        "start": 276.89,
+        "end": 277.25,
+        "score": 0.959
+      },
+      {
+        "text": "the",
+        "start": 277.27,
+        "end": 277.37,
+        "score": 0.947
+      },
+      {
+        "text": "temple",
+        "start": 277.43,
+        "end": 277.83,
+        "score": 0.992
+      },
+      {
+        "text": "in",
+        "start": 278.19,
+        "end": 278.27,
+        "score": 0.999
+      },
+      {
+        "text": "both",
+        "start": 278.33,
+        "end": 278.59,
+        "score": 0.992
+      },
+      {
+        "text": "the",
+        "start": 278.63,
+        "end": 278.75,
+        "score": 0.965
+      },
+      {
+        "text": "inner",
+        "start": 278.91,
+        "end": 279.15,
+        "score": 0.943
+      },
+      {
+        "text": "and",
+        "start": 279.31,
+        "end": 279.43,
+        "score": 0.995
+      },
+      {
+        "text": "outer",
+        "start": 279.55,
+        "end": 279.79,
+        "score": 0.983
+      },
+      {
+        "text": "sanctuaries",
+        "start": 279.87,
+        "end": 280.59,
+        "score": 0.968
+      },
+      {
+        "text": "with",
+        "start": 281.03,
+        "end": 281.19,
+        "score": 0.999
+      },
+      {
+        "text": "carved",
+        "start": 281.25,
+        "end": 281.63,
+        "score": 0.999
+      },
+      {
+        "text": "engravings",
+        "start": 281.67,
+        "end": 282.29,
+        "score": 0.889
+      },
+      {
+        "text": "of",
+        "start": 282.41,
+        "end": 282.49,
+        "score": 0.999
+      },
+      {
+        "text": "cherubim",
+        "start": 282.57,
+        "end": 283.09,
+        "score": 0.735
+      },
+      {
+        "text": "palm",
+        "start": 283.47,
+        "end": 283.75,
+        "score": 0.998
+      },
+      {
+        "text": "trees",
+        "start": 283.83,
+        "end": 284.23,
+        "score": 0.986
+      },
+      {
+        "text": "and",
+        "start": 284.43,
+        "end": 284.55,
+        "score": 0.997
+      },
+      {
+        "text": "open",
+        "start": 284.67,
+        "end": 284.89,
+        "score": 0.999
+      },
+      {
+        "text": "flowers",
+        "start": 284.95,
+        "end": 285.53,
+        "score": 0.935
+      }
+    ],
+    "30": [
+      {
+        "text": "And",
+        "start": 286.41,
+        "end": 286.47,
+        "score": 0.999
+      },
+      {
+        "text": "he",
+        "start": 286.51,
+        "end": 286.57,
+        "score": 0.999
+      },
+      {
+        "text": "overlaid",
+        "start": 286.73,
+        "end": 287.19,
+        "score": 0.982
+      },
+      {
+        "text": "the",
+        "start": 287.23,
+        "end": 287.31,
+        "score": 0.997
+      },
+      {
+        "text": "temple",
+        "start": 287.39,
+        "end": 287.73,
+        "score": 0.999
+      },
+      {
+        "text": "floor",
+        "start": 287.79,
+        "end": 288.13,
+        "score": 0.947
+      },
+      {
+        "text": "with",
+        "start": 288.43,
+        "end": 288.61,
+        "score": 0.995
+      },
+      {
+        "text": "gold",
+        "start": 288.69,
+        "end": 289.13,
+        "score": 0.989
+      },
+      {
+        "text": "in",
+        "start": 289.47,
+        "end": 289.55,
+        "score": 0.999
+      },
+      {
+        "text": "both",
+        "start": 289.59,
+        "end": 289.81,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 289.85,
+        "end": 289.95,
+        "score": 0.965
+      },
+      {
+        "text": "inner",
+        "start": 290.09,
+        "end": 290.31,
+        "score": 0.992
+      },
+      {
+        "text": "and",
+        "start": 290.47,
+        "end": 290.59,
+        "score": 0.996
+      },
+      {
+        "text": "outer",
+        "start": 290.71,
+        "end": 290.95,
+        "score": 0.979
+      },
+      {
+        "text": "sanctuaries",
+        "start": 291.03,
+        "end": 291.83,
+        "score": 0.968
+      }
+    ],
+    "31": [
+      {
+        "text": "For",
+        "start": 292.97,
+        "end": 293.05,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 293.07,
+        "end": 293.17,
+        "score": 0.925
+      },
+      {
+        "text": "entrance",
+        "start": 293.29,
+        "end": 293.71,
+        "score": 0.983
+      },
+      {
+        "text": "to",
+        "start": 293.75,
+        "end": 293.85,
+        "score": 0.997
+      },
+      {
+        "text": "the",
+        "start": 293.91,
+        "end": 294.01,
+        "score": 0.984
+      },
+      {
+        "text": "inner",
+        "start": 294.19,
+        "end": 294.37,
+        "score": 0.987
+      },
+      {
+        "text": "sanctuary",
+        "start": 294.47,
+        "end": 295.11,
+        "score": 0.98
+      },
+      {
+        "text": "Solomon",
+        "start": 295.69,
+        "end": 296.03,
+        "score": 0.984
+      },
+      {
+        "text": "constructed",
+        "start": 296.07,
+        "end": 296.67,
+        "score": 0.981
+      },
+      {
+        "text": "doors",
+        "start": 296.73,
+        "end": 297.07,
+        "score": 0.995
+      },
+      {
+        "text": "of",
+        "start": 297.13,
+        "end": 297.21,
+        "score": 0.999
+      },
+      {
+        "text": "olive",
+        "start": 297.39,
+        "end": 297.67,
+        "score": 0.982
+      },
+      {
+        "text": "wood",
+        "start": 297.71,
+        "end": 297.95,
+        "score": 0.962
+      },
+      {
+        "text": "with",
+        "start": 298.21,
+        "end": 298.39,
+        "score": 0.947
+      },
+      {
+        "text": "five",
+        "start": 298.45,
+        "end": 298.77,
+        "score": 0.959
+      },
+      {
+        "text": "sided",
+        "start": 298.83,
+        "end": 299.17,
+        "score": 0.911
+      },
+      {
+        "text": "doorposts",
+        "start": 299.23,
+        "end": 299.97,
+        "score": 0.905
+      }
+    ],
+    "32": [
+      {
+        "text": "The",
+        "start": 300.83,
+        "end": 300.89,
+        "score": 0.796
+      },
+      {
+        "text": "double",
+        "start": 300.97,
+        "end": 301.27,
+        "score": 0.83
+      },
+      {
+        "text": "doors",
+        "start": 301.33,
+        "end": 301.73,
+        "score": 0.947
+      },
+      {
+        "text": "were",
+        "start": 301.83,
+        "end": 301.97,
+        "score": 0.998
+      },
+      {
+        "text": "made",
+        "start": 302.01,
+        "end": 302.21,
+        "score": 0.984
+      },
+      {
+        "text": "of",
+        "start": 302.23,
+        "end": 302.29,
+        "score": 0.999
+      },
+      {
+        "text": "olive",
+        "start": 302.45,
+        "end": 302.73,
+        "score": 0.998
+      },
+      {
+        "text": "wood",
+        "start": 302.77,
+        "end": 303.05,
+        "score": 0.937
+      },
+      {
+        "text": "and",
+        "start": 303.57,
+        "end": 303.67,
+        "score": 0.999
+      },
+      {
+        "text": "he",
+        "start": 303.69,
+        "end": 303.75,
+        "score": 0.996
+      },
+      {
+        "text": "carved",
+        "start": 303.85,
+        "end": 304.21,
+        "score": 1.0
+      },
+      {
+        "text": "into",
+        "start": 304.25,
+        "end": 304.47,
+        "score": 0.998
+      },
+      {
+        "text": "them",
+        "start": 304.53,
+        "end": 304.77,
+        "score": 0.958
+      },
+      {
+        "text": "cherubim",
+        "start": 305.01,
+        "end": 305.55,
+        "score": 0.708
+      },
+      {
+        "text": "palm",
+        "start": 305.87,
+        "end": 306.13,
+        "score": 0.98
+      },
+      {
+        "text": "trees",
+        "start": 306.21,
+        "end": 306.57,
+        "score": 0.978
+      },
+      {
+        "text": "and",
+        "start": 306.73,
+        "end": 306.87,
+        "score": 0.991
+      },
+      {
+        "text": "open",
+        "start": 306.99,
+        "end": 307.21,
+        "score": 0.999
+      },
+      {
+        "text": "flowers",
+        "start": 307.27,
+        "end": 307.85,
+        "score": 0.904
+      },
+      {
+        "text": "and",
+        "start": 308.41,
+        "end": 308.53,
+        "score": 0.96
+      },
+      {
+        "text": "overlaid",
+        "start": 308.65,
+        "end": 309.11,
+        "score": 0.974
+      },
+      {
+        "text": "the",
+        "start": 309.15,
+        "end": 309.23,
+        "score": 0.996
+      },
+      {
+        "text": "cherubim",
+        "start": 309.29,
+        "end": 309.79,
+        "score": 0.733
+      },
+      {
+        "text": "and",
+        "start": 309.95,
+        "end": 310.07,
+        "score": 0.997
+      },
+      {
+        "text": "palm",
+        "start": 310.15,
+        "end": 310.41,
+        "score": 0.998
+      },
+      {
+        "text": "trees",
+        "start": 310.47,
+        "end": 310.83,
+        "score": 0.954
+      },
+      {
+        "text": "with",
+        "start": 311.01,
+        "end": 311.17,
+        "score": 0.967
+      },
+      {
+        "text": "hammered",
+        "start": 311.21,
+        "end": 311.57,
+        "score": 0.892
+      },
+      {
+        "text": "gold",
+        "start": 311.61,
+        "end": 312.05,
+        "score": 0.947
+      }
+    ],
+    "33": [
+      {
+        "text": "In",
+        "start": 313.23,
+        "end": 313.25,
+        "score": 0.999
+      },
+      {
+        "text": "the",
+        "start": 313.27,
+        "end": 313.37,
+        "score": 0.996
+      },
+      {
+        "text": "same",
+        "start": 313.45,
+        "end": 313.71,
+        "score": 1.0
+      },
+      {
+        "text": "way",
+        "start": 313.77,
+        "end": 313.99,
+        "score": 1.0
+      },
+      {
+        "text": "he",
+        "start": 314.37,
+        "end": 314.45,
+        "score": 0.996
+      },
+      {
+        "text": "made",
+        "start": 314.55,
+        "end": 314.79,
+        "score": 0.997
+      },
+      {
+        "text": "four",
+        "start": 314.87,
+        "end": 315.09,
+        "score": 0.946
+      },
+      {
+        "text": "sided",
+        "start": 315.19,
+        "end": 315.53,
+        "score": 0.861
+      },
+      {
+        "text": "doorposts",
+        "start": 315.59,
+        "end": 316.27,
+        "score": 0.933
+      },
+      {
+        "text": "of",
+        "start": 316.31,
+        "end": 316.39,
+        "score": 0.999
+      },
+      {
+        "text": "olive",
+        "start": 316.57,
+        "end": 316.85,
+        "score": 0.968
+      },
+      {
+        "text": "wood",
+        "start": 316.87,
+        "end": 317.09,
+        "score": 0.998
+      },
+      {
+        "text": "for",
+        "start": 317.41,
+        "end": 317.55,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 317.59,
+        "end": 317.67,
+        "score": 0.995
+      },
+      {
+        "text": "sanctuary",
+        "start": 317.77,
+        "end": 318.39,
+        "score": 0.999
+      },
+      {
+        "text": "entrance",
+        "start": 318.53,
+        "end": 319.07,
+        "score": 0.969
+      }
+    ],
+    "34": [
+      {
+        "text": "The",
+        "start": 319.83,
+        "end": 319.91,
+        "score": 0.982
+      },
+      {
+        "text": "two",
+        "start": 319.99,
+        "end": 320.17,
+        "score": 0.999
+      },
+      {
+        "text": "doors",
+        "start": 320.25,
+        "end": 320.65,
+        "score": 0.982
+      },
+      {
+        "text": "were",
+        "start": 320.71,
+        "end": 320.85,
+        "score": 0.999
+      },
+      {
+        "text": "made",
+        "start": 320.87,
+        "end": 321.09,
+        "score": 0.999
+      },
+      {
+        "text": "of",
+        "start": 321.11,
+        "end": 321.19,
+        "score": 0.999
+      },
+      {
+        "text": "cypress",
+        "start": 321.29,
+        "end": 321.77,
+        "score": 0.711
+      },
+      {
+        "text": "wood",
+        "start": 321.79,
+        "end": 322.03,
+        "score": 1.0
+      },
+      {
+        "text": "and",
+        "start": 322.53,
+        "end": 322.65,
+        "score": 0.999
+      },
+      {
+        "text": "each",
+        "start": 322.77,
+        "end": 322.97,
+        "score": 0.999
+      },
+      {
+        "text": "had",
+        "start": 323.03,
+        "end": 323.23,
+        "score": 0.994
+      },
+      {
+        "text": "two",
+        "start": 323.33,
+        "end": 323.53,
+        "score": 0.999
+      },
+      {
+        "text": "folding",
+        "start": 323.67,
+        "end": 324.09,
+        "score": 1.0
+      },
+      {
+        "text": "panels",
+        "start": 324.15,
+        "end": 324.73,
+        "score": 0.987
+      }
+    ],
+    "35": [
+      {
+        "text": "He",
+        "start": 325.61,
+        "end": 325.63,
+        "score": 0.999
+      },
+      {
+        "text": "carved",
+        "start": 325.73,
+        "end": 326.09,
+        "score": 0.974
+      },
+      {
+        "text": "into",
+        "start": 326.19,
+        "end": 326.37,
+        "score": 0.999
+      },
+      {
+        "text": "them",
+        "start": 326.43,
+        "end": 326.63,
+        "score": 0.999
+      },
+      {
+        "text": "cherubim",
+        "start": 326.87,
+        "end": 327.41,
+        "score": 0.735
+      },
+      {
+        "text": "palm",
+        "start": 327.65,
+        "end": 327.91,
+        "score": 0.998
+      },
+      {
+        "text": "trees",
+        "start": 327.99,
+        "end": 328.35,
+        "score": 0.979
+      },
+      {
+        "text": "and",
+        "start": 328.65,
+        "end": 328.77,
+        "score": 0.999
+      },
+      {
+        "text": "open",
+        "start": 328.87,
+        "end": 329.09,
+        "score": 1.0
+      },
+      {
+        "text": "flowers",
+        "start": 329.17,
+        "end": 329.75,
+        "score": 0.901
+      },
+      {
+        "text": "and",
+        "start": 330.27,
+        "end": 330.43,
+        "score": 0.999
+      },
+      {
+        "text": "he",
+        "start": 330.47,
+        "end": 330.55,
+        "score": 0.974
+      },
+      {
+        "text": "overlaid",
+        "start": 330.69,
+        "end": 331.19,
+        "score": 0.963
+      },
+      {
+        "text": "them",
+        "start": 331.23,
+        "end": 331.39,
+        "score": 0.952
+      },
+      {
+        "text": "with",
+        "start": 331.49,
+        "end": 331.65,
+        "score": 0.999
+      },
+      {
+        "text": "gold",
+        "start": 331.69,
+        "end": 332.11,
+        "score": 0.996
+      },
+      {
+        "text": "hammered",
+        "start": 332.55,
+        "end": 332.93,
+        "score": 0.896
+      },
+      {
+        "text": "evenly",
+        "start": 333.13,
+        "end": 333.53,
+        "score": 0.992
+      },
+      {
+        "text": "over",
+        "start": 333.79,
+        "end": 333.99,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 334.03,
+        "end": 334.11,
+        "score": 0.998
+      },
+      {
+        "text": "carvings",
+        "start": 334.17,
+        "end": 335.95,
+        "score": 0.993
+      }
+    ],
+    "36": [
+      {
+        "text": "Solomon",
+        "start": 336.01,
+        "end": 336.33,
+        "score": 0.997
+      },
+      {
+        "text": "built",
+        "start": 336.43,
+        "end": 336.67,
+        "score": 0.955
+      },
+      {
+        "text": "the",
+        "start": 336.75,
+        "end": 336.87,
+        "score": 0.951
+      },
+      {
+        "text": "inner",
+        "start": 337.01,
+        "end": 337.21,
+        "score": 0.982
+      },
+      {
+        "text": "courtyard",
+        "start": 337.29,
+        "end": 337.89,
+        "score": 0.902
+      },
+      {
+        "text": "with",
+        "start": 338.19,
+        "end": 338.37,
+        "score": 0.984
+      },
+      {
+        "text": "three",
+        "start": 338.41,
+        "end": 338.67,
+        "score": 0.997
+      },
+      {
+        "text": "rows",
+        "start": 338.77,
+        "end": 339.09,
+        "score": 0.863
+      },
+      {
+        "text": "of",
+        "start": 339.25,
+        "end": 339.33,
+        "score": 0.999
+      },
+      {
+        "text": "dressed",
+        "start": 339.41,
+        "end": 339.77,
+        "score": 0.986
+      },
+      {
+        "text": "stone",
+        "start": 339.85,
+        "end": 340.27,
+        "score": 0.999
+      },
+      {
+        "text": "and",
+        "start": 340.75,
+        "end": 340.87,
+        "score": 0.978
+      },
+      {
+        "text": "one",
+        "start": 341.01,
+        "end": 341.17,
+        "score": 0.986
+      },
+      {
+        "text": "row",
+        "start": 341.23,
+        "end": 341.45,
+        "score": 0.964
+      },
+      {
+        "text": "of",
+        "start": 341.63,
+        "end": 341.75,
+        "score": 0.998
+      },
+      {
+        "text": "trimmed",
+        "start": 341.83,
+        "end": 342.19,
+        "score": 0.823
+      },
+      {
+        "text": "cedar",
+        "start": 342.31,
+        "end": 342.61,
+        "score": 0.634
+      },
+      {
+        "text": "beams",
+        "start": 342.69,
+        "end": 343.19,
+        "score": 0.962
+      }
+    ],
+    "37": [
+      {
+        "text": "The",
+        "start": 344.01,
+        "end": 344.09,
+        "score": 0.938
+      },
+      {
+        "text": "foundation",
+        "start": 344.11,
+        "end": 344.77,
+        "score": 0.996
+      },
+      {
+        "text": "of",
+        "start": 344.89,
+        "end": 344.95,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 344.99,
+        "end": 345.07,
+        "score": 0.939
+      },
+      {
+        "text": "house",
+        "start": 345.13,
+        "end": 345.41,
+        "score": 0.992
+      },
+      {
+        "text": "of",
+        "start": 345.43,
+        "end": 345.49,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 345.51,
+        "end": 345.59,
+        "score": 0.992
+      },
+      {
+        "text": "LORD",
+        "start": 345.59,
+        "end": 358.17,
+        "score": 1.0
+      },
+      {
+        "text": "was",
+        "start": 358.17,
+        "end": 358.27,
+        "score": 0.333
+      },
+      {
+        "text": "laid",
+        "start": 358.31,
+        "end": 358.51,
+        "score": 0.25
+      },
+      {
+        "text": "in",
+        "start": 358.53,
+        "end": 358.57,
+        "score": 1.0
+      },
+      {
+        "text": "the",
+        "start": 358.65,
+        "end": 358.89,
+        "score": 0.666
+      },
+      {
+        "text": "fourth",
+        "start": 358.95,
+        "end": 359.19,
+        "score": 0.167
+      },
+      {
+        "text": "year",
+        "start": 359.25,
+        "end": 359.41,
+        "score": 0.25
+      },
+      {
+        "text": "of",
+        "start": 359.47,
+        "end": 359.53,
+        "score": 0.5
+      },
+      {
+        "text": "Solomon",
+        "start": 359.57,
+        "end": 360.05,
+        "score": 0.333
+      },
+      {
+        "text": "s",
+        "start": 360.81,
+        "end": 360.83,
+        "score": 0.999
+      },
+      {
+        "text": "reign",
+        "start": 361.01,
+        "end": 361.31,
+        "score": 0.2
+      },
+      {
+        "text": "in",
+        "start": 361.31,
+        "end": 361.39,
+        "score": 0.472
+      },
+      {
+        "text": "the",
+        "start": 361.43,
+        "end": 361.65,
+        "score": 0.998
+      },
+      {
+        "text": "month",
+        "start": 361.71,
+        "end": 362.03,
+        "score": 0.0
+      },
+      {
+        "text": "of",
+        "start": 362.07,
+        "end": 362.11,
+        "score": 0.0
+      },
+      {
+        "text": "Ziv",
+        "start": 362.37,
+        "end": 362.45,
+        "score": 0.499
+      }
+    ],
+    "38": [
+      {
+        "text": "In",
+        "start": 362.45,
+        "end": 362.47,
+        "score": 0.998
+      },
+      {
+        "text": "the",
+        "start": 362.47,
+        "end": 362.55,
+        "score": 0.0
+      },
+      {
+        "text": "eleventh",
+        "start": 362.59,
+        "end": 362.95,
+        "score": 0.499
+      },
+      {
+        "text": "year",
+        "start": 362.99,
+        "end": 363.27,
+        "score": 0.998
+      },
+      {
+        "text": "in",
+        "start": 363.45,
+        "end": 363.49,
+        "score": 0.0
+      },
+      {
+        "text": "the",
+        "start": 363.63,
+        "end": 363.69,
+        "score": 0.0
+      },
+      {
+        "text": "month",
+        "start": 363.69,
+        "end": 364.85,
+        "score": 0.0
+      },
+      {
+        "text": "of",
+        "start": 365.07,
+        "end": 365.15,
+        "score": 0.0
+      },
+      {
+        "text": "Bul",
+        "start": 365.19,
+        "end": 365.23,
+        "score": 0.0
+      }
+    ]
+  }
+}
